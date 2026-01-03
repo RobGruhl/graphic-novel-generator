@@ -72,10 +72,7 @@ Create page JSON files in `data/pages/`:
       "panel_num": 1,
       "visual": "Detailed scene description for the artist...",
       "dialogue": "Character: \"Spoken text here.\"",
-      "characters": {
-        "HeroName": "Contextual description for THIS panel..."
-      },
-      "npcs": {},
+      "characters": ["HeroName", "MentorName"],
       "location": "LocationKey",
       "aspect_ratio": "3:4",
       "size": "768x1024"
@@ -136,12 +133,7 @@ for f in output/pages/*.png; do cwebp -q 85 "$f" -o "${f%.png}.webp"; done
       "annotation": "Tall",
       "visual": "Detailed description of what the panel shows...",
       "dialogue": "Speaker: \"Dialogue text.\" Other: \"Response.\"",
-      "characters": {
-        "CharacterKey": "Character description for THIS specific panel context"
-      },
-      "npcs": {
-        "NPCKey": "NPC description if any"
-      },
+      "characters": ["CharacterKey", "CharacterKey.Variant"],
       "location": "LocationKey",
       "aspect_ratio": "3:4",
       "size": "768x1024"
@@ -149,6 +141,8 @@ for f in output/pages/*.png; do cwebp -q 85 "$f" -o "${f%.png}.webp"; done
   ]
 }
 ```
+
+**Note:** `characters` can be a list (database lookup) or dict (embedded descriptions). List is preferred.
 
 ### Character Entry (`data/characters.json`)
 
@@ -189,25 +183,47 @@ for f in output/pages/*.png; do cwebp -q 85 "$f" -o "${f%.png}.webp"; done
 
 ## Critical Best Practices
 
-### 1. EMBED Character Descriptions in Panels
+### 1. Centralized Descriptions with Dynamic Lookup
 
-**BAD** - Empty dict means no descriptions in prompt:
+Descriptions are written ONCE in `data/characters.json` and `data/locations.json`, then pulled in dynamically at generation time.
+
+**In page panels, use a LIST of character keys (not embedded descriptions):**
+
 ```json
 {
-  "visual": "Hero battles the dragon",
-  "characters": {}
+  "visual": "Hero battles the dragon in formal attire",
+  "characters": ["Hero.Formal", "Dragon"],
+  "location": "ThroneRoom"
 }
 ```
 
-**GOOD** - Embedded descriptions for consistency:
+The generator looks up `Hero.Formal` and `Dragon` from `characters.json` and assembles the prompt dynamically.
+
+**BAD** - Empty characters means no descriptions in prompt:
 ```json
 {
   "visual": "Hero battles the dragon",
+  "characters": []
+}
+```
+
+**GOOD** - Dynamic lookup from database:
+```json
+{
+  "visual": "Hero battles the dragon",
+  "characters": ["Hero", "Dragon"]
+}
+```
+
+**Note:** The generator also supports dict syntax with embedded descriptions for one-off overrides:
+```json
+{
   "characters": {
-    "Hero": "Young warrior with bright eyes, leather armor, wielding a glowing sword. Determined expression, battle stance."
+    "Hero": "Custom description for this specific panel only..."
   }
 }
 ```
+Use the list syntax (database lookup) by default. Use dict syntax only when you need a unique description that doesn't belong in the database.
 
 ### 2. Aspect Ratios for Grid Layouts
 
@@ -231,19 +247,55 @@ The generator maps these automatically:
 
 The generator builds prompts from:
 1. **Style** (`style.json`) - Applied to ALL panels
-2. **Location** - Only if `location` field points to key in `locations.json`
-3. **Characters** - From panel's `characters` dict (embedded preferred)
+2. **Location** - Looked up from `locations.json` using the `location` key
+3. **Characters** - Two modes:
+   - **List** (preferred): `["Hero", "Villain"]` → looks up each from `characters.json`
+   - **Dict** (override): `{"Hero": "custom desc..."}` → uses embedded description
 4. **Visual** - The scene description
 5. **Dialogue** - Triggers speech bubble instructions
 
 ### 5. Iterating on Descriptions
 
 If generated images don't match expectations:
-1. Update character descriptions in the page JSON
+1. Update the character/location description in the database
 2. Be more specific about visual details
 3. Regenerate just that panel:
    - Delete `output/panels/page-XXX-panel-Y*.png`
    - Run generator again for that page
+
+### 6. Character and Location Variants
+
+Use **dot notation** for character/location variants (different outfits, states, transformations):
+
+```
+Base character: Hero
+Formal outfit:  Hero.Formal
+Injured state:  Hero.Injured
+Transformed:    Hero.Transformed
+```
+
+Each variant is a **complete, standalone entry** in the database - not a partial override.
+
+**Common variant types:**
+| Category | Examples | Use For |
+|----------|----------|---------|
+| Outfits | `.Formal`, `.Casual`, `.Battle`, `.Ceremonial` | Different clothing/armor |
+| States | `.Injured`, `.Exhausted`, `.Triumphant` | Physical conditions |
+| Transformations | `.Transformed`, `.Corrupted`, `.Glowing` | Magical changes |
+| Timeline | `.Young`, `.Old`, `.Flashback` | Age/time differences |
+
+**When to create a variant vs modify base:**
+- **New variant:** Character appears significantly different (new outfit, injured, transformed)
+- **Modify base:** Minor tweaks to improve generation consistency
+
+**In page panels, reference variants by full key:**
+```json
+{
+  "visual": "Hero arrives at the royal ball",
+  "characters": ["Hero.Formal", "Princess"],
+  "location": "ThroneRoom.Decorated"
+}
+```
 
 ---
 

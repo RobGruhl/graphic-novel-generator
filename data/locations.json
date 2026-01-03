@@ -3,10 +3,13 @@
     "description": "Location definitions for scene generation. Claude Code populates this from your source material.",
     "example_key": "LocationName (no spaces, PascalCase)",
     "required_fields": ["name", "full_description", "description_components"],
+    "variant_pattern": "Use dot notation for variants: ThroneRoom, ThroneRoom.Ruined, ThroneRoom.Decorated",
     "notes": [
       "Each location needs atmosphere and lighting details for consistent scenes",
       "description_components allow flexible prompt assembly",
-      "Be specific about lighting sources - they dramatically affect mood"
+      "Be specific about lighting sources - they dramatically affect mood",
+      "Variants: Use dot notation for different states of the same location",
+      "Each variant is a complete, standalone entry - not a partial override"
     ]
   },
   "ExampleVillage": {
@@ -17,6 +20,18 @@
       "atmosphere": "Peaceful and welcoming. Quiet rural life. Smell of wood smoke and fresh bread.",
       "lighting": "Warm morning sunlight filtering through mountain mist. Long shadows from the eastern peaks.",
       "key_features": "Central well, small tavern with hanging sign, blacksmith's forge with glowing coals."
+    }
+  },
+  "ExampleVillage.Attacked": {
+    "name": "Example Village (Under Attack)",
+    "base_location": "ExampleVillage",
+    "variant_context": "During or after an attack",
+    "full_description": "The same peaceful mountain village, now in chaos. Thatched roofs burning, smoke billowing. Villagers fleeing. The central well area is a battleground.",
+    "description_components": {
+      "architecture": "Same cottages, but some roofs ablaze. Doors broken open. Cobblestone paths littered with debris. Central well overturned.",
+      "atmosphere": "Chaotic and terrifying. Screams and crackling fire. Acrid smoke fills the air.",
+      "lighting": "Orange firelight flickering against night sky. Dancing shadows. Embers floating upward.",
+      "key_features": "Burning buildings, fleeing villagers, overturned carts, broken weapons on the ground."
     }
   },
   "ExampleDungeon": {

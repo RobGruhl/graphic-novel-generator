@@ -3,10 +3,13 @@
     "description": "Character definitions for image generation. Claude Code populates this from your source material.",
     "example_key": "CharacterName (no spaces, PascalCase)",
     "required_fields": ["name", "full_description", "description_components"],
+    "variant_pattern": "Use dot notation for variants: Hero, Hero.Formal, Hero.Injured",
     "notes": [
       "Each character needs detailed visual descriptions for consistent image generation",
       "description_components are broken down for flexible prompt assembly",
-      "full_description is used for simpler prompts or when components aren't needed"
+      "full_description is used for simpler prompts or when components aren't needed",
+      "Variants: Use dot notation (Hero.Formal, Hero.Injured) for different appearances",
+      "Each variant is a complete, standalone entry - not a partial override"
     ]
   },
   "ExampleHero": {
@@ -18,6 +21,32 @@
       "body_build": "Average height, athletic build from travel. Good posture, confident stance.",
       "clothing": "Practical leather armor over a simple linen shirt. Brown traveling pants tucked into worn boots.",
       "accessories": "Worn leather backpack, wooden walking staff, small pouch at belt."
+    }
+  },
+  "ExampleHero.Formal": {
+    "name": "Example Hero (Formal)",
+    "role": "Protagonist",
+    "base_character": "ExampleHero",
+    "variant_context": "Formal event, gala, ceremony",
+    "full_description": "The same young adventurer, now dressed for a formal occasion. Bright curious eyes unchanged. Wearing elegant noble attire instead of traveling gear.",
+    "description_components": {
+      "head_face": "Young face with bright, curious eyes. Short brown hair, neatly combed. Slightly uncomfortable formal expression.",
+      "body_build": "Average height, athletic build. Standing straighter than usual, slightly stiff posture.",
+      "clothing": "Fine dark blue doublet with silver embroidery. Crisp white shirt underneath. Pressed dark trousers and polished black boots.",
+      "accessories": "Small ceremonial dagger at belt, silver chain necklace."
+    }
+  },
+  "ExampleHero.Injured": {
+    "name": "Example Hero (Injured)",
+    "role": "Protagonist",
+    "base_character": "ExampleHero",
+    "variant_context": "After battle, wounded state",
+    "full_description": "The same young adventurer showing battle damage. Bright eyes now tired and pained. Leather armor torn and bloodied, visible wounds.",
+    "description_components": {
+      "head_face": "Young face with tired, pained eyes. Short brown hair matted with sweat and dirt. Cut above left eyebrow, bruised cheek.",
+      "body_build": "Average height, athletic build. Slouched posture, favoring left side. Exhausted stance.",
+      "clothing": "Leather armor torn and dented. Linen shirt visible through tears, bloodstained. Pants muddy and ripped at knee.",
+      "accessories": "Backpack missing, walking staff broken and used as crutch, bandage wrapped around left arm."
     }
   },
   "ExampleMentor": {
