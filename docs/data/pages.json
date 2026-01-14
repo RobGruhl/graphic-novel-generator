@@ -79,7 +79,47 @@
       "thumbnail": "images/thumbnails/page-010.webp",
       "characters": ["Giovanni.Merchant"],
       "locations": ["Venice"]
+    },
+    {
+      "page": 11,
+      "title": "The Cathedral of Death",
+      "image": "images/pages/page-011.webp",
+      "thumbnail": "images/thumbnails/page-011.webp",
+      "characters": ["Rahzalahn", "Nizack"],
+      "locations": ["ChapelOfBones"]
+    },
+    {
+      "page": 12,
+      "title": "Karishkir Revealed",
+      "image": "images/pages/page-012.webp",
+      "thumbnail": "images/thumbnails/page-012.webp",
+      "characters": ["Karishkir", "Drekhlo"],
+      "locations": ["ChapelOfBones"]
+    },
+    {
+      "page": 13,
+      "title": "Battle Erupts",
+      "image": "images/pages/page-013.webp",
+      "thumbnail": "images/thumbnails/page-013.webp",
+      "characters": ["Bansi.Battle", "Gan", "Rahzalahn", "Eskil.Berserker", "Drekhlo"],
+      "locations": ["ChapelOfBones"]
+    },
+    {
+      "page": 14,
+      "title": "The Wrath of Heaven",
+      "image": "images/pages/page-014.webp",
+      "thumbnail": "images/thumbnails/page-014.webp",
+      "characters": ["Giovanni.Assassin", "Sadia", "Karishkir", "Lueduo", "Isaac"],
+      "locations": ["ChapelOfBones"]
+    },
+    {
+      "page": 15,
+      "title": "The End of Nizack",
+      "image": "images/pages/page-015.webp",
+      "thumbnail": "images/thumbnails/page-015.webp",
+      "characters": ["Karishkir", "Drekhlo", "Eskil.Berserker", "Nizack", "Rahzalahn", "Bansi.Battle", "Lueduo"],
+      "locations": ["ChapelOfBones"]
     }
   ],
-  "total": 10
+  "total": 15
 }
