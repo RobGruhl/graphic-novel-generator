@@ -26,9 +26,15 @@ PANELS_DIR = OUTPUT_DIR / "panels"
 PAGES_DIR = OUTPUT_DIR / "pages"
 CBZ_FILE = OUTPUT_DIR / "comic.cbz"
 
-# Simplified system: only 2 layouts
-# - Splash: 1 panel (full page)
-# - Grid 2x2: 4 panels (or fewer)
+# Named layout system with 8 layouts:
+# - splash: Full page (1 panel)
+# - 2-horizontal: Two stacked wide panels
+# - 2-vertical: Two side-by-side tall panels
+# - 3-top-wide: Wide top + 2 below
+# - 3-bottom-wide: 2 top + wide bottom
+# - 3-left-tall: Tall left + 2 right
+# - 3-right-tall: 2 left + tall right
+# - grid: Standard 2x2 grid
 
 
 def setup_directories():
@@ -91,14 +97,15 @@ def cleanup_variants(page_num, panels):
 
 
 def assemble_page(page_data, cleanup=False):
-    """Assemble panels into a page using simplified layout system."""
+    """Assemble panels into a page using the named layout system."""
 
     page_num = page_data['page_num']
     panels = page_data['panels']
     num_panels = len(panels)
+    layout = page_data.get('layout')  # None means auto-detect
 
-    layout_type = "splash" if num_panels == 1 else "2x2 grid"
-    print(f"\n-> Assembling page {page_num} ({num_panels} panels, {layout_type})...")
+    layout_display = layout if layout else f"auto ({num_panels} panels)"
+    print(f"\n-> Assembling page {page_num} ({num_panels} panels, layout: {layout_display})...")
 
     # Check if all panels have been selected
     missing_panels = []
@@ -123,12 +130,13 @@ def assemble_page(page_data, cleanup=False):
             placeholder = Image.new('RGB', (1024, 1536), 'gray')
             panel_images.append(placeholder)
 
-    # Use simplified layout engine
+    # Use layout engine with named layout support
     page_img = assemble_page_with_layout(
         panels_data=panels,
         panel_images=panel_images,
         page_width=PAGE_WIDTH,
-        page_height=PAGE_HEIGHT
+        page_height=PAGE_HEIGHT,
+        custom_layout=layout
     )
 
     # Save page
