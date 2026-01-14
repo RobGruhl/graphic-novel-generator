@@ -1,0 +1,56 @@
+{
+  "page_num": 46,
+  "title": "Introductions",
+  "layout": "grid",
+  "panels": [
+    {
+      "panel_num": 1,
+      "visual": "Eskil holds his hands out palms up - the gesture of surrender, of someone showing they mean no harm. His voice is calm, almost gentle through the helm. Hind watches, assessing.",
+      "dialogue": "Eskil: \"There are many tribes. Excuse bad memories.\"",
+      "narration": "",
+      "characters": [
+        "Eskil",
+        "Hind"
+      ],
+      "location": "HindsTent",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "visual": "Giovanni introduces himself, making the sign of the cross. His travel-stained robes mark him clearly as a Christian priest, a curiosity in these lands.",
+      "dialogue": "Giovanni: \"I am a priest of the Christian god - the god of Arabs and Jews also.\"",
+      "narration": "",
+      "characters": [
+        "Giovanni"
+      ],
+      "location": "HindsTent",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "visual": "Gan speaks of seeking a new family, her falcon perched on her arm. Her dog presses close to her heel. Her eyes hold old pain - a survivor of destruction seeking belonging.",
+      "dialogue": "Gan: \"I seek a new family. Mine was hunted and destroyed.\"",
+      "narration": "",
+      "characters": [
+        "Gan"
+      ],
+      "location": "HindsTent",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 4,
+      "visual": "Lueduo emerges from the shadows where he has been watching. His serpent-touched eyes catch the lamplight. He speaks little but his presence speaks volumes.",
+      "dialogue": "",
+      "narration": "Lueduo had emerged from the desert with secrets written in his silence.",
+      "characters": [
+        "Lueduo"
+      ],
+      "location": "HindsTent",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    }
+  ]
+}

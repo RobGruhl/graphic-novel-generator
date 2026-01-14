@@ -1,0 +1,59 @@
+{
+  "page_num": 49,
+  "title": "A Beginning",
+  "layout": "grid",
+  "panels": [
+    {
+      "panel_num": 1,
+      "visual": "Lueduo speaks from the shadows, his serpent-touched eyes catching firelight. His voice carries unexpected authority - he has known raiders and reavers, and Eskil is not one of them.",
+      "dialogue": "Lueduo: \"The Norseman speaks truth. I have known men who glory in destruction. He is not one of them.\"",
+      "narration": "",
+      "characters": [
+        "Lueduo"
+      ],
+      "location": "Samarkand.Night",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "visual": "Giovanni spreads his hands in a peace-making gesture, injecting levity into the tense moment. The others begin to relax around the fire.",
+      "dialogue": "Giovanni: \"We are all mad. Every one of us. But we are mad together, which is better than being mad alone.\"",
+      "narration": "",
+      "characters": [
+        "Giovanni"
+      ],
+      "location": "Samarkand.Night",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "visual": "Rahzalahn resumes playing, her music changed - still melancholy, still weighted with loss, but no longer quite so sharp. The wound is not healed, but it has been acknowledged.",
+      "dialogue": "",
+      "narration": "When she resumed playing, some minutes later, her music had changed\u2014still melancholy, but no longer quite so sharp.",
+      "characters": [
+        "Rahzalahn"
+      ],
+      "location": "Samarkand.Night",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 4,
+      "visual": "Eskil stands at the edge of the firelight, watching the stars wheel overhead. The others sit closer together now - Bansi no longer quite so separate. It is, perhaps, a beginning.",
+      "dialogue": "",
+      "narration": "The wound between them was not healed. Perhaps it never would be. But it had been acknowledged, and that was a beginning.",
+      "characters": [
+        "Eskil",
+        "Bansi",
+        "Giovanni",
+        "Gan",
+        "Lueduo"
+      ],
+      "location": "Samarkand.Night",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    }
+  ]
+}

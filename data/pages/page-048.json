@@ -1,0 +1,44 @@
+{
+  "page_num": 48,
+  "title": "Old Wounds",
+  "layout": "3-left-tall",
+  "panels": [
+    {
+      "panel_num": 1,
+      "visual": "TALL PANEL: Night around the campfire. Rahzalahn has stopped playing mid-note, her fingers frozen on the strings. She stares at Eskil with an intensity that makes the air crystallize. The firelight casts dramatic shadows across her grief-stricken face.",
+      "dialogue": "Rahzalahn: \"I know what you are. Varangian. Your people burned my village when I was seven. They took my mother. They took my sisters.\"",
+      "narration": "",
+      "characters": [
+        "Rahzalahn"
+      ],
+      "location": "Samarkand.Night",
+      "aspect_ratio": "9:16",
+      "size": "1024x1536"
+    },
+    {
+      "panel_num": 2,
+      "visual": "Giovanni rises from his seat, ready to intervene, but Bansi catches his arm. Her gesture says 'wait - let this play out.' The others watch in tense silence around the fire.",
+      "dialogue": "",
+      "narration": "The campfire had gone quiet. Giovanni rose, but Bansi caught his arm\u2014wait, the gesture said.",
+      "characters": [
+        "Giovanni",
+        "Bansi"
+      ],
+      "location": "Samarkand.Night",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "visual": "Eskil stands motionless, his face unreadable through the helm's many holes. His voice is lower than before, rougher with old pain of his own.",
+      "dialogue": "Eskil: \"I have done terrible things. Not to your people, but to others. I do not ask your forgiveness. I do not deserve it. But I am not your enemy. Not tonight.\"",
+      "narration": "",
+      "characters": [
+        "Eskil"
+      ],
+      "location": "Samarkand.Night",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    }
+  ]
+}

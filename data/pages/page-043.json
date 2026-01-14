@@ -1,61 +1,57 @@
 {
   "page_num": 43,
-  "title": "Battle Erupts",
-  "panel_count": 4,
-  "is_spread": false,
+  "title": "The Strangers Intervene",
   "layout": "grid",
   "panels": [
     {
       "panel_num": 1,
-      "annotation": "Bansi's challenge",
-      "visual": "Bansi stands at the entrance to the bone cathedral, silhouetted against the darkness behind her. Her expression is a wild, savage grin - nothing of mirth in it. Multiple blades gleam in her hands. Her stance says she is ready to dance with death itself.",
-      "dialogue": "Bansi: \"Come get a bone, little doggies.\"",
-      "narration": "",
+      "visual": "A heavy northern war-blade interposes itself between Theotomere and Giovanni. Eskil stands there, having crossed the market with the unhurried certainty of a man who expects the world to accommodate his passage. His pale blue eyes show no sympathy for either party.",
+      "dialogue": "",
+      "narration": "A blade interposed itself between the assassin and his prey.",
       "characters": [
-        "Bansi.Battle"
+        "Eskil",
+        "Theotomere"
       ],
-      "location": "ChapelOfBones",
+      "location": "Samarkand",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     },
     {
       "panel_num": 2,
-      "annotation": "Gan's arrow",
-      "visual": "Gan draws and looses a flaming arrow. The shaft streaks across the chamber trailing fire. Her falcon dives alongside it, talons extended, going for Nizack's face. The firelight illuminates her determined expression.",
+      "visual": "Theotomere's thrown dagger clangs off Eskil's helm in a shower of sparks, pushing back his sackcloth hood. The dagger clatters to the packed earth. Eskil does not flinch. The helm's many holes reveal pale eyes beneath.",
       "dialogue": "",
-      "narration": "The battle erupted.",
+      "narration": "Theotomere's thrown dagger clanged off the Norseman's helm in a shower of sparks.",
       "characters": [
-        "Gan"
+        "Eskil",
+        "Theotomere"
       ],
-      "location": "ChapelOfBones",
+      "location": "Samarkand",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     },
     {
       "panel_num": 3,
-      "annotation": "Bansi frees Rahzalahn",
-      "visual": "Bansi moves like smoke across the bone-strewn floor, tumbling beneath a cultist's wild swing. She comes up at the altar's edge, her blade singing twice to sever Rahzalahn's bonds. Rahzalahn's eyes are wide with desperate hope.",
-      "dialogue": "Bansi: \"Go!\"",
-      "narration": "",
+      "visual": "Giovanni's hand finds his own blade - a poor thing compared to the assassin's weapon. He lunges, the movement more desperate than skilled. Theotomere parries easily, sneering.",
+      "dialogue": "",
+      "narration": "Giovanni's hand found his own blade\u2014a poor thing compared to the assassin's weapon.",
       "characters": [
-        "Bansi.Battle",
-        "Rahzalahn"
+        "Giovanni",
+        "Theotomere"
       ],
-      "location": "ChapelOfBones",
+      "location": "Samarkand",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     },
     {
       "panel_num": 4,
-      "annotation": "Eskil vs Drekhlo",
-      "visual": "Eskil charges toward Karishkir but Drekhlo intercepts him, the great sword clearing its sheath with terrible speed. Their blades meet in a shower of sparks, the impact ringing through the chamber. Two warriors of the North facing each other - one corrupted, one bearing the rune-inscribed collar fused to his flesh.",
+      "visual": "Gan enters the fray, her curved steppe blade singing through the air. The blow bites into Theotomere's side. His eyes go wide with surprise. Blood stains his robes. Her falcon wheels overhead.",
       "dialogue": "",
-      "narration": "Their blades met in a shower of sparks, the impact ringing through the chamber like a bell.",
+      "narration": "Gan's curved blade sang through the air with the authority of the steppes behind it. The blow struck true.",
       "characters": [
-        "Eskil.Berserker",
-        "Drekhlo"
+        "Gan",
+        "Theotomere"
       ],
-      "location": "ChapelOfBones",
+      "location": "Samarkand",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     }

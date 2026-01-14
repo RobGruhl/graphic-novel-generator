@@ -1,0 +1,47 @@
+{
+  "page_num": 51,
+  "title": "The Cathedral of Death",
+  "panel_count": 3,
+  "is_spread": false,
+  "layout": "3-top-wide",
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "Wide establishing shot",
+      "visual": "A vast underground chamber reveals itself - a cathedral built of death. The walls are constructed from thousands of human skulls and bones, arranged in terrible geometric patterns. Columns of femurs and tibias rise into the darkness above. Flickering ritual flames cast dancing shadows through empty eye sockets. The scale is overwhelming, ancient, profane.",
+      "dialogue": "",
+      "narration": "The chamber was a cathedral of death.",
+      "characters": [],
+      "location": "ChapelOfBones",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
+    },
+    {
+      "panel_num": 2,
+      "annotation": "The altar",
+      "visual": "At the center of the bone cathedral stands an altar of black stone. Upon it, bound hand and foot, lies Rahzalahn - the oud player from the caravan. Her face shows terror but also defiance. The altar is stained dark with old blood. Heaps of treasure glitter behind the altar - gold, gems, the accumulated wealth of centuries.",
+      "dialogue": "",
+      "narration": "In the center stood an altar of black stone. Upon it, bound hand and foot, lay Rahzalahn.",
+      "characters": [
+        "Rahzalahn"
+      ],
+      "location": "ChapelOfBones",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "annotation": "Nizack with dagger",
+      "visual": "Nizack stands over the altar, a ceremonial dagger raised high above Rahzalahn's heart, ready to plunge down. His face is twisted with religious fervor, his eyes glazed with madness. Behind him, mounted on the wall of bone, hangs the gold amulet they seek - glowing faintly with eldritch power.",
+      "dialogue": "",
+      "narration": "Behind them, mounted on the wall of bone, hung the gold amulet.",
+      "characters": [
+        "Nizack",
+        "Rahzalahn"
+      ],
+      "location": "ChapelOfBones",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "page_num": 50,
+  "title": "The Mission",
+  "layout": "3-bottom-wide",
+  "panels": [
+    {
+      "panel_num": 1,
+      "visual": "Morning in Hind's tent. She sits in her place of command, her gaze sweeping across the assembled company. Sadia stands by the entrance, hand never far from her blade.",
+      "dialogue": "Hind: \"Four barbarians, a scholar, and a priest. An unusual company.\"",
+      "narration": "",
+      "characters": [
+        "Hind",
+        "Sadia"
+      ],
+      "location": "HindsTent",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "visual": "Nizack steps forward - a local nobleman whose smile does not quite reach his eyes. Something calculating lurks behind his pleasant expression. He spreads a map on the low table.",
+      "dialogue": "Nizack: \"Three days' ride to the Iron Gates, then one turns into the desert hills. There is a ruined castle there.\"",
+      "narration": "",
+      "characters": [
+        "Nizack"
+      ],
+      "location": "HindsTent",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "visual": "Wide shot of the company listening to Hind's offer. The map shows the route - Samarkand to the Iron Gates to a marked castle in the hills. They exchange glances - the wordless communication of people who recognize necessity.",
+      "dialogue": "Hind: \"If you help Nizack retrieve the amulet, I will help you sell whatever other treasures you might find. A longer contract might be discussed.\"",
+      "narration": "",
+      "characters": [
+        "Hind",
+        "Nizack",
+        "Giovanni",
+        "Bansi",
+        "Eskil",
+        "Gan",
+        "Lueduo"
+      ],
+      "location": "HindsTent",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
+    }
+  ]
+}

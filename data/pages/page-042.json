@@ -1,23 +1,56 @@
 {
   "page_num": 42,
-  "title": "Karishkir Revealed",
-  "panel_count": 1,
-  "is_spread": false,
-  "layout": "splash",
+  "title": "Theotomere Strikes",
+  "layout": "grid",
   "panels": [
     {
       "panel_num": 1,
-      "annotation": "Full page splash - Karishkir in glory",
-      "visual": "Karishkir stands behind the altar in terrible glory - a figure of impossible beauty and horror. Her body is painted with symbols in blood, arcane sigils covering her skin. Her hair flows unbound past her shoulders like living shadow. Her eyes burn with golden fire, ancient and hungry. She wears nothing but the blood symbols and a smile of pure, transcendent cruelty. To her right stands Drekhlo - bare-chested, his torso marked with twisted runes that seem to writhe in the flickering light, the great sword on his back longer than a man is tall. Cultists ring the chamber behind them, perhaps two dozen, their bodies painted and their eyes glazed with fervor. The scene is lit by ritual flames that make the bone walls seem to dance.",
+      "visual": "Giovanni lunges sideways on instinct alone, the assassin's blade singing through empty air where his spine was a heartbeat before. His eyes are wide with recognition and shock. Bolts of silk flutter around them from disturbed merchants.",
       "dialogue": "",
-      "narration": "She was beautiful - even now, even knowing more of what she was. Her body was painted with symbols in blood, her hair unbound and flowing past her shoulders, her eyes burning with golden fire.",
+      "narration": "Giovanni lunged sideways on instinct alone, and the blade that should have opened his spine instead sang through empty air.",
       "characters": [
-        "Karishkir",
-        "Drekhlo"
+        "Giovanni",
+        "Theotomere"
       ],
-      "location": "ChapelOfBones",
-      "aspect_ratio": "9:16",
-      "size": "1024x1536"
+      "location": "Samarkand",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "visual": "Bansi at a textile stall, eyes sharp as she marks the commotion. Her stance shifts from casual browser to predator ready to strike. Her expression shows calculation - already planning her intervention.",
+      "dialogue": "",
+      "narration": "Across the market, a woman marked the commotion with sharp eyes.",
+      "characters": [
+        "Bansi"
+      ],
+      "location": "Samarkand",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "visual": "Bansi's foot kicks out at a tent pole with precision born of lightning reflexes. The colored silk canopy begins to collapse in a billow of fabric, descending toward Theotomere. Merchants scatter.",
+      "dialogue": "",
+      "narration": "Bansi kicked out at the nearest tent pole with precision born of lightning reflexes.",
+      "characters": [
+        "Bansi"
+      ],
+      "location": "Samarkand",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 4,
+      "visual": "Theotomere dances back from the falling fabric with the ease of a professional killer. The silk settles around him as he circles, seeking another opening. His expression is cold fury.",
+      "dialogue": "Theotomere: \"Bastard!\"",
+      "narration": "",
+      "characters": [
+        "Theotomere"
+      ],
+      "location": "Samarkand",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
     }
   ]
 }

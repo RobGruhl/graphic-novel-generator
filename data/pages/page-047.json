@@ -1,0 +1,57 @@
+{
+  "page_num": 47,
+  "title": "The Thief Caught",
+  "layout": "grid",
+  "panels": [
+    {
+      "panel_num": 1,
+      "visual": "Days later. Giovanni finds Bansi in Hind's supply tent, her hands buried in a chest of coins. Her expression shifts to innocent confusion, but the priest's eyes are hard.",
+      "dialogue": "Giovanni: \"You were stealing. From the woman who pays our wages.\"",
+      "narration": "",
+      "characters": [
+        "Giovanni",
+        "Bansi"
+      ],
+      "location": "HindsTent",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "visual": "Bansi withdraws her hands, empty, and meets Giovanni's eyes directly. Her posture is defensive but honest. The mask has dropped.",
+      "dialogue": "Bansi: \"Old habits. I've been on my own a long time. When you're alone, you take what you can.\"",
+      "narration": "",
+      "characters": [
+        "Bansi"
+      ],
+      "location": "HindsTent",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "visual": "Giovanni sits down on a crate, his posture relaxing. To Bansi's surprise, he isn't angry - he's understanding. A ghost of a smile crosses his weathered face.",
+      "dialogue": "Giovanni: \"I didn't always wear these robes. Before I was a priest, I was a merchant. Before that, a farm boy who watched his father get cheated.\"",
+      "narration": "",
+      "characters": [
+        "Giovanni"
+      ],
+      "location": "HindsTent",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 4,
+      "visual": "Bansi laughs - a genuine sound, surprised out of her. Giovanni stands to leave, his warning delivered with unexpected kindness.",
+      "dialogue": "Giovanni: \"I won't tell Hind. This time. But we're going to need to trust each other. You might want to start practicing.\"",
+      "narration": "",
+      "characters": [
+        "Giovanni",
+        "Bansi"
+      ],
+      "location": "HindsTent",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    }
+  ]
+}

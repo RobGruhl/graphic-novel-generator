@@ -1,45 +1,40 @@
 {
   "page_num": 41,
-  "title": "The Cathedral of Death",
-  "panel_count": 3,
-  "is_spread": false,
+  "title": "Chapter 1: The Golden Road - Samarkand",
   "layout": "3-top-wide",
   "panels": [
     {
       "panel_num": 1,
-      "annotation": "Wide establishing shot",
-      "visual": "A vast underground chamber reveals itself - a cathedral built of death. The walls are constructed from thousands of human skulls and bones, arranged in terrible geometric patterns. Columns of femurs and tibias rise into the darkness above. Flickering ritual flames cast dancing shadows through empty eye sockets. The scale is overwhelming, ancient, profane.",
+      "visual": "Wide establishing shot of the Samarkand markets sprawling beneath a sky the color of hammered brass. A labyrinth of silk tents and stone shops, goods from the ends of the earth displayed in chaotic profusion. Camels, merchants of every nation, bolts of colored silk hanging like banners. The sheer scale of the crossroads of the world.",
       "dialogue": "",
-      "narration": "The chamber was a cathedral of death.",
+      "narration": "The markets of Samarkand sprawled beneath a sky the color of hammered brass, a labyrinth of silk and spice where a thousand tongues haggled over goods from the uttermost ends of the earth.",
       "characters": [],
-      "location": "ChapelOfBones",
+      "location": "Samarkand",
       "aspect_ratio": "16:9",
       "size": "1536x1024"
     },
     {
       "panel_num": 2,
-      "annotation": "The altar",
-      "visual": "At the center of the bone cathedral stands an altar of black stone. Upon it, bound hand and foot, lies Rahzalahn - the oud player from the caravan. Her face shows terror but also defiance. The altar is stained dark with old blood. Heaps of treasure glitter behind the altar - gold, gems, the accumulated wealth of centuries.",
+      "visual": "Father Giovanni di Venezia descends into the market crowd, his travel-stained robes marking him as a man of God. Weeks of Silk Road dust cling to him. His face shows exhaustion but also wonder at the bustling commerce. He is unaware of the figure following behind him.",
       "dialogue": "",
-      "narration": "In the center stood an altar of black stone. Upon it, bound hand and foot, lay Rahzalahn.",
+      "narration": "It was into this seething tide of humanity that Father Giovanni di Venezia descended.",
       "characters": [
-        "Rahzalahn"
+        "Giovanni"
       ],
-      "location": "ChapelOfBones",
+      "location": "Samarkand",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     },
     {
       "panel_num": 3,
-      "annotation": "Nizack with dagger",
-      "visual": "Nizack stands over the altar, a ceremonial dagger raised high above Rahzalahn's heart, ready to plunge down. His face is twisted with religious fervor, his eyes glazed with madness. Behind him, mounted on the wall of bone, hangs the gold amulet they seek - glowing faintly with eldritch power.",
+      "visual": "A blade clears its sheath behind Giovanni - we see the assassin Theotomere emerging from the crowd, his face twisted with murderous intent. The blade gleams. Giovanni does not yet see him, but his posture suggests something has pricked at his awareness.",
       "dialogue": "",
-      "narration": "Behind them, mounted on the wall of bone, hung the gold amulet.",
+      "narration": "He did not hear the blade clear its sheath behind him.",
       "characters": [
-        "Nizack",
-        "Rahzalahn"
+        "Giovanni",
+        "Theotomere"
       ],
-      "location": "ChapelOfBones",
+      "location": "Samarkand",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     }

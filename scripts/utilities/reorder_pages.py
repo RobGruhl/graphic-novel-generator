@@ -3,18 +3,14 @@
 Reorder pages script.
 
 Current state:
-- Pages 1-10: Giovanni prologue
-- Pages 11-20: Bansi prologue
-- Pages 21-30: Eskil prologue
-- Pages 31-35: Chapel of Bones
-- Pages 36-45: Lueduo prologue
+- Pages 1-40: All prologues (no change)
+- Pages 41-45: Chapel of Bones
+- Pages 46-55: Chapter 1
 
 Target state:
-- Pages 1-10: Giovanni prologue (no change)
-- Pages 11-20: Bansi prologue (no change)
-- Pages 21-30: Eskil prologue (no change)
-- Pages 31-40: Lueduo prologue (was 36-45)
-- Pages 41-45: Chapel of Bones (was 31-35)
+- Pages 1-40: All prologues (no change)
+- Pages 41-50: Chapter 1 (was 46-55)
+- Pages 51-55: Chapel of Bones (was 41-45)
 """
 
 import os
@@ -25,17 +21,17 @@ from pathlib import Path
 # Define the mapping: old_page -> new_page
 mapping = {}
 
-# Pages 1-30: no change
-for i in range(1, 31):
+# Pages 1-40: no change
+for i in range(1, 41):
     mapping[i] = i
 
-# Pages 36-45 (Lueduo) -> 31-40
-for i in range(36, 46):
-    mapping[i] = i - 5  # 36->31, 37->32, ..., 45->40
+# Pages 46-55 (Chapter 1) -> 41-50
+for i in range(46, 56):
+    mapping[i] = i - 5  # 46->41, 47->42, ..., 55->50
 
-# Pages 31-35 (Chapel) -> 41-45
-for i in range(31, 36):
-    mapping[i] = i + 10  # 31->41, 32->42, ..., 35->45
+# Pages 41-45 (Chapel) -> 51-55
+for i in range(41, 46):
+    mapping[i] = i + 10  # 41->51, 42->52, ..., 45->55
 
 print("Mapping (changes only):")
 for old, new in sorted(mapping.items()):
@@ -114,7 +110,7 @@ print("Done!")
 
 # Verify
 print("\nVerifying page JSON files:")
-for i in range(1, 46):
+for i in range(1, 56):
     f = pages_json_dir / f"page-{i:03d}.json"
     if f.exists():
         with open(f, 'r') as file:

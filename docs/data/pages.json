@@ -1,365 +1,60 @@
 {
   "pages": [
-    {
-      "page": 1,
-      "title": "Prologue I: The Shepherd Who Became a Wolf - Opening",
-      "image": "images/pages/page-001.webp",
-      "thumbnail": "images/thumbnails/page-001.webp",
-      "characters": ["Giovanni.Young"],
-      "locations": ["ItalianHillCountry"]
-    },
-    {
-      "page": 2,
-      "title": "Farm Life",
-      "image": "images/pages/page-002.webp",
-      "thumbnail": "images/thumbnails/page-002.webp",
-      "characters": ["Giovanni.Young", "GiovanniFather"],
-      "locations": ["ItalianHillCountry"]
-    },
-    {
-      "page": 3,
-      "title": "The Merchant Arrives",
-      "image": "images/pages/page-003.webp",
-      "thumbnail": "images/thumbnails/page-003.webp",
-      "characters": ["Giovanni.Young", "GiovanniFather", "Marco"],
-      "locations": ["VillageMarket"]
-    },
-    {
-      "page": 4,
-      "title": "The Negotiation",
-      "image": "images/pages/page-004.webp",
-      "thumbnail": "images/thumbnails/page-004.webp",
-      "characters": ["Giovanni.Young", "GiovanniFather", "Marco"],
-      "locations": ["VillageMarket"]
-    },
-    {
-      "page": 5,
-      "title": "Giovanni Speaks Out",
-      "image": "images/pages/page-005.webp",
-      "thumbnail": "images/thumbnails/page-005.webp",
-      "characters": ["Giovanni.Young", "GiovanniFather", "Marco"],
-      "locations": ["VillageMarket"]
-    },
-    {
-      "page": 6,
-      "title": "Marco's Interest",
-      "image": "images/pages/page-006.webp",
-      "thumbnail": "images/thumbnails/page-006.webp",
-      "characters": ["Giovanni.Young", "GiovanniFather", "Marco"],
-      "locations": ["VillageMarket"]
-    },
-    {
-      "page": 7,
-      "title": "The Offer",
-      "image": "images/pages/page-007.webp",
-      "thumbnail": "images/thumbnails/page-007.webp",
-      "characters": ["Giovanni.Young", "GiovanniFather", "Marco"],
-      "locations": ["VillageMarket"]
-    },
-    {
-      "page": 8,
-      "title": "Leaving Home",
-      "image": "images/pages/page-008.webp",
-      "thumbnail": "images/thumbnails/page-008.webp",
-      "characters": ["Giovanni.Young", "GiovanniFather", "Marco"],
-      "locations": ["ItalianHillCountry"]
-    },
-    {
-      "page": 9,
-      "title": "The Apprenticeship",
-      "image": "images/pages/page-009.webp",
-      "thumbnail": "images/thumbnails/page-009.webp",
-      "characters": ["Giovanni.Merchant", "Marco"],
-      "locations": ["Venice"]
-    },
-    {
-      "page": 10,
-      "title": "First Sight of Venice",
-      "image": "images/pages/page-010.webp",
-      "thumbnail": "images/thumbnails/page-010.webp",
-      "characters": ["Giovanni.Merchant"],
-      "locations": ["Venice"]
-    },
-    {
-      "page": 11,
-      "title": "Prologue II: The Daughter of Shadows - The Gilded Cage",
-      "image": "images/pages/page-011.webp",
-      "thumbnail": "images/thumbnails/page-011.webp",
-      "characters": ["Bansi.Child", "PalaceTutor"],
-      "locations": ["PalaceOfSonapura", "WomensQuarters"]
-    },
-    {
-      "page": 12,
-      "title": "The Secret Education",
-      "image": "images/pages/page-012.webp",
-      "thumbnail": "images/thumbnails/page-012.webp",
-      "characters": ["Bansi.Young", "Vikrahma"],
-      "locations": ["PalaceOfSonapura"]
-    },
-    {
-      "page": 13,
-      "title": "The Invisible Servant",
-      "image": "images/pages/page-013.webp",
-      "thumbnail": "images/thumbnails/page-013.webp",
-      "characters": ["Bansi.Servant"],
-      "locations": ["PalaceOfSonapura", "SrinagarBazaar"]
-    },
-    {
-      "page": 14,
-      "title": "The Betrothal",
-      "image": "images/pages/page-014.webp",
-      "thumbnail": "images/thumbnails/page-014.webp",
-      "characters": ["Bansi.Young", "RajaKanishka", "UncleAdvisor"],
-      "locations": ["PalaceOfSonapura"]
-    },
-    {
-      "page": 15,
-      "title": "The Escape",
-      "image": "images/pages/page-015.webp",
-      "thumbnail": "images/thumbnails/page-015.webp",
-      "characters": ["Bansi.Young", "Bansi.Servant"],
-      "locations": ["PalaceOfSonapura", "SrinagarBazaar"]
-    },
-    {
-      "page": 16,
-      "title": "The Caravan",
-      "image": "images/pages/page-016.webp",
-      "thumbnail": "images/thumbnails/page-016.webp",
-      "characters": ["Bansi.Servant", "CaravanMaster"],
-      "locations": ["SrinagarBazaar", "CaravanRoute"]
-    },
-    {
-      "page": 17,
-      "title": "The Bahn-Sa-Sahn",
-      "image": "images/pages/page-017.webp",
-      "thumbnail": "images/thumbnails/page-017.webp",
-      "characters": ["Bansi.Thief", "ThiefMentor"],
-      "locations": ["ThievesGuildSafe"]
-    },
-    {
-      "page": 18,
-      "title": "Training",
-      "image": "images/pages/page-018.webp",
-      "thumbnail": "images/thumbnails/page-018.webp",
-      "characters": ["Bansi.Thief", "ThiefMentor"],
-      "locations": ["ThievesGuildSafe"]
-    },
-    {
-      "page": 19,
-      "title": "The Thing in the Case",
-      "image": "images/pages/page-019.webp",
-      "thumbnail": "images/thumbnails/page-019.webp",
-      "characters": ["Bansi.Thief"],
-      "locations": ["MerchantStudy"]
-    },
-    {
-      "page": 20,
-      "title": "The Dark Mother",
-      "image": "images/pages/page-020.webp",
-      "thumbnail": "images/thumbnails/page-020.webp",
-      "characters": ["Bansi.KaliDevotee", "Bansi"],
-      "locations": ["TempleOfKali"]
-    },
-    {
-      "page": 21,
-      "title": "Prologue III: The Undercroft",
-      "image": "images/pages/page-021.webp",
-      "thumbnail": "images/thumbnails/page-021.webp",
-      "characters": ["Anna", "Kari", "Sofie"],
-      "locations": ["Eysysla.Undercroft"]
-    },
-    {
-      "page": 22,
-      "title": "The Seduction",
-      "image": "images/pages/page-022.webp",
-      "thumbnail": "images/thumbnails/page-022.webp",
-      "characters": ["Eskil.Young", "Kari", "Sofie"],
-      "locations": ["Eysysla.Undercroft"]
-    },
-    {
-      "page": 23,
-      "title": "Into the Darkness",
-      "image": "images/pages/page-023.webp",
-      "thumbnail": "images/thumbnails/page-023.webp",
-      "characters": ["Eskil.Young", "Kari", "Sofie", "Saga", "Leif"],
-      "locations": ["Eysysla.Undercroft"]
-    },
-    {
-      "page": 24,
-      "title": "The Ritual",
-      "image": "images/pages/page-024.webp",
-      "thumbnail": "images/thumbnails/page-024.webp",
-      "characters": ["Kari.Ritual", "Eskil.Ritual", "Anna.Ritual"],
-      "locations": ["UnderrydBog"]
-    },
-    {
-      "page": 25,
-      "title": "The Messenger Arrives",
-      "image": "images/pages/page-025.webp",
-      "thumbnail": "images/thumbnails/page-025.webp",
-      "characters": ["Anna.Ritual", "Eskil.Ritual"],
-      "locations": ["UnderrydBog"]
-    },
-    {
-      "page": 26,
-      "title": "The Feeding",
-      "image": "images/pages/page-026.webp",
-      "thumbnail": "images/thumbnails/page-026.webp",
-      "characters": ["Anna.Ritual", "Sofie"],
-      "locations": ["UnderrydBog"]
-    },
-    {
-      "page": 27,
-      "title": "The Messenger's Rage",
-      "image": "images/pages/page-027.webp",
-      "thumbnail": "images/thumbnails/page-027.webp",
-      "characters": ["Saga"],
-      "locations": ["UnderrydBog"]
-    },
-    {
-      "page": 28,
-      "title": "Transubstantiation",
-      "image": "images/pages/page-028.webp",
-      "thumbnail": "images/thumbnails/page-028.webp",
-      "characters": ["Eskil.Ritual", "Kari.Ritual", "Eskil.Young", "LeifSkull"],
-      "locations": ["UnderrydBog", "LeifForge"]
-    },
-    {
-      "page": 29,
-      "title": "Eysysla Burns",
-      "image": "images/pages/page-029.webp",
-      "thumbnail": "images/thumbnails/page-029.webp",
-      "characters": ["Eskil.Young", "LeifSkull"],
-      "locations": ["Eysysla.Destroyed"]
-    },
-    {
-      "page": 30,
-      "title": "The Helm and Collar",
-      "image": "images/pages/page-030.webp",
-      "thumbnail": "images/thumbnails/page-030.webp",
-      "characters": ["Eskil.Young", "Eskil", "LeifSkull"],
-      "locations": ["KyivArena"]
-    },
-    {
-      "page": 31,
-      "title": "Prologue IV: The Raven of the Emperor - The Black Tents",
-      "image": "images/pages/page-031.webp",
-      "thumbnail": "images/thumbnails/page-031.webp",
-      "characters": ["Lueduo.Child", "OldShamanWoman"],
-      "locations": ["TaklamakanCamp"]
-    },
-    {
-      "page": 32,
-      "title": "The Raven Ascends",
-      "image": "images/pages/page-032.webp",
-      "thumbnail": "images/thumbnails/page-032.webp",
-      "characters": ["Lueduo.Hostage", "Lueduo.Spy", "TangEmperor"],
-      "locations": ["TangCourt"]
-    },
-    {
-      "page": 33,
-      "title": "The Garden of Serpents",
-      "image": "images/pages/page-033.webp",
-      "thumbnail": "images/thumbnails/page-033.webp",
-      "characters": ["Lueduo.Spy"],
-      "locations": ["TangCourt"]
-    },
-    {
-      "page": 34,
-      "title": "The Majordomo",
-      "image": "images/pages/page-034.webp",
-      "thumbnail": "images/thumbnails/page-034.webp",
-      "characters": ["Lueduo.Spy", "Wei"],
-      "locations": ["WeisChamber"]
-    },
-    {
-      "page": 35,
-      "title": "Lady Mei",
-      "image": "images/pages/page-035.webp",
-      "thumbnail": "images/thumbnails/page-035.webp",
-      "characters": ["Lueduo.Spy", "LadyMei", "MinisterZhang"],
-      "locations": ["TangCourt"]
-    },
-    {
-      "page": 36,
-      "title": "Exile",
-      "image": "images/pages/page-036.webp",
-      "thumbnail": "images/thumbnails/page-036.webp",
-      "characters": ["Lueduo.Spy", "TangEmperor", "Wei"],
-      "locations": ["TangThroneRoom"]
-    },
-    {
-      "page": 37,
-      "title": "The Serpent's Rest",
-      "image": "images/pages/page-037.webp",
-      "thumbnail": "images/thumbnails/page-037.webp",
-      "characters": ["TheNagini", "Lueduo.Spy"],
-      "locations": ["SerpentsRest"]
-    },
-    {
-      "page": 38,
-      "title": "The Claiming",
-      "image": "images/pages/page-038.webp",
-      "thumbnail": "images/thumbnails/page-038.webp",
-      "characters": ["TheNagini", "Lueduo.Marked"],
-      "locations": ["SerpentsRest", "TaklamakanDesert"]
-    },
-    {
-      "page": 39,
-      "title": "The Gambler",
-      "image": "images/pages/page-039.webp",
-      "thumbnail": "images/thumbnails/page-039.webp",
-      "characters": ["Lueduo.Marked"],
-      "locations": ["DesertGamblingHall", "TaklamakanDesert"]
-    },
-    {
-      "page": 40,
-      "title": "The Norseman",
-      "image": "images/pages/page-040.webp",
-      "thumbnail": "images/thumbnails/page-040.webp",
-      "characters": ["Lueduo.Marked", "Eskil"],
-      "locations": ["WesternVillage"]
-    },
-    {
-      "page": 41,
-      "title": "The Cathedral of Death",
-      "image": "images/pages/page-041.webp",
-      "thumbnail": "images/thumbnails/page-041.webp",
-      "characters": ["Rahzalahn", "Nizack"],
-      "locations": ["ChapelOfBones"]
-    },
-    {
-      "page": 42,
-      "title": "Karishkir Revealed",
-      "image": "images/pages/page-042.webp",
-      "thumbnail": "images/thumbnails/page-042.webp",
-      "characters": ["Karishkir", "Drekhlo"],
-      "locations": ["ChapelOfBones"]
-    },
-    {
-      "page": 43,
-      "title": "Battle Erupts",
-      "image": "images/pages/page-043.webp",
-      "thumbnail": "images/thumbnails/page-043.webp",
-      "characters": ["Bansi.Battle", "Gan", "Rahzalahn", "Eskil.Berserker", "Drekhlo"],
-      "locations": ["ChapelOfBones"]
-    },
-    {
-      "page": 44,
-      "title": "The Wrath of Heaven",
-      "image": "images/pages/page-044.webp",
-      "thumbnail": "images/thumbnails/page-044.webp",
-      "characters": ["Giovanni.Assassin", "Sadia", "Karishkir", "Lueduo", "Isaac"],
-      "locations": ["ChapelOfBones"]
-    },
-    {
-      "page": 45,
-      "title": "The End of Nizack",
-      "image": "images/pages/page-045.webp",
-      "thumbnail": "images/thumbnails/page-045.webp",
-      "characters": ["Karishkir", "Drekhlo", "Eskil.Berserker", "Nizack", "Rahzalahn", "Bansi.Battle", "Lueduo"],
-      "locations": ["ChapelOfBones"]
-    }
+    {"page": 1, "title": "Prologue I: The Shepherd Who Became a Wolf - Opening", "image": "images/pages/page-001.webp", "thumbnail": "images/thumbnails/page-001.webp", "characters": ["Giovanni.Young"], "locations": ["ItalianHillCountry"]},
+    {"page": 2, "title": "Farm Life", "image": "images/pages/page-002.webp", "thumbnail": "images/thumbnails/page-002.webp", "characters": ["Giovanni.Young", "GiovanniFather"], "locations": ["ItalianHillCountry"]},
+    {"page": 3, "title": "The Merchant Arrives", "image": "images/pages/page-003.webp", "thumbnail": "images/thumbnails/page-003.webp", "characters": ["Giovanni.Young", "GiovanniFather", "Marco"], "locations": ["VillageMarket"]},
+    {"page": 4, "title": "The Negotiation", "image": "images/pages/page-004.webp", "thumbnail": "images/thumbnails/page-004.webp", "characters": ["Giovanni.Young", "GiovanniFather", "Marco"], "locations": ["VillageMarket"]},
+    {"page": 5, "title": "Giovanni Speaks Out", "image": "images/pages/page-005.webp", "thumbnail": "images/thumbnails/page-005.webp", "characters": ["Giovanni.Young", "GiovanniFather", "Marco"], "locations": ["VillageMarket"]},
+    {"page": 6, "title": "Marco's Interest", "image": "images/pages/page-006.webp", "thumbnail": "images/thumbnails/page-006.webp", "characters": ["Giovanni.Young", "GiovanniFather", "Marco"], "locations": ["VillageMarket"]},
+    {"page": 7, "title": "The Offer", "image": "images/pages/page-007.webp", "thumbnail": "images/thumbnails/page-007.webp", "characters": ["Giovanni.Young", "GiovanniFather", "Marco"], "locations": ["VillageMarket"]},
+    {"page": 8, "title": "Leaving Home", "image": "images/pages/page-008.webp", "thumbnail": "images/thumbnails/page-008.webp", "characters": ["Giovanni.Young", "GiovanniFather", "Marco"], "locations": ["ItalianHillCountry"]},
+    {"page": 9, "title": "The Apprenticeship", "image": "images/pages/page-009.webp", "thumbnail": "images/thumbnails/page-009.webp", "characters": ["Giovanni.Merchant", "Marco"], "locations": ["Venice"]},
+    {"page": 10, "title": "First Sight of Venice", "image": "images/pages/page-010.webp", "thumbnail": "images/thumbnails/page-010.webp", "characters": ["Giovanni.Merchant"], "locations": ["Venice"]},
+    {"page": 11, "title": "Prologue II: The Daughter of Shadows - The Gilded Cage", "image": "images/pages/page-011.webp", "thumbnail": "images/thumbnails/page-011.webp", "characters": ["Bansi.Child", "PalaceTutor"], "locations": ["PalaceOfSonapura", "WomensQuarters"]},
+    {"page": 12, "title": "The Secret Education", "image": "images/pages/page-012.webp", "thumbnail": "images/thumbnails/page-012.webp", "characters": ["Bansi.Young", "Vikrahma"], "locations": ["PalaceOfSonapura"]},
+    {"page": 13, "title": "The Invisible Servant", "image": "images/pages/page-013.webp", "thumbnail": "images/thumbnails/page-013.webp", "characters": ["Bansi.Servant"], "locations": ["PalaceOfSonapura", "SrinagarBazaar"]},
+    {"page": 14, "title": "The Betrothal", "image": "images/pages/page-014.webp", "thumbnail": "images/thumbnails/page-014.webp", "characters": ["Bansi.Young", "RajaKanishka", "UncleAdvisor"], "locations": ["PalaceOfSonapura"]},
+    {"page": 15, "title": "The Escape", "image": "images/pages/page-015.webp", "thumbnail": "images/thumbnails/page-015.webp", "characters": ["Bansi.Young", "Bansi.Servant"], "locations": ["PalaceOfSonapura", "SrinagarBazaar"]},
+    {"page": 16, "title": "The Caravan", "image": "images/pages/page-016.webp", "thumbnail": "images/thumbnails/page-016.webp", "characters": ["Bansi.Servant", "CaravanMaster"], "locations": ["SrinagarBazaar", "CaravanRoute"]},
+    {"page": 17, "title": "The Bahn-Sa-Sahn", "image": "images/pages/page-017.webp", "thumbnail": "images/thumbnails/page-017.webp", "characters": ["Bansi.Thief", "ThiefMentor"], "locations": ["ThievesGuildSafe"]},
+    {"page": 18, "title": "Training", "image": "images/pages/page-018.webp", "thumbnail": "images/thumbnails/page-018.webp", "characters": ["Bansi.Thief", "ThiefMentor"], "locations": ["ThievesGuildSafe"]},
+    {"page": 19, "title": "The Thing in the Case", "image": "images/pages/page-019.webp", "thumbnail": "images/thumbnails/page-019.webp", "characters": ["Bansi.Thief"], "locations": ["MerchantStudy"]},
+    {"page": 20, "title": "The Dark Mother", "image": "images/pages/page-020.webp", "thumbnail": "images/thumbnails/page-020.webp", "characters": ["Bansi.KaliDevotee", "Bansi"], "locations": ["TempleOfKali"]},
+    {"page": 21, "title": "Prologue III: The Undercroft", "image": "images/pages/page-021.webp", "thumbnail": "images/thumbnails/page-021.webp", "characters": ["Anna", "Kari", "Sofie"], "locations": ["Eysysla.Undercroft"]},
+    {"page": 22, "title": "The Seduction", "image": "images/pages/page-022.webp", "thumbnail": "images/thumbnails/page-022.webp", "characters": ["Eskil.Young", "Kari", "Sofie"], "locations": ["Eysysla.Undercroft"]},
+    {"page": 23, "title": "Into the Darkness", "image": "images/pages/page-023.webp", "thumbnail": "images/thumbnails/page-023.webp", "characters": ["Eskil.Young", "Kari", "Sofie", "Saga", "Leif"], "locations": ["Eysysla.Undercroft"]},
+    {"page": 24, "title": "The Ritual", "image": "images/pages/page-024.webp", "thumbnail": "images/thumbnails/page-024.webp", "characters": ["Kari.Ritual", "Eskil.Ritual", "Anna.Ritual"], "locations": ["UnderrydBog"]},
+    {"page": 25, "title": "The Messenger Arrives", "image": "images/pages/page-025.webp", "thumbnail": "images/thumbnails/page-025.webp", "characters": ["Anna.Ritual", "Eskil.Ritual"], "locations": ["UnderrydBog"]},
+    {"page": 26, "title": "The Feeding", "image": "images/pages/page-026.webp", "thumbnail": "images/thumbnails/page-026.webp", "characters": ["Anna.Ritual", "Sofie"], "locations": ["UnderrydBog"]},
+    {"page": 27, "title": "The Messenger's Rage", "image": "images/pages/page-027.webp", "thumbnail": "images/thumbnails/page-027.webp", "characters": ["Saga"], "locations": ["UnderrydBog"]},
+    {"page": 28, "title": "Transubstantiation", "image": "images/pages/page-028.webp", "thumbnail": "images/thumbnails/page-028.webp", "characters": ["Eskil.Ritual", "Kari.Ritual", "Eskil.Young", "LeifSkull"], "locations": ["UnderrydBog", "LeifForge"]},
+    {"page": 29, "title": "Eysysla Burns", "image": "images/pages/page-029.webp", "thumbnail": "images/thumbnails/page-029.webp", "characters": ["Eskil.Young", "LeifSkull"], "locations": ["Eysysla.Destroyed"]},
+    {"page": 30, "title": "The Helm and Collar", "image": "images/pages/page-030.webp", "thumbnail": "images/thumbnails/page-030.webp", "characters": ["Eskil.Young", "Eskil", "LeifSkull"], "locations": ["KyivArena"]},
+    {"page": 31, "title": "Prologue IV: The Raven of the Emperor - The Black Tents", "image": "images/pages/page-031.webp", "thumbnail": "images/thumbnails/page-031.webp", "characters": ["Lueduo.Child", "OldShamanWoman"], "locations": ["TaklamakanCamp"]},
+    {"page": 32, "title": "The Raven Ascends", "image": "images/pages/page-032.webp", "thumbnail": "images/thumbnails/page-032.webp", "characters": ["Lueduo.Hostage", "Lueduo.Spy", "TangEmperor"], "locations": ["TangCourt"]},
+    {"page": 33, "title": "The Garden of Serpents", "image": "images/pages/page-033.webp", "thumbnail": "images/thumbnails/page-033.webp", "characters": ["Lueduo.Spy"], "locations": ["TangCourt"]},
+    {"page": 34, "title": "The Majordomo", "image": "images/pages/page-034.webp", "thumbnail": "images/thumbnails/page-034.webp", "characters": ["Lueduo.Spy", "Wei"], "locations": ["WeisChamber"]},
+    {"page": 35, "title": "Lady Mei", "image": "images/pages/page-035.webp", "thumbnail": "images/thumbnails/page-035.webp", "characters": ["Lueduo.Spy", "LadyMei", "MinisterZhang"], "locations": ["TangCourt"]},
+    {"page": 36, "title": "Exile", "image": "images/pages/page-036.webp", "thumbnail": "images/thumbnails/page-036.webp", "characters": ["Lueduo.Spy", "TangEmperor", "Wei"], "locations": ["TangThroneRoom"]},
+    {"page": 37, "title": "The Serpent's Rest", "image": "images/pages/page-037.webp", "thumbnail": "images/thumbnails/page-037.webp", "characters": ["TheNagini", "Lueduo.Spy"], "locations": ["SerpentsRest"]},
+    {"page": 38, "title": "The Claiming", "image": "images/pages/page-038.webp", "thumbnail": "images/thumbnails/page-038.webp", "characters": ["TheNagini", "Lueduo.Marked"], "locations": ["SerpentsRest", "TaklamakanDesert"]},
+    {"page": 39, "title": "The Gambler", "image": "images/pages/page-039.webp", "thumbnail": "images/thumbnails/page-039.webp", "characters": ["Lueduo.Marked"], "locations": ["DesertGamblingHall", "TaklamakanDesert"]},
+    {"page": 40, "title": "The Norseman", "image": "images/pages/page-040.webp", "thumbnail": "images/thumbnails/page-040.webp", "characters": ["Lueduo.Marked", "Eskil"], "locations": ["WesternVillage"]},
+    {"page": 41, "title": "Chapter 1: The Golden Road - Samarkand", "image": "images/pages/page-041.webp", "thumbnail": "images/thumbnails/page-041.webp", "characters": ["Giovanni", "Theotomere"], "locations": ["Samarkand"]},
+    {"page": 42, "title": "Theotomere Strikes", "image": "images/pages/page-042.webp", "thumbnail": "images/thumbnails/page-042.webp", "characters": ["Giovanni", "Bansi", "Theotomere"], "locations": ["Samarkand"]},
+    {"page": 43, "title": "The Strangers Intervene", "image": "images/pages/page-043.webp", "thumbnail": "images/thumbnails/page-043.webp", "characters": ["Eskil", "Gan", "Giovanni", "Theotomere"], "locations": ["Samarkand"]},
+    {"page": 44, "title": "Escape from the Market", "image": "images/pages/page-044.webp", "thumbnail": "images/thumbnails/page-044.webp", "characters": ["Giovanni", "Bansi", "Eskil", "Gan", "Sadia"], "locations": ["Samarkand", "Samarkand.Night"]},
+    {"page": 45, "title": "Hind's Tent", "image": "images/pages/page-045.webp", "thumbnail": "images/thumbnails/page-045.webp", "characters": ["Hind", "Rahzalahn", "AbuRayhan", "Eskil"], "locations": ["HindsTent"]},
+    {"page": 46, "title": "Introductions", "image": "images/pages/page-046.webp", "thumbnail": "images/thumbnails/page-046.webp", "characters": ["Eskil", "Giovanni", "Gan", "Lueduo", "Hind"], "locations": ["HindsTent"]},
+    {"page": 47, "title": "The Thief Caught", "image": "images/pages/page-047.webp", "thumbnail": "images/thumbnails/page-047.webp", "characters": ["Giovanni", "Bansi"], "locations": ["HindsTent"]},
+    {"page": 48, "title": "Old Wounds", "image": "images/pages/page-048.webp", "thumbnail": "images/thumbnails/page-048.webp", "characters": ["Rahzalahn", "Eskil", "Giovanni", "Bansi"], "locations": ["Samarkand.Night"]},
+    {"page": 49, "title": "A Beginning", "image": "images/pages/page-049.webp", "thumbnail": "images/thumbnails/page-049.webp", "characters": ["Lueduo", "Giovanni", "Rahzalahn", "Eskil", "Bansi", "Gan"], "locations": ["Samarkand.Night"]},
+    {"page": 50, "title": "The Mission", "image": "images/pages/page-050.webp", "thumbnail": "images/thumbnails/page-050.webp", "characters": ["Hind", "Sadia", "Nizack", "Giovanni", "Bansi", "Eskil", "Gan", "Lueduo"], "locations": ["HindsTent"]},
+    {"page": 51, "title": "The Cathedral of Death", "image": "images/pages/page-051.webp", "thumbnail": "images/thumbnails/page-051.webp", "characters": ["Rahzalahn", "Nizack"], "locations": ["ChapelOfBones"]},
+    {"page": 52, "title": "Karishkir Revealed", "image": "images/pages/page-052.webp", "thumbnail": "images/thumbnails/page-052.webp", "characters": ["Karishkir", "Drekhlo"], "locations": ["ChapelOfBones"]},
+    {"page": 53, "title": "Battle Erupts", "image": "images/pages/page-053.webp", "thumbnail": "images/thumbnails/page-053.webp", "characters": ["Bansi.Battle", "Gan", "Rahzalahn", "Eskil.Berserker", "Drekhlo"], "locations": ["ChapelOfBones"]},
+    {"page": 54, "title": "The Wrath of Heaven", "image": "images/pages/page-054.webp", "thumbnail": "images/thumbnails/page-054.webp", "characters": ["Giovanni.Assassin", "Sadia", "Karishkir", "Lueduo", "Isaac"], "locations": ["ChapelOfBones"]},
+    {"page": 55, "title": "The End of Nizack", "image": "images/pages/page-055.webp", "thumbnail": "images/thumbnails/page-055.webp", "characters": ["Karishkir", "Drekhlo", "Eskil.Berserker", "Nizack", "Rahzalahn", "Bansi.Battle", "Lueduo"], "locations": ["ChapelOfBones"]}
   ],
-  "total": 45
+  "total": 55
 }

@@ -1,0 +1,23 @@
+{
+  "page_num": 52,
+  "title": "Karishkir Revealed",
+  "panel_count": 1,
+  "is_spread": false,
+  "layout": "splash",
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "Full page splash - Karishkir in glory",
+      "visual": "Karishkir stands behind the altar in terrible glory - a figure of impossible beauty and horror. Her body is painted with symbols in blood, arcane sigils covering her skin. Her hair flows unbound past her shoulders like living shadow. Her eyes burn with golden fire, ancient and hungry. She wears nothing but the blood symbols and a smile of pure, transcendent cruelty. To her right stands Drekhlo - bare-chested, his torso marked with twisted runes that seem to writhe in the flickering light, the great sword on his back longer than a man is tall. Cultists ring the chamber behind them, perhaps two dozen, their bodies painted and their eyes glazed with fervor. The scene is lit by ritual flames that make the bone walls seem to dance.",
+      "dialogue": "",
+      "narration": "She was beautiful - even now, even knowing more of what she was. Her body was painted with symbols in blood, her hair unbound and flowing past her shoulders, her eyes burning with golden fire.",
+      "characters": [
+        "Karishkir",
+        "Drekhlo"
+      ],
+      "location": "ChapelOfBones",
+      "aspect_ratio": "9:16",
+      "size": "1024x1536"
+    }
+  ]
+}

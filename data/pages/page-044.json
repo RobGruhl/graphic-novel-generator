@@ -1,48 +1,45 @@
 {
   "page_num": 44,
-  "title": "The Wrath of Heaven",
-  "panel_count": 3,
-  "is_spread": false,
+  "title": "Escape from the Market",
   "layout": "3-bottom-wide",
   "panels": [
     {
       "panel_num": 1,
-      "annotation": "Giovanni and Sadia fighting",
-      "visual": "Giovanni dashes into the melee, his dagger finding a cultist's heart before the man can raise his weapon. His priest's robes are spattered with blood, his face a mask of holy purpose. Beside him, Sadia's blade cleaves through a cultist's spear and then through the cultist himself. Behind them, one of the drummers begins to transform - fur sprouting from his skin, jaw distending into a muzzle.",
+      "visual": "Theotomere vanishes into the textile stalls, swallowed by hanging silks and the press of bodies, clutching his wounded side. One moment there, the next simply gone. Guards begin shouting in the distance.",
       "dialogue": "",
-      "narration": "Giovanni saw one of the drummers beginning to transform.",
+      "narration": "He turned and vanished into the textile stalls as if he had never been.",
       "characters": [
-        "Giovanni.Assassin",
-        "Sadia"
+        "Theotomere"
       ],
-      "location": "ChapelOfBones",
+      "location": "Samarkand",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     },
     {
       "panel_num": 2,
-      "annotation": "Karishkir grabs L\u00fc\u00e8du\u00f3",
-      "visual": "Karishkir's arm extends far beyond what any human limb should reach - elongating impossibly - and her clawed hand closes around L\u00fc\u00e8du\u00f3's throat. She drags him toward her with inhuman strength. His scarves trail behind him as he struggles. Her other hand rakes at his face, leaving bloody gashes across his cheek. Her smile never wavers.",
-      "dialogue": "",
-      "narration": "Her arm shot out - extending far beyond what any human limb should reach.",
+      "visual": "Sadia stands at the mouth of an alley, hand on a sword-hilt worn smooth with use. Bracers gleam on her forearms. Everything about her speaks of someone who knows the better end of a blade. She gestures urgently.",
+      "dialogue": "Sadia: \"With me! With me, fools, or do you prefer the dungeon?\"",
+      "narration": "",
       "characters": [
-        "Karishkir",
-        "Lueduo"
+        "Sadia"
       ],
-      "location": "ChapelOfBones",
+      "location": "Samarkand",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     },
     {
       "panel_num": 3,
-      "annotation": "Wide shot - Isaac's light",
-      "visual": "Isaac stands near the entrance, his hands raised high, complex patterns of light weaving between his fingers. Pure, brilliant, painful light floods the chamber like the wrath of heaven itself - washing over the bone walls, the screaming cultists, the battling warriors. The cultists howl and writhe, covering their eyes. Nizack staggers, blinded. Even the heroes are caught in the brilliance. The contrast of holy light against the cathedral of death is absolute.",
+      "visual": "Wide shot of the group running through the gates, out of the city and into the sprawling caravan encampment. Cook-fires flicker in the gathering dusk. A fire-swallower performs for children. The great tent of Hind rises in the distance, its guy-ropes strung with bells.",
       "dialogue": "",
-      "narration": "Light began to pour from his upraised hands - pure, brilliant, painful light that flooded the chamber like the wrath of heaven itself.",
+      "narration": "Through the gates they plunged, out of the city proper and into the sprawling encampment of a caravan.",
       "characters": [
-        "Isaac"
+        "Giovanni",
+        "Bansi",
+        "Eskil",
+        "Gan",
+        "Sadia"
       ],
-      "location": "ChapelOfBones",
+      "location": "Samarkand.Night",
       "aspect_ratio": "16:9",
       "size": "1536x1024"
     }
