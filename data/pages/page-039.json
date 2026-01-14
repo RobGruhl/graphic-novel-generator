@@ -1,0 +1,55 @@
+{
+  "page_num": 39,
+  "title": "The Gambler",
+  "layout": "grid",
+  "panels": [
+    {
+      "panel_num": 1,
+      "visual": "Lueduo at a gambling table in a caravanserai common room, dice mid-throw. His pile of coins has grown enormous. Other players mutter, watching his impossible winning streak. Lamplight catches the subtle iridescent sheen of his skin, the golden glint of his changed eyes.",
+      "dialogue": "",
+      "narration": "The game began at sunset and should have ended at midnight. By moonrise he had tripled his stake.",
+      "characters": [
+        "Lueduo.Marked"
+      ],
+      "location": "DesertGamblingHall",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "visual": "Close-up of dice showing losing numbers. Lueduo's face shows the compulsion - he cannot stop. His winnings bleed away one bet at a time. Sweat beads on his brow. The fever has him.",
+      "dialogue": "TheNagini: \"Walk away. You have enough. Walk away.\"",
+      "narration": "Then the dice turned.",
+      "characters": [
+        "Lueduo.Marked"
+      ],
+      "location": "DesertGamblingHall",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "visual": "Lueduo pushes away from the table, penniless. Other players divide his former winnings with the dispassionate attention of wolves. Dawn light streams through the doorway. Only three things remain: a pear crystal clutched in his hand, a sketchbook, and the clothes on his back.",
+      "dialogue": "",
+      "narration": "By dawn, he had lost everything. His purse. His saddlebags. His provisions. All gone.",
+      "characters": [
+        "Lueduo.Marked"
+      ],
+      "location": "DesertGamblingHall",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 4,
+      "visual": "Lueduo walks into the desert dawn, silhouetted against the rising sun over mountains. Penniless but strangely at peace. The road stretches westward into the unknown. His shadow stretches long behind him, subtly serpentine.",
+      "dialogue": "TheNagini: \"You are a fool.\"",
+      "narration": "\"Yes. But I am a fool who still possesses the only things that matter.\"",
+      "characters": [
+        "Lueduo.Marked"
+      ],
+      "location": "TaklamakanDesert",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    }
+  ]
+}

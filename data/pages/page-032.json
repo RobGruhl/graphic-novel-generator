@@ -1,23 +1,56 @@
 {
   "page_num": 32,
-  "title": "Karishkir Revealed",
-  "panel_count": 1,
-  "is_spread": false,
-  "layout": "splash",
+  "title": "The Raven Ascends",
+  "layout": "grid",
   "panels": [
     {
       "panel_num": 1,
-      "annotation": "Full page splash - Karishkir in glory",
-      "visual": "Karishkir stands behind the altar in terrible glory - a figure of impossible beauty and horror. Her body is painted with symbols in blood, arcane sigils covering her skin. Her hair flows unbound past her shoulders like living shadow. Her eyes burn with golden fire, ancient and hungry. She wears nothing but the blood symbols and a smile of pure, transcendent cruelty. To her right stands Drekhlo - bare-chested, his torso marked with twisted runes that seem to writhe in the flickering light, the great sword on his back longer than a man is tall. Cultists ring the chamber behind them, perhaps two dozen, their bodies painted and their eyes glazed with fervor. The scene is lit by ritual flames that make the bone walls seem to dance.",
+      "visual": "Young Uyghur man in Tang court robes standing in a Chinese imperial hall. Long black hair, graceful bearing, golden-amber eyes. Other kneeling figures in background. Silk hangings and carved wood pillars.",
       "dialogue": "",
-      "narration": "She was beautiful - even now, even knowing more of what she was. Her body was painted with symbols in blood, her hair unbound and flowing past her shoulders, her eyes burning with golden fire.",
+      "narration": "By seventeen he had become beautiful in the way that draws the eye even as the mind recoils.",
       "characters": [
-        "Karishkir",
-        "Drekhlo"
+        "Lueduo.Hostage"
       ],
-      "location": "ChapelOfBones",
-      "aspect_ratio": "9:16",
-      "size": "1024x1536"
+      "location": "TangCourt",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "visual": "In the silence of the hall, where hostages are meant to kneel with lowered eyes, Lueduo dances. A few steps only - festival patterns adapted to the cramped space between kneeling bodies. The movement falls like stones into still water. Officials and princes freeze, watching.",
+      "dialogue": "",
+      "narration": "Instead of kneeling, he danced. In the silence of that hall, those steps fell like stones into still water.",
+      "characters": [
+        "Lueduo.Hostage"
+      ],
+      "location": "TangCourt",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "visual": "The Emperor of Tang on his Dragon Throne, hooded eyes watching the young Uyghur dancer. His mouth curves with something like appreciation. Around him, princes of the blood lean forward in fascination. Dawn light streams through silk screens.",
+      "dialogue": "TangEmperor: \"Raven. For his hair, and for the way he moves. Like a shadow with wings.\"",
+      "narration": "",
+      "characters": [
+        "TangEmperor",
+        "Lueduo.Hostage"
+      ],
+      "location": "TangCourt",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 4,
+      "visual": "Lueduo rises through the court like a shadow ascending stairs of light. Split image: dancing for ministers, performing for concubines behind lacquered screens, moving through the garden of serpents with eyes open and ears sharp. The nobility compete for his presence.",
+      "dialogue": "",
+      "narration": "What followed was a season of ascent. From prisoner to performer, from performer to favorite.",
+      "characters": [
+        "Lueduo.Spy"
+      ],
+      "location": "TangCourt",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
     }
   ]
 }

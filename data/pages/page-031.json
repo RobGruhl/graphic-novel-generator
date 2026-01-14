@@ -1,45 +1,40 @@
 {
   "page_num": 31,
-  "title": "The Cathedral of Death",
-  "panel_count": 3,
-  "is_spread": false,
+  "title": "Prologue IV: The Raven of the Emperor - The Black Tents",
   "layout": "3-top-wide",
   "panels": [
     {
       "panel_num": 1,
-      "annotation": "Wide establishing shot",
-      "visual": "A vast underground chamber reveals itself - a cathedral built of death. The walls are constructed from thousands of human skulls and bones, arranged in terrible geometric patterns. Columns of femurs and tibias rise into the darkness above. Flickering ritual flames cast dancing shadows through empty eye sockets. The scale is overwhelming, ancient, profane.",
+      "visual": "Wide establishing shot of the Taklamakan desert at dusk. Black felt tents of the Uyghur horse-clans dot the endless sands. The sky burns orange and purple. In the distance, mountains rise like the spines of sleeping dragons. The sand whispers secrets to the patient and the mad.",
       "dialogue": "",
-      "narration": "The chamber was a cathedral of death.",
+      "narration": "In the wastes of the Taklamakan, where the sand whispers secrets to the patient and the mad, there dwelt a people who remembered darker things than death.",
       "characters": [],
-      "location": "ChapelOfBones",
+      "location": "TaklamakanCamp",
       "aspect_ratio": "16:9",
       "size": "1536x1024"
     },
     {
       "panel_num": 2,
-      "annotation": "The altar",
-      "visual": "At the center of the bone cathedral stands an altar of black stone. Upon it, bound hand and foot, lies Rahzalahn - the oud player from the caravan. Her face shows terror but also defiance. The altar is stained dark with old blood. Heaps of treasure glitter behind the altar - gold, gems, the accumulated wealth of centuries.",
+      "visual": "Seven-year-old Lueduo learns the sacred dances from the clan shamans around a fire pit. His movements are already unnaturally graceful, his golden-amber eyes reflecting the flames. Other children watch in awe. The shamans nod to each other - this one is different.",
       "dialogue": "",
-      "narration": "In the center stood an altar of black stone. Upon it, bound hand and foot, lay Rahzalahn.",
+      "narration": "The shamans taught him the dances that were doorways. He learned them as a swordsman learns footwork - the movements mattered, the meaning did not.",
       "characters": [
-        "Rahzalahn"
+        "Lueduo.Child"
       ],
-      "location": "ChapelOfBones",
+      "location": "TaklamakanCamp",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     },
     {
       "panel_num": 3,
-      "annotation": "Nizack with dagger",
-      "visual": "Nizack stands over the altar, a ceremonial dagger raised high above Rahzalahn's heart, ready to plunge down. His face is twisted with religious fervor, his eyes glazed with madness. Behind him, mounted on the wall of bone, hangs the gold amulet they seek - glowing faintly with eldritch power.",
-      "dialogue": "",
-      "narration": "Behind them, mounted on the wall of bone, hung the gold amulet.",
+      "visual": "The oldest woman in the camp seizes young Lueduo's wrist after a festival, wrenching his palm toward the firelight. Her grip is iron. Her eyes are milk-white, blind but seeing. The flames behind her hiss and turn green. The child's face shows fear and wonder.",
+      "dialogue": "OldShamanWoman: \"Something old waits in you, boy. Fortune or ruin. I cannot see which.\"",
+      "narration": "",
       "characters": [
-        "Nizack",
-        "Rahzalahn"
+        "Lueduo.Child",
+        "OldShamanWoman"
       ],
-      "location": "ChapelOfBones",
+      "location": "TaklamakanCamp",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     }

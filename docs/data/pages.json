@@ -226,7 +226,7 @@
     },
     {
       "page": 29,
-      "title": "Eysýsla Burns",
+      "title": "Eysysla Burns",
       "image": "images/pages/page-029.webp",
       "thumbnail": "images/thumbnails/page-029.webp",
       "characters": ["Eskil.Young", "LeifSkull"],
@@ -242,44 +242,124 @@
     },
     {
       "page": 31,
-      "title": "The Cathedral of Death",
+      "title": "Prologue IV: The Raven of the Emperor - The Black Tents",
       "image": "images/pages/page-031.webp",
       "thumbnail": "images/thumbnails/page-031.webp",
+      "characters": ["Lueduo.Child", "OldShamanWoman"],
+      "locations": ["TaklamakanCamp"]
+    },
+    {
+      "page": 32,
+      "title": "The Raven Ascends",
+      "image": "images/pages/page-032.webp",
+      "thumbnail": "images/thumbnails/page-032.webp",
+      "characters": ["Lueduo.Hostage", "Lueduo.Spy", "TangEmperor"],
+      "locations": ["TangCourt"]
+    },
+    {
+      "page": 33,
+      "title": "The Garden of Serpents",
+      "image": "images/pages/page-033.webp",
+      "thumbnail": "images/thumbnails/page-033.webp",
+      "characters": ["Lueduo.Spy"],
+      "locations": ["TangCourt"]
+    },
+    {
+      "page": 34,
+      "title": "The Majordomo",
+      "image": "images/pages/page-034.webp",
+      "thumbnail": "images/thumbnails/page-034.webp",
+      "characters": ["Lueduo.Spy", "Wei"],
+      "locations": ["WeisChamber"]
+    },
+    {
+      "page": 35,
+      "title": "Lady Mei",
+      "image": "images/pages/page-035.webp",
+      "thumbnail": "images/thumbnails/page-035.webp",
+      "characters": ["Lueduo.Spy", "LadyMei", "MinisterZhang"],
+      "locations": ["TangCourt"]
+    },
+    {
+      "page": 36,
+      "title": "Exile",
+      "image": "images/pages/page-036.webp",
+      "thumbnail": "images/thumbnails/page-036.webp",
+      "characters": ["Lueduo.Spy", "TangEmperor", "Wei"],
+      "locations": ["TangThroneRoom"]
+    },
+    {
+      "page": 37,
+      "title": "The Serpent's Rest",
+      "image": "images/pages/page-037.webp",
+      "thumbnail": "images/thumbnails/page-037.webp",
+      "characters": ["TheNagini", "Lueduo.Spy"],
+      "locations": ["SerpentsRest"]
+    },
+    {
+      "page": 38,
+      "title": "The Claiming",
+      "image": "images/pages/page-038.webp",
+      "thumbnail": "images/thumbnails/page-038.webp",
+      "characters": ["TheNagini", "Lueduo.Marked"],
+      "locations": ["SerpentsRest", "TaklamakanDesert"]
+    },
+    {
+      "page": 39,
+      "title": "The Gambler",
+      "image": "images/pages/page-039.webp",
+      "thumbnail": "images/thumbnails/page-039.webp",
+      "characters": ["Lueduo.Marked"],
+      "locations": ["DesertGamblingHall", "TaklamakanDesert"]
+    },
+    {
+      "page": 40,
+      "title": "The Norseman",
+      "image": "images/pages/page-040.webp",
+      "thumbnail": "images/thumbnails/page-040.webp",
+      "characters": ["Lueduo.Marked", "Eskil"],
+      "locations": ["WesternVillage"]
+    },
+    {
+      "page": 41,
+      "title": "The Cathedral of Death",
+      "image": "images/pages/page-041.webp",
+      "thumbnail": "images/thumbnails/page-041.webp",
       "characters": ["Rahzalahn", "Nizack"],
       "locations": ["ChapelOfBones"]
     },
     {
-      "page": 32,
+      "page": 42,
       "title": "Karishkir Revealed",
-      "image": "images/pages/page-032.webp",
-      "thumbnail": "images/thumbnails/page-032.webp",
+      "image": "images/pages/page-042.webp",
+      "thumbnail": "images/thumbnails/page-042.webp",
       "characters": ["Karishkir", "Drekhlo"],
       "locations": ["ChapelOfBones"]
     },
     {
-      "page": 33,
+      "page": 43,
       "title": "Battle Erupts",
-      "image": "images/pages/page-033.webp",
-      "thumbnail": "images/thumbnails/page-033.webp",
+      "image": "images/pages/page-043.webp",
+      "thumbnail": "images/thumbnails/page-043.webp",
       "characters": ["Bansi.Battle", "Gan", "Rahzalahn", "Eskil.Berserker", "Drekhlo"],
       "locations": ["ChapelOfBones"]
     },
     {
-      "page": 34,
+      "page": 44,
       "title": "The Wrath of Heaven",
-      "image": "images/pages/page-034.webp",
-      "thumbnail": "images/thumbnails/page-034.webp",
+      "image": "images/pages/page-044.webp",
+      "thumbnail": "images/thumbnails/page-044.webp",
       "characters": ["Giovanni.Assassin", "Sadia", "Karishkir", "Lueduo", "Isaac"],
       "locations": ["ChapelOfBones"]
     },
     {
-      "page": 35,
+      "page": 45,
       "title": "The End of Nizack",
-      "image": "images/pages/page-035.webp",
-      "thumbnail": "images/thumbnails/page-035.webp",
+      "image": "images/pages/page-045.webp",
+      "thumbnail": "images/thumbnails/page-045.webp",
       "characters": ["Karishkir", "Drekhlo", "Eskil.Berserker", "Nizack", "Rahzalahn", "Bansi.Battle", "Lueduo"],
       "locations": ["ChapelOfBones"]
     }
   ],
-  "total": 35
+  "total": 45
 }

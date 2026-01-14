@@ -212,6 +212,71 @@
       "accessories": "Silks anointed with sacred oils wrapped around arms. Dice in pouch. Hidden serpent mark from Nagini."
     }
   },
+  "Lueduo.Child": {
+    "name": "Lueduo (Age Seven)",
+    "role": "Protagonist",
+    "base_character": "Lueduo",
+    "variant_context": "Young child learning dances from the shamans",
+    "full_description": "Seven-year-old Lueduo in the black tents of the Uyghur horse-clans. A beautiful child with golden-amber eyes learning the sacred dances. Already moving with unusual grace. The old woman sees something ancient waiting in him.",
+    "description_components": {
+      "head_face": "Young Uyghur child, androgynous beauty already evident. Golden-amber eyes. Black hair falling straight. Expression of intense focus.",
+      "body_build": "Small child's frame, but moving with preternatural grace even at this age.",
+      "clothing": "Simple nomad child's garments. Wool and leather. Practical for desert life.",
+      "accessories": "Nothing yet. The marks will come later."
+    }
+  },
+  "Lueduo.Young": {
+    "name": "Lueduo (Age Seventeen)",
+    "role": "Protagonist",
+    "base_character": "Lueduo",
+    "variant_context": "Beautiful youth causing trouble among the Uyghurs",
+    "full_description": "Seventeen-year-old Lueduo, beautiful in the way that draws the eye even as the mind recoils. High cheekbones, a mouth that curves cruel and kind by turns, hair black as a raven's wing falling to his shoulders. Golden-amber eyes with pupils that seem to shift in certain lights.",
+    "description_components": {
+      "head_face": "Stunning androgynous beauty at seventeen. Golden-amber eyes with hints of vertical pupils. Raven-black hair to shoulders. Mouth that suggests both cruelty and kindness.",
+      "body_build": "Lithe dancer's build fully formed. Moves like water, like something not entirely human.",
+      "clothing": "Uyghur nomad finery. Silks and embroidered wool. The clothes of a chieftain's favorite.",
+      "accessories": "Jewelry from various admirers. The accumulated tokens of his conquests."
+    }
+  },
+  "Lueduo.Hostage": {
+    "name": "Lueduo (Tang Court Hostage)",
+    "role": "Protagonist",
+    "base_character": "Lueduo",
+    "variant_context": "Arriving at the Tang court as a war prize",
+    "full_description": "Lueduo arriving at the Tang court as a hostage, meant to kneel and be invisible among other war prizes. Instead he dances - a few steps only, festival patterns adapted to cramped space. By midnight he performs for princes. By dawn he has a new name: Raven.",
+    "description_components": {
+      "head_face": "Same stunning beauty, now among Chinese nobles. Eyes watching, calculating. Hair bound in court style.",
+      "body_build": "Dancer's grace among kneeling hostages. Every movement deliberate.",
+      "clothing": "Hostage's simple robes, but worn with impossible elegance.",
+      "accessories": "Nothing - he has been stripped of possessions. His beauty is his only asset."
+    }
+  },
+  "Lueduo.Spy": {
+    "name": "Lueduo (Imperial Spy)",
+    "role": "Protagonist",
+    "base_character": "Lueduo",
+    "variant_context": "Working as Wei's agent in the Tang court",
+    "full_description": "Lueduo at the height of his power in the Tang court - performer by night, spy by day. He moves through the garden of serpents with eyes open and ears sharp, collecting secrets the way other men collect jade. The Emperor's Raven.",
+    "description_components": {
+      "head_face": "Court beauty perfected. Cosmetics enhancing already stunning features. Eyes that miss nothing. Expression of calculated charm.",
+      "body_build": "Dancer's build maintained. Moving through court like smoke.",
+      "clothing": "Fine Tang court silks. Layered robes in colors that flatter. Performance costumes for dancing.",
+      "accessories": "Court jewelry. Hidden ciphers. The tools of espionage concealed in beauty."
+    }
+  },
+  "Lueduo.Marked": {
+    "name": "Lueduo (Nagini's Claimed)",
+    "role": "Protagonist",
+    "base_character": "Lueduo",
+    "variant_context": "After being marked by the Nagini in the Serpent's Rest",
+    "full_description": "Lueduo after the Nagini's touch - waking in empty sand with puncture marks on his wrist and something coiled in a new space in his mind. His eyes now shift to vertical slits when he loses focus. His skin takes on an iridescent sheen in certain lights. Changed forever.",
+    "description_components": {
+      "head_face": "Same beauty but subtly changed. Eyes more likely to show vertical pupils. Skin with faint iridescence. Something serpentine in his expressions.",
+      "body_build": "Same dancer's build, but movements now sometimes bend in ways flesh should not.",
+      "clothing": "Travel-worn clothes from the western journey. Practical rather than beautiful.",
+      "accessories": "Puncture scars on wrist. The Nagini's presence coiled in his mind. Pear crystal and sketchbook - all he has left after gambling."
+    }
+  },
   "Lueduo.Court": {
     "name": "Lueduo (Tang Court Performance)",
     "role": "Protagonist",
@@ -627,6 +692,61 @@
       "body_build": "Tough from years of travel. Comfortable on camel or foot. Wiry endurance.",
       "clothing": "Practical traveling clothes. Desert headwrap. Quality boots.",
       "accessories": "Caravan master's staff. Coin purse. The authority of one who commands."
+    }
+  },
+  "OldShamanWoman": {
+    "name": "The Old Shaman Woman",
+    "role": "Minor",
+    "full_description": "The oldest woman in the Uyghur camp, blind with milky eyes but seeing things others cannot. She seizes young Lueduo's wrist after a festival, her grip iron, and sees something old waiting in his blood. Fortune or ruin - she cannot tell which.",
+    "description_components": {
+      "head_face": "Ancient face, deeply lined. Eyes gone to milk, blind but seeing. Expression of terrible knowing. White hair wild and unbound.",
+      "body_build": "Bent with age but with an iron grip. Moves with certainty despite blindness.",
+      "clothing": "Layered robes of a shaman. Furs and woven wool. Ceremonial pieces.",
+      "accessories": "Bone talismans. Dried herbs. The authority of one who speaks to spirits."
+    }
+  },
+  "Wei": {
+    "name": "Wei the Majordomo",
+    "role": "Supporting",
+    "full_description": "A eunuch risen through cunning to become one of the most powerful men in the Tang Empire. Soft voice, almost gentle, but eyes that notice everything. He receives Lueduo in a chamber bare of ornament and recruits him as a spy. His network of informants spans the empire.",
+    "description_components": {
+      "head_face": "Smooth eunuch's features, ageless and unsettling. Soft, calculating eyes. Thin smile that never reaches them. Voice like silk over steel.",
+      "body_build": "Soft body of one who never labors. Moves with deliberate economy. Every gesture meaningful.",
+      "clothing": "Court robes of high rank but severe simplicity. Dark colors. No ornamentation.",
+      "accessories": "Imperial seal of office. Network of spies. Files on everyone who matters."
+    }
+  },
+  "LadyMei": {
+    "name": "Lady Mei",
+    "role": "Supporting",
+    "full_description": "Second wife of Minister Zhang, a woman of immense beauty and insatiable appetites. She watches Lueduo dance from behind her screen, then finds him in the gardens. Their three-month affair will nearly cost him his life.",
+    "description_components": {
+      "head_face": "Stunning Tang beauty. Dark eyes that smolder with desire. Perfect makeup. Hair elaborately styled with jade ornaments.",
+      "body_build": "Curved and sensual. Moves with deliberate allure.",
+      "clothing": "Finest silk robes in colors that flatter. Low necklines. Clothes designed to be removed.",
+      "accessories": "Jade hairpins. Silk scarves. The scent of expensive perfume."
+    }
+  },
+  "MinisterZhang": {
+    "name": "Minister Zhang",
+    "role": "Supporting",
+    "full_description": "A man of immense wealth who sits on the Council of State. Elderly husband to Lady Mei. His face becomes carved from ice when he discovers his wife's infidelity. He demands the Uyghur dancer's head on a spear.",
+    "description_components": {
+      "head_face": "Elderly Tang noble, dignified and cold. Expression that shifts from ice to fury. Neat beard going gray.",
+      "body_build": "Aged but still commanding. Carries himself with absolute authority.",
+      "clothing": "Robes of a high minister. Rich but conservative. Imperial insignia of office.",
+      "accessories": "Seal of office. Guards at his command. The power of the Council of State."
+    }
+  },
+  "TangEmperor": {
+    "name": "The Emperor of Tang",
+    "role": "Supporting",
+    "full_description": "The Dragon Throne incarnate, ruler of the greatest empire in the world. Hooded, unreadable eyes. He names Lueduo 'Raven' for his hair and how he moves like a shadow with wings. Later, he sends him west to die usefully.",
+    "description_components": {
+      "head_face": "Imperial features, impossible to read. Hooded eyes that see everything. Dragon robes framing absolute power.",
+      "body_build": "Slight beneath the robes. Power comes from position, not physicality.",
+      "clothing": "Dragon robes of the Son of Heaven. Yellow silk. Imperial emblems.",
+      "accessories": "The Dragon Throne. The mandate of heaven. The power of life and death over millions."
     }
   }
 }

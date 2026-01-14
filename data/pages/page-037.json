@@ -1,0 +1,20 @@
+{
+  "page_num": 37,
+  "title": "The Serpent's Rest",
+  "layout": "splash",
+  "panels": [
+    {
+      "panel_num": 1,
+      "visual": "FULL PAGE SPLASH: The Nagini's underground chamber, impossibly vast, larger than the ruins above could contain. Columns carved with writhing forms rise into endless darkness. The floor is carpeted with bones - elongated skulls, wrong ribcages, vertebrae that suggest spines which bend in impossible directions. At the chamber's heart, the Nagini waits - wearing a woman's shape like a glove, dark hair coiling without wind, skin moonlight-pale with scales rippling beneath, golden eyes with vertical pupils. Lueduo falls to his knees before her, his body refusing to support him in her presence. The air itself seems to thicken around her divine horror.",
+      "dialogue": "Nagini: \"You are not what I expected. The soldiers they sent were hollow. Empty vessels. But you - something old waits in you.\"",
+      "narration": "",
+      "characters": [
+        "TheNagini",
+        "Lueduo.Spy"
+      ],
+      "location": "SerpentsRest",
+      "aspect_ratio": "9:16",
+      "size": "1024x1536"
+    }
+  ]
+}

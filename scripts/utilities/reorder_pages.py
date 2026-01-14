@@ -4,15 +4,17 @@ Reorder pages script.
 
 Current state:
 - Pages 1-10: Giovanni prologue
-- Pages 11-15: Chapel of Bones
-- Pages 16-25: Eskil prologue
-- Pages 26-35: Bansi prologue
+- Pages 11-20: Bansi prologue
+- Pages 21-30: Eskil prologue
+- Pages 31-35: Chapel of Bones
+- Pages 36-45: Lueduo prologue
 
 Target state:
-- Pages 1-10: Giovanni prologue (stays the same)
-- Pages 11-20: Bansi prologue (was 26-35)
-- Pages 21-30: Eskil prologue (was 16-25)
-- Pages 31-35: Chapel of Bones (was 11-15)
+- Pages 1-10: Giovanni prologue (no change)
+- Pages 11-20: Bansi prologue (no change)
+- Pages 21-30: Eskil prologue (no change)
+- Pages 31-40: Lueduo prologue (was 36-45)
+- Pages 41-45: Chapel of Bones (was 31-35)
 """
 
 import os
@@ -21,30 +23,21 @@ import shutil
 from pathlib import Path
 
 # Define the mapping: old_page -> new_page
-# Pages 1-10 stay the same
-# Pages 26-35 (Bansi) -> 11-20
-# Pages 16-25 (Eskil) -> 21-30
-# Pages 11-15 (Chapel) -> 31-35
-
 mapping = {}
 
-# Pages 1-10: no change
-for i in range(1, 11):
+# Pages 1-30: no change
+for i in range(1, 31):
     mapping[i] = i
 
-# Pages 26-35 (Bansi) -> 11-20
-for i in range(26, 36):
-    mapping[i] = i - 15  # 26->11, 27->12, ..., 35->20
+# Pages 36-45 (Lueduo) -> 31-40
+for i in range(36, 46):
+    mapping[i] = i - 5  # 36->31, 37->32, ..., 45->40
 
-# Pages 16-25 (Eskil) -> 21-30
-for i in range(16, 26):
-    mapping[i] = i + 5  # 16->21, 17->22, ..., 25->30
+# Pages 31-35 (Chapel) -> 41-45
+for i in range(31, 36):
+    mapping[i] = i + 10  # 31->41, 32->42, ..., 35->45
 
-# Pages 11-15 (Chapel) -> 31-35
-for i in range(11, 16):
-    mapping[i] = i + 20  # 11->31, 12->32, ..., 15->35
-
-print("Mapping:")
+print("Mapping (changes only):")
 for old, new in sorted(mapping.items()):
     if old != new:
         print(f"  {old:2d} -> {new:2d}")
@@ -121,7 +114,7 @@ print("Done!")
 
 # Verify
 print("\nVerifying page JSON files:")
-for i in range(1, 36):
+for i in range(1, 46):
     f = pages_json_dir / f"page-{i:03d}.json"
     if f.exists():
         with open(f, 'r') as file:

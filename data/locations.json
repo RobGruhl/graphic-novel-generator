@@ -401,5 +401,65 @@
       "lighting": "Oil lamps and incense smoke. The dark idol catching firelight. Shadows that seem to move with purpose.",
       "key_features": "The idol of Kali - garland of skulls, multiple arms, weapons and symbols. Altar for offerings. Devotees in prayer. The presence of the goddess herself, looking into Bansi's soul."
     }
+  },
+  "TaklamakanCamp": {
+    "name": "Uyghur Black Tents (Taklamakan)",
+    "full_description": "The black tents of the Uyghur horse-clans in the wastes of the Taklamakan desert. Here the shamans teach the sacred dances and the old woman speaks prophecy. The sand whispers secrets to the patient and the mad.",
+    "description_components": {
+      "architecture": "Black felt tents stretched on wooden frames. Arranged in clan patterns. Fire pits for ceremonies. Horse corrals nearby.",
+      "atmosphere": "Ancient nomad life. Wolf-lords and sky-fathers. The memory of darker things than death. Fire-ceremonies and spirit dances.",
+      "lighting": "Desert sun by day, harsh and unforgiving. Firelight by night, dancing on tent walls. Stars impossibly bright.",
+      "key_features": "Black tents of the horse-clans. Shamans in ceremonial dress. Fire pits with green flames. The old woman with milk-white eyes."
+    }
+  },
+  "WeisChamber": {
+    "name": "Wei's Chamber",
+    "full_description": "The receiving chamber of Wei the majordomo, bare of ornament, lit by a single lamp. Here the eunuch spymaster recruits his agents. The absence of decoration is a statement - power needs no display.",
+    "description_components": {
+      "architecture": "Simple stone room within the palace. No decorations. Single lamp. Two chairs. Nothing to distract from the conversation.",
+      "atmosphere": "Stripped bare. No comfort, no ornament. A place for truth and recruitment. The spider's center of the web.",
+      "lighting": "Single oil lamp casting sharp shadows. Much of the room in darkness. Wei's face half-lit.",
+      "key_features": "The bare room. The single lamp. Wei on his chair. The files he knows about everyone."
+    }
+  },
+  "TangThroneRoom": {
+    "name": "Tang Throne Room",
+    "full_description": "The audience chamber of the Dragon Throne, where the Emperor of Tang decides the fates of millions. Empty save for three - the Emperor on his throne, Wei at his side, and Lueduo on his knees awaiting judgment.",
+    "description_components": {
+      "architecture": "Vast imperial chamber. Dragon throne on raised dais. Carved pillars. Silk hangings in imperial yellow.",
+      "atmosphere": "Absolute power. The weight of the mandate of heaven. Life and death decided with a word.",
+      "lighting": "Filtered through silk screens. The throne in light, supplicants in shadow. Imperial magnificence.",
+      "key_features": "The Dragon Throne. Imperial guards at the doors. The empty vastness emphasizing the Emperor's power."
+    }
+  },
+  "DesertGamblingHall": {
+    "name": "Caravanserai Gambling Room",
+    "full_description": "The common room of a caravanserai along the western trade routes, where Lueduo's gambling fever consumes him. Dice and cards and the compulsion he cannot resist. By dawn he will have nothing left but a crystal, a sketchbook, and the clothes on his back.",
+    "description_components": {
+      "architecture": "Simple caravanserai common room. Low tables. Cushions. Oil lamps. Other travelers watching.",
+      "atmosphere": "Gambling fever. The rattle of dice. Coins changing hands. The spiral of winning and losing.",
+      "lighting": "Smoky oil lamps. Shadows on faces. The gleam of coins and dice.",
+      "key_features": "Gaming tables. Piles of coins. Other players watching like wolves. The fever that cannot be stopped."
+    }
+  },
+  "WesternVillage": {
+    "name": "Nameless Western Village",
+    "full_description": "A village that has no name worth remembering, somewhere in the western lands. Where Lueduo finds Eskil beside a cold forge, repairing a farmer's plow with surprising delicacy. Two cursed souls about to join forces.",
+    "description_components": {
+      "architecture": "Simple village buildings of local stone. Cold forge. Modest dwellings. Nothing remarkable.",
+      "atmosphere": "Quiet anonymity. A place to hide. Two monsters finding each other.",
+      "lighting": "Afternoon light. The cold forge. Shadows where Lueduo watches.",
+      "key_features": "The cold forge where Eskil works. Simple village life around them. The beginning of a partnership."
+    }
+  },
+  "TaklamakanDesert": {
+    "name": "Taklamakan Desert",
+    "full_description": "The vast wasteland of the Taklamakan where the sand whispers secrets to the patient and the mad. Empty desert stretching to horizons under brutal sun. A place of exile and transformation, where Lueduo wakes after the Nagini's touch.",
+    "description_components": {
+      "architecture": "No structures. Empty sand dunes. Distant mountains on the horizon. Perhaps a shallow depression where a body has lain.",
+      "atmosphere": "Vast emptiness. The silence after revelation. A new beginning in desolation.",
+      "lighting": "Dawn light breaking over sand. Harsh sun waiting. Long shadows stretching westward.",
+      "key_features": "Empty sand where ruins once stood. The absence of the Serpent's Rest. Mountains in the distance. The road west."
+    }
   }
 }

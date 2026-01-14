@@ -1,0 +1,46 @@
+{
+  "page_num": 40,
+  "title": "The Norseman",
+  "layout": "3-bottom-wide",
+  "panels": [
+    {
+      "panel_num": 1,
+      "visual": "Lueduo watches from shadow as Eskil sits beside a cold forge in a nameless village. The Norseman is impossible to miss - nearly seven feet of scarred muscle, face hidden behind a helm of blackened steel fused to a collar around his throat. His massive hands delicately repair a farmer's plow.",
+      "dialogue": "Lueduo: \"You are far from home.\"",
+      "narration": "He found the Norseman in a village that had no name worth remembering.",
+      "characters": [
+        "Lueduo.Marked",
+        "Eskil"
+      ],
+      "location": "WesternVillage",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "visual": "Eskil rises to his full height, towering over Lueduo like a siege engine made flesh. Pale blue eyes regard him through the helm's many holes. Six feet of forged steel strapped to his back. Two cursed men taking each other's measure.",
+      "dialogue": "Eskil: \"I am Eskil. Of a place that no longer exists. I am cursed, and hunted, and dangerous to those who travel with me.\"",
+      "narration": "",
+      "characters": [
+        "Lueduo.Marked",
+        "Eskil"
+      ],
+      "location": "WesternVillage",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "visual": "Wide shot: Lueduo and Eskil clasp hands - the dancer and the giant, the spy and the sellsword. Dawn light breaks over distant mountains. Two broken souls finding common purpose on the road to Samarkand. Their shadows stretch westward together.",
+      "dialogue": "Lueduo: \"I am Lueduo. Called Raven. I am also cursed, also hunted, and far more dangerous than you realize. It seems we have much in common.\"",
+      "narration": "They departed at dawn.",
+      "characters": [
+        "Lueduo.Marked",
+        "Eskil"
+      ],
+      "location": "WesternVillage",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
+    }
+  ]
+}

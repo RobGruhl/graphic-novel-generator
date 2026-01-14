@@ -1,0 +1,34 @@
+{
+  "page_num": 36,
+  "title": "Exile",
+  "layout": "2-horizontal",
+  "panels": [
+    {
+      "panel_num": 1,
+      "visual": "Wide shot of the Imperial audience chamber. The Emperor sits on the Dragon Throne, hooded eyes unreadable. Wei stands at his side. Lueduo kneels alone on the vast marble floor, a tiny figure before absolute power. Golden light streams through high windows.",
+      "dialogue": "TangEmperor: \"Minister Zhang wants your head. He is valuable. His support is important.\"",
+      "narration": "",
+      "characters": [
+        "TangEmperor",
+        "Wei",
+        "Lueduo.Spy"
+      ],
+      "location": "TangThroneRoom",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
+    },
+    {
+      "panel_num": 2,
+      "visual": "Close-up of the Emperor leaning forward on his throne, his mouth curved with cruel amusement. Wei's thin smile visible behind him. The judgment is delivered - exile disguised as opportunity.",
+      "dialogue": "TangEmperor: \"Go, then. Die usefully if you can. Do not return without something of value. My patience has limits.\"",
+      "narration": "The journey west took him back along the Silk Road, through cities he had passed in chains.",
+      "characters": [
+        "TangEmperor",
+        "Wei"
+      ],
+      "location": "TangThroneRoom",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
+    }
+  ]
+}

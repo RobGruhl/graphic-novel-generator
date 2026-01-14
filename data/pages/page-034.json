@@ -1,50 +1,45 @@
 {
   "page_num": 34,
-  "title": "The Wrath of Heaven",
-  "panel_count": 3,
-  "is_spread": false,
-  "layout": "3-bottom-wide",
+  "title": "The Majordomo",
+  "layout": "3-top-wide",
   "panels": [
     {
       "panel_num": 1,
-      "annotation": "Giovanni and Sadia fighting",
-      "visual": "Giovanni dashes into the melee, his dagger finding a cultist's heart before the man can raise his weapon. His priest's robes are spattered with blood, his face a mask of holy purpose. Beside him, Sadia's blade cleaves through a cultist's spear and then through the cultist himself. Behind them, one of the drummers begins to transform - fur sprouting from his skin, jaw distending into a muzzle.",
-      "dialogue": "",
-      "narration": "Giovanni saw one of the drummers beginning to transform.",
+      "visual": "Wide shot of Wei's stark chamber - bare of ornament, lit by a single oil lamp. The eunuch Wei sits behind a simple desk, shadows pooling around him. Lueduo stands before him, caught. The lamp flame is the only movement in absolute stillness.",
+      "dialogue": "Wei: \"You have been busy. Minister Chen's daughter. General Wu's wife. The shipping records. Prince Hui's gambling debts.\"",
+      "narration": "",
       "characters": [
-        "Giovanni.Assassin",
-        "Sadia"
+        "Wei",
+        "Lueduo.Spy"
       ],
-      "location": "ChapelOfBones",
-      "aspect_ratio": "3:4",
-      "size": "768x1024"
+      "location": "WeisChamber",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
     },
     {
       "panel_num": 2,
-      "annotation": "Karishkir grabs L\u00fc\u00e8du\u00f3",
-      "visual": "Karishkir's arm extends far beyond what any human limb should reach - elongating impossibly - and her clawed hand closes around L\u00fc\u00e8du\u00f3's throat. She drags him toward her with inhuman strength. His scarves trail behind him as he struggles. Her other hand rakes at his face, leaving bloody gashes across his cheek. Her smile never wavers.",
-      "dialogue": "",
-      "narration": "Her arm shot out - extending far beyond what any human limb should reach.",
+      "visual": "Close-up of Wei leaning forward, his eyes glittering in the lamplight. His smile is thin as a blade. Power radiates from his stillness. He is a spider at the center of an invisible web.",
+      "dialogue": "Wei: \"You thought no one noticed. I notice everything. It is what I do.\"",
+      "narration": "",
       "characters": [
-        "Karishkir",
-        "Lueduo"
+        "Wei"
       ],
-      "location": "ChapelOfBones",
+      "location": "WeisChamber",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     },
     {
       "panel_num": 3,
-      "annotation": "Wide shot - Isaac's light",
-      "visual": "Isaac stands near the entrance, his hands raised high, complex patterns of light weaving between his fingers. Pure, brilliant, painful light floods the chamber like the wrath of heaven itself - washing over the bone walls, the screaming cultists, the battling warriors. The cultists howl and writhe, covering their eyes. Nizack staggers, blinded. Even the heroes are caught in the brilliance. The contrast of holy light against the cathedral of death is absolute.",
-      "dialogue": "",
-      "narration": "Light began to pour from his upraised hands - pure, brilliant, painful light that flooded the chamber like the wrath of heaven itself.",
+      "visual": "Lueduo kneeling before Wei, head bowed in submission. The single lamp casts their shadows long across the bare floor. A new alliance is forged in shadow.",
+      "dialogue": "Lueduo: \"I am yours to command.\"",
+      "narration": "What Wei offered was infrastructure. Direction. Protection.",
       "characters": [
-        "Isaac"
+        "Wei",
+        "Lueduo.Spy"
       ],
-      "location": "ChapelOfBones",
-      "aspect_ratio": "16:9",
-      "size": "1536x1024"
+      "location": "WeisChamber",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
     }
   ]
 }

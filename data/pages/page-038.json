@@ -1,0 +1,44 @@
+{
+  "page_num": 38,
+  "title": "The Claiming",
+  "layout": "3-right-tall",
+  "panels": [
+    {
+      "panel_num": 1,
+      "visual": "The Nagini extends her hand toward Lueduo - fingers too long, joints too many, seeming to multiply as he watches. Her golden slit-pupil eyes gleam with ancient hunger. Dark hair coils like living serpents around her shoulders.",
+      "dialogue": "TheNagini: \"You are mine. You have always been mine. I simply had to wait for you to ripen.\"",
+      "narration": "",
+      "characters": [
+        "TheNagini",
+        "Lueduo.Spy"
+      ],
+      "location": "SerpentsRest",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "visual": "Visions hammer into Lueduo's mind - serpent-cities beneath the earth, spires reaching down into endless darkness. Beings coiled around the roots of mountains. A war fought before mammals walked the earth. His bloodline threading through it all, carrying a spark that waited to be rekindled.",
+      "dialogue": "",
+      "narration": "Visions hammering into his mind faster than thought - serpent-cities, ancient wars, a bloodline nearly lost.",
+      "characters": [
+        "Lueduo.Marked"
+      ],
+      "location": "SerpentsRest",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "visual": "TALL PANEL: Lueduo wakes in empty desert at dawn. The ruins are gone - simply absent, as if they never existed. He lies in a shallow depression in the sand. On his wrist, two puncture marks weep clear fluid. His eyes have changed - golden now, with pupils that seem to shift. Something coils in his mind, watching, patient.",
+      "dialogue": "TheNagini: \"Go west, little raven. There are others whose paths will cross yours. Broken souls. Useful souls. You will know them when you find them.\"",
+      "narration": "",
+      "characters": [
+        "Lueduo.Marked"
+      ],
+      "location": "TaklamakanDesert",
+      "aspect_ratio": "9:16",
+      "size": "1024x1536"
+    }
+  ]
+}
