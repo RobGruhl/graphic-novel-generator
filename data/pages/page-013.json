@@ -1,51 +1,41 @@
 {
   "page_num": 13,
-  "title": "Battle Erupts",
-  "panel_count": 4,
-  "is_spread": false,
-  "layout": "grid",
+  "title": "The Invisible Servant",
+  "layout": "3-left-tall",
   "panels": [
     {
       "panel_num": 1,
-      "annotation": "Bansi's challenge",
-      "visual": "Bansi stands at the entrance to the bone cathedral, silhouetted against the darkness behind her. Her expression is a wild, savage grin - nothing of mirth in it. Multiple blades gleam in her hands. Her stance says she is ready to dance with death itself.",
-      "dialogue": "Bansi: \"Come get a bone, little doggies.\"",
-      "narration": "",
-      "characters": ["Bansi.Battle"],
-      "location": "ChapelOfBones",
-      "aspect_ratio": "3:4",
-      "size": "768x1024"
+      "visual": "Tall panel: Iksha disguised as the servant boy Ravi moves through the palace corridors. She carries a water jug, moving with purpose. Guards pay her no attention. Servants nod as she passes. She has learned that one carrying something - a tray, a jug, a bundle of linens - can go almost anywhere without question.",
+      "dialogue": "",
+      "narration": "By her twelfth year, her skills at disguise had evolved beyond simple impersonation. She became a ghost in her own home.",
+      "characters": [
+        "Bansi.Servant"
+      ],
+      "location": "PalaceOfSonapura",
+      "aspect_ratio": "9:16",
+      "size": "1024x1536"
     },
     {
       "panel_num": 2,
-      "annotation": "Gan's arrow",
-      "visual": "Gan draws and looses a flaming arrow. The shaft streaks across the chamber trailing fire. Her falcon dives alongside it, talons extended, going for Nizack's face. The firelight illuminates her determined expression.",
+      "visual": "Iksha kneels before a locked door in a dark corridor. Hair pins from her mother's chamber serve as lockpicks. Her fingers work with practiced precision, face set in concentration. The lock yields with a soft click.",
       "dialogue": "",
-      "narration": "The battle erupted.",
-      "characters": ["Gan"],
-      "location": "ChapelOfBones",
+      "narration": "She learned to pick locks using pins stolen from her mother's chamber.",
+      "characters": [
+        "Bansi.Servant"
+      ],
+      "location": "PalaceOfSonapura",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     },
     {
       "panel_num": 3,
-      "annotation": "Bansi frees Rahzalahn",
-      "visual": "Bansi moves like smoke across the bone-strewn floor, tumbling beneath a cultist's wild swing. She comes up at the altar's edge, her blade singing twice to sever Rahzalahn's bonds. Rahzalahn's eyes are wide with desperate hope.",
-      "dialogue": "Bansi: \"Go!\"",
-      "narration": "",
-      "characters": ["Bansi.Battle", "Rahzalahn"],
-      "location": "ChapelOfBones",
-      "aspect_ratio": "3:4",
-      "size": "768x1024"
-    },
-    {
-      "panel_num": 4,
-      "annotation": "Eskil vs Drekhlo",
-      "visual": "Eskil charges toward Karishkir but Drekhlo intercepts him, the great sword clearing its sheath with terrible speed. Their blades meet in a shower of sparks, the impact ringing through the chamber. Two warriors of the North facing each other - one corrupted, one bearing the rune-inscribed collar fused to his flesh.",
+      "visual": "Through the great palace gates, Iksha-as-Ravi steps out into Srinagar proper for the first time. The bazaar stretches before her - a world of merchants and beggars, scholars and thieves. Her eyes are wide with excitement, heart hammering. Freedom.",
       "dialogue": "",
-      "narration": "Their blades met in a shower of sparks, the impact ringing through the chamber like a bell.",
-      "characters": ["Eskil.Berserker", "Drekhlo"],
-      "location": "ChapelOfBones",
+      "narration": "She learned the city's rhythms as she had learned the palace's - where to go, where to avoid, how to move through crowds without drawing attention.",
+      "characters": [
+        "Bansi.Servant"
+      ],
+      "location": "SrinagarBazaar",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     }

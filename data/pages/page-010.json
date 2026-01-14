@@ -10,7 +10,9 @@
       "visual": "Venice rises from the water in all its glory - a magnificent splash page showing the city as Giovanni first saw it. Gothic palazzos rise from the canals, their reflections shimmering in the water. Church spires pierce the sky. The Grand Canal teems with gondolas and trading vessels from every corner of the known world. Bridges arch gracefully over waterways. In the foreground corner, Giovanni's face is visible in profile, his expression one of pure wonder - a farm boy seeing the impossible made real. The Mediterranean light catches everything in gold, and the city seems to float on the water like a dream of wealth and power. Markets line the shore, their awnings bright with color. The domes of San Marco rise in the distance.",
       "dialogue": "",
       "narration": "He saw Venice in all its glory - the canals and palaces, the markets where goods from the far reaches of the known world changed hands, the churches heavy with gold and the brothels heavy with sin. He saw Rome, where the Pope sat in splendor while beggars died in the streets. He saw Constantinople, that strange hybrid city where East met West and both came away changed. And everywhere he went, he saw the Church.",
-      "characters": ["Giovanni.Merchant"],
+      "characters": [
+        "Giovanni.Merchant"
+      ],
       "location": "Venice",
       "aspect_ratio": "9:16",
       "size": "1024x1536"

@@ -1,27 +1,31 @@
 {
   "page_num": 24,
-  "title": "Eysýsla Burns",
-  "layout": "2-vertical",
+  "title": "The Ritual",
+  "layout": "2-horizontal",
   "panels": [
     {
       "panel_num": 1,
-      "visual": "The purple rift descends upon Eysýsla like divine judgment. Where it touches earth, stone melts like wax. Wood bursts into unnatural flame that burns purple and cold. The fortress walls sag and flow like honey. People flee in all directions, screaming, burning with cold purple fire. Geometries that hurt to perceive fold through impossible tessellations. The entire island seems to collapse inward.",
-      "dialogue": "LeifSkull: \"The compact is broken. Eysýsla will burn. Everything will burn.\"",
-      "narration": "",
+      "visual": "Wide cinematic shot of the Underryd bog at night. The moon illuminates swirling mist. The girls stand in a breathless semi-circle at the edge of the glade, their white clothing ghostly in the moonlight. Ancient trees with gnarled branches frame the scene. The path of silver - moonlight on broken grass - leads from the dance pavilion to this sacred place.",
+      "dialogue": "",
+      "narration": "Out on the bog there is coupling in progress. The moon turns all skin white and milky. The girls howl when they see the blood.",
       "characters": [],
-      "location": "Eysysla.Destroyed",
-      "aspect_ratio": "9:16",
-      "size": "1024x1536"
+      "location": "UnderrydBog",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
     },
     {
       "panel_num": 2,
-      "visual": "Eskil rows desperately away from the island, the iron skull clutched against his chest. Behind him, Eysýsla folds in on itself, drawn up into the terrible wound in the sky. The purple rift swallows everything - fortress, village, bog, forest. Where the island stood, only blackened stone will remain. His massive form hunches over the oars, rowing south through the night.",
+      "visual": "In the center of the ritual space, Kari and Eskil couple in the grass. Her hands are at his throat, strangling him. Anna stands behind them with arms raised to the moon, her hair unbound and flowing, her body painted with symbols. The girls watch with glazed eyes, clasping each other's hands. The drumbeat rises from somewhere beyond perception.",
       "dialogue": "",
-      "narration": "Eskil rowed south through the night, following the coast. The compact was broken. The Goat had taken her due.",
-      "characters": ["Eskil.Young", "LeifSkull"],
-      "location": "Eysysla.Destroyed",
-      "aspect_ratio": "9:16",
-      "size": "1024x1536"
+      "narration": "Kari takes Meat's throat in a stranglehold. He grins like an idiot when she starts squeezing.",
+      "characters": [
+        "Kari.Ritual",
+        "Eskil.Ritual",
+        "Anna.Ritual"
+      ],
+      "location": "UnderrydBog",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
     }
   ]
 }

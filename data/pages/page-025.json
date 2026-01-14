@@ -1,47 +1,20 @@
 {
   "page_num": 25,
-  "title": "The Helm and Collar",
-  "layout": "grid",
+  "title": "The Messenger Arrives",
+  "layout": "splash",
   "panels": [
     {
       "panel_num": 1,
-      "visual": "Eskil raises his hand to his mouth and bites down on his own wrist. The taste that floods his mouth is indescribable - ecstasy and agony intertwined. His own blood is like liquid fire, like honey and lightning. His eyes are wide with horror at what he is doing, but he cannot stop. The hunger has come.",
-      "dialogue": "",
-      "narration": "The hunger came on the third day. His own blood was like liquid fire, like honey and lightning. More delicious than anything he had ever tasted.",
-      "characters": ["Eskil.Young"],
-      "location": "KyivArena",
-      "aspect_ratio": "3:4",
-      "size": "768x1024"
-    },
-    {
-      "panel_num": 2,
-      "visual": "By candlelight in a gladiator's cell, Eskil works at the forge. He carves runes of binding and protection into thick bands of steel. Runes against hunger, against madness, against the call of the Goat. The iron skull watches from nearby, its eye sockets seeming to glow.",
-      "dialogue": "LeifSkull: \"You will need something to prevent you from getting to your own blood. Something locked. Permanent.\"",
-      "narration": "",
-      "characters": ["Eskil.Young", "LeifSkull"],
-      "location": "KyivArena",
-      "aspect_ratio": "3:4",
-      "size": "768x1024"
-    },
-    {
-      "panel_num": 3,
-      "visual": "Eskil seals the collar and helm shut with molten iron, binding himself for all time. The pain is exquisite - metal burning against skin, runes activating in a surge of power. His face contorts in silent agony. Steam rises from where iron fuses to flesh.",
-      "dialogue": "",
-      "narration": "The pain was exquisite. The metal burning against his skin, the runes activating all at once in a surge of power.",
-      "characters": ["Eskil"],
-      "location": "KyivArena",
-      "aspect_ratio": "3:4",
-      "size": "768x1024"
-    },
-    {
-      "panel_num": 4,
-      "visual": "The completed figure stands in silhouette - Eskil of Eysýsla, six feet eight inches of scarred muscle encased in his permanent prison. The spherical helm with its breathing holes. The rune-inscribed collar locked forever at his throat. His great blade with the prayer inscription: A furore Normannorum libera nos, Domine. The iron skull hangs at his belt. He is ready to hunt.",
-      "dialogue": "",
-      "narration": "He was Eskil of Eysýsla, survivor of the broken compact, bearer of his people's vigor. This was his burden. This was his purpose.",
-      "characters": ["Eskil"],
-      "location": "KyivArena",
-      "aspect_ratio": "3:4",
-      "size": "768x1024"
+      "visual": "FULL PAGE SPLASH: The Messenger of Shub-Niggurath emerges from the bog in all its cosmic horror. Thirty feet of swaying tentacles thick as tree trunks, like a dead tree that moves. Multiple gleaming eyes scattered across its mass, ancient and utterly evil. It crashes through the pines, snapping a seventy-five foot tree at its roots. The crown strikes the ground before Anna, showering the ritual with pine needles and bog water. Anna stands with arms raised toward the abomination, welcoming it. The girls howl at the moon. Eskil lies half-strangled in the grass, finally seeing the horror his brother warned him about. The moon turns everything silver and terrible.",
+      "dialogue": "The Girls: \"I\u00e4! I\u00e4!\"",
+      "narration": "The Black Goat has a thousand young. Like a thirty-foot piece of kelp on legs like bridge piers. It lashes out here and there with its tentacles and bellows.",
+      "characters": [
+        "Anna.Ritual",
+        "Eskil.Ritual"
+      ],
+      "location": "UnderrydBog",
+      "aspect_ratio": "9:16",
+      "size": "1024x1536"
     }
   ]
 }

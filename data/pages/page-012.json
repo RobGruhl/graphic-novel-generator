@@ -1,20 +1,57 @@
 {
   "page_num": 12,
-  "title": "Karishkir Revealed",
-  "panel_count": 1,
-  "is_spread": false,
-  "layout": "splash",
+  "title": "The Secret Education",
+  "layout": "grid",
   "panels": [
     {
       "panel_num": 1,
-      "annotation": "Full page splash - Karishkir in glory",
-      "visual": "Karishkir stands behind the altar in terrible glory - a figure of impossible beauty and horror. Her body is painted with symbols in blood, arcane sigils covering her skin. Her hair flows unbound past her shoulders like living shadow. Her eyes burn with golden fire, ancient and hungry. She wears nothing but the blood symbols and a smile of pure, transcendent cruelty. To her right stands Drekhlo - bare-chested, his torso marked with twisted runes that seem to writhe in the flickering light, the great sword on his back longer than a man is tall. Cultists ring the chamber behind them, perhaps two dozen, their bodies painted and their eyes glazed with fervor. The scene is lit by ritual flames that make the bone walls seem to dance.",
+      "visual": "In a shadowed corridor at night, young Iksha transforms herself. She binds her hair beneath a cap, charcoal darkening her eyebrows. Her fine silk garments have been exchanged for a young prince's simple training clothes. Her eyes gleam with determination in the candlelight.",
+      "dialogue": "Bansi.Young: \"I'll go for you. To your lessons. You can sleep, practice archery, whatever you want.\"",
+      "narration": "",
+      "characters": [
+        "Bansi.Young"
+      ],
+      "location": "PalaceOfSonapura",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "visual": "Prince Vikrahma stares at his sister in disbelief. He is small for his age, with a sulky expression. Behind him, his chambers show evidence of avoided responsibilities - practice scrolls untouched, training weapons gathering dust.",
+      "dialogue": "Vikrahma: \"What? You... you could do that?\"",
+      "narration": "",
+      "characters": [
+        "Vikrahma",
+        "Bansi.Young"
+      ],
+      "location": "PalaceOfSonapura",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "visual": "Iksha sits among the princes in the lesson hall, head bowed appropriately, dressed as Vikrahma. The tutor speaks passionately about ancient battles and the constellations of the stars. Her eyes are bright with the knowledge she is drinking in - warfare, strategy, the movements of the heavens.",
       "dialogue": "",
-      "narration": "She was beautiful - even now, even knowing more of what she was. Her body was painted with symbols in blood, her hair unbound and flowing past her shoulders, her eyes burning with golden fire.",
-      "characters": ["Karishkir", "Drekhlo"],
-      "location": "ChapelOfBones",
-      "aspect_ratio": "9:16",
-      "size": "1024x1536"
+      "narration": "She learned to answer when called upon but not so brilliantly as to draw attention. To be unremarkable in a room full of princes.",
+      "characters": [
+        "Bansi.Young"
+      ],
+      "location": "PalaceOfSonapura",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 4,
+      "visual": "Split panel showing contrast: on one side, Vikrahma sleeps peacefully in a garden. On the other, Iksha-as-Vikrahma absorbs a lesson on mathematics, her fingers tracing equations in the air. Knowledge consumed like a desert drinks rain.",
+      "dialogue": "",
+      "narration": "She learned the world was larger than the palace walls, and she was meant for more than embroidery and arranged marriage.",
+      "characters": [
+        "Bansi.Young",
+        "Vikrahma"
+      ],
+      "location": "PalaceOfSonapura",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
     }
   ]
 }

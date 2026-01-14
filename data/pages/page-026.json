@@ -1,0 +1,51 @@
+{
+  "page_num": 26,
+  "title": "The Feeding",
+  "layout": "grid",
+  "panels": [
+    {
+      "panel_num": 1,
+      "visual": "The girls attack with primal fury, clawing and tearing at the figure in the grass. Blood everywhere. Cartilage and tendons crack. Two young women bend an elbow the wrong direction, twisting it off like a bird's wing. Their eyes are empty, their mouths stained black with blood.",
+      "dialogue": "",
+      "narration": "And then, once the Messenger has acknowledged them. Sofie is surprised every time.",
+      "characters": [],
+      "location": "UnderrydBog",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "visual": "Alexandra holds up a bloody bundle of flesh over her head, screaming to the stars. Anna roars in a pre-Cambrian tongue. Blood-spattered hands wave strips of meat. The Messenger trembles with excitement above them.",
+      "dialogue": "Alexandra: \"I\u00e4! I\u00e4!\"",
+      "narration": "",
+      "characters": [
+        "Anna.Ritual"
+      ],
+      "location": "UnderrydBog",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "visual": "A cluster of the Messenger's tentacles snatches up the offered liver. It disappears upward in a spray of blood into the center of the mass. A glimpse of something that might be jaws. Chewing. The thing quivers with ancient hunger satisfied.",
+      "dialogue": "",
+      "narration": "There is a glimpse of something that might be jaws. Chewing.",
+      "characters": [],
+      "location": "UnderrydBog",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 4,
+      "visual": "Sofie's face shows dawning horror as she glimpses the victim's face among the jumble of feasting girls. Green eyes - not pale blue. The wrong brother. The rune-caster Leif lies torn apart where Eskil should be. The transubstantiation has occurred.",
+      "dialogue": "Sofie: \"Wait. Wait, curse it!\"",
+      "narration": "She briefly glimpses the figure's face. Something different about it. His green eyes speak volumes\u2014terror and pain.",
+      "characters": [
+        "Sofie"
+      ],
+      "location": "UnderrydBog",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    }
+  ]
+}

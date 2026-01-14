@@ -1,40 +1,40 @@
 {
   "page_num": 11,
-  "title": "The Cathedral of Death",
-  "panel_count": 3,
-  "is_spread": false,
+  "title": "Prologue II: The Daughter of Shadows - The Gilded Cage",
   "layout": "3-top-wide",
   "panels": [
     {
       "panel_num": 1,
-      "annotation": "Wide establishing shot",
-      "visual": "A vast underground chamber reveals itself - a cathedral built of death. The walls are constructed from thousands of human skulls and bones, arranged in terrible geometric patterns. Columns of femurs and tibias rise into the darkness above. Flickering ritual flames cast dancing shadows through empty eye sockets. The scale is overwhelming, ancient, profane.",
+      "visual": "Wide establishing shot of the Palace of Sonapura at dawn. Golden domes catching the first light of sunrise. The palace rises like a jeweled crown upon the brow of Kashmir, its towers reaching toward a sky painted in shades of rose and amber. Below, the city of Srinagar spreads out in shadowed slumber.",
       "dialogue": "",
-      "narration": "The chamber was a cathedral of death.",
+      "narration": "In the high palace of Sonapura, where the Raja Kanishka ruled with an iron fist wrapped in silk, there lived a daughter who was not supposed to exist.",
       "characters": [],
-      "location": "ChapelOfBones",
+      "location": "PalaceOfSonapura",
       "aspect_ratio": "16:9",
       "size": "1536x1024"
     },
     {
       "panel_num": 2,
-      "annotation": "The altar",
-      "visual": "At the center of the bone cathedral stands an altar of black stone. Upon it, bound hand and foot, lies Rahzalahn - the oud player from the caravan. Her face shows terror but also defiance. The altar is stained dark with old blood. Heaps of treasure glitter behind the altar - gold, gems, the accumulated wealth of centuries.",
+      "visual": "Nine-year-old Iksha sits in the women's quarters, needle moving through silk with mechanical precision. The air is thick with incense. Around her, other daughters of the Raja bend over their embroidery. Light filters through latticed jali screens. A bead of blood wells on her fingertip where the needle slipped.",
       "dialogue": "",
-      "narration": "In the center stood an altar of black stone. Upon it, bound hand and foot, lay Rahzalahn.",
-      "characters": ["Rahzalahn"],
-      "location": "ChapelOfBones",
+      "narration": "Or rather, who existed only as a chess piece to be moved when the time came.",
+      "characters": [
+        "Bansi.Child"
+      ],
+      "location": "WomensQuarters",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     },
     {
       "panel_num": 3,
-      "annotation": "Nizack with dagger",
-      "visual": "Nizack stands over the altar, a ceremonial dagger raised high above Rahzalahn's heart, ready to plunge down. His face is twisted with religious fervor, his eyes glazed with madness. Behind him, mounted on the wall of bone, hangs the gold amulet they seek - glowing faintly with eldritch power.",
-      "dialogue": "",
-      "narration": "Behind them, mounted on the wall of bone, hung the gold amulet.",
-      "characters": ["Nizack", "Rahzalahn"],
-      "location": "ChapelOfBones",
+      "visual": "The tutor stands over Iksha with a disapproving expression. Through the latticed window behind them, the sound of male voices can be heard - brothers at their lessons in the courtyard below. Iksha's eyes are turned toward the window, away from her embroidery.",
+      "dialogue": "PalaceTutor: \"Pay attention, Iksha. A lady does not concern herself with men's learning.\"",
+      "narration": "",
+      "characters": [
+        "Bansi.Child",
+        "PalaceTutor"
+      ],
+      "location": "WomensQuarters",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     }

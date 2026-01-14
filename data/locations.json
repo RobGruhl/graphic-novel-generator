@@ -341,5 +341,65 @@
       "lighting": "No fire in the forge. Dim starlight from doorway. The purple glow of the rift casting strange shadows. The faint luminescence of hidden runes.",
       "key_features": "Cold forge with dead coals. Heavy anvil hiding the floor compartment. Iron skull wrapped in rune-cloth. View of the purple rift through doorway. Smith's tools abandoned mid-work."
     }
+  },
+  "WomensQuarters": {
+    "name": "The Zenana (Women's Quarters)",
+    "full_description": "The women's quarters of the Palace of Sonapura, where the daughters of the Raja learn embroidery and comportment. Air thick with incense and rose water. Latticed windows through which forbidden knowledge can be overheard from the courtyard below.",
+    "description_components": {
+      "architecture": "Ornate chambers within the palace. Latticed jali screens allowing filtered light and sound. Cushioned seating. Embroidery frames and looms. Connected to private gardens.",
+      "atmosphere": "Stifling luxury. Rose water and incense. The murmur of women's voices. Hidden frustration beneath calm surfaces. Constraint disguised as protection.",
+      "lighting": "Filtered through carved jali screens. Soft and diffused. Patches of brighter light where sun penetrates.",
+      "key_features": "Embroidery stations. Latticed windows overlooking courtyards. Low cushioned seating. Tutors moving between students. The sound of brothers learning war and stars below."
+    }
+  },
+  "SrinagarBazaar": {
+    "name": "Srinagar Bazaar",
+    "full_description": "The crowded markets of Srinagar beyond the palace walls. A world of merchants and beggars, scholars and thieves. Where Iksha first tasted freedom disguised as a servant, learning the city's rhythms as she had learned the palace's.",
+    "description_components": {
+      "architecture": "Narrow streets and crowded stalls. Covered sections with cloth awnings. Caravanserai at the edge of the city. Mix of permanent shops and temporary vendors.",
+      "atmosphere": "Chaotic freedom. A thousand lives lived beyond palace protocols. The smell of spices and humanity. Movement and noise. Opportunity for someone who can blend in.",
+      "lighting": "Bright sun in open areas. Deep shadows in covered alleys. Dust motes dancing. The harsh light of truth.",
+      "key_features": "Merchant stalls. Street children who teach thieves' cant. Caravanserai where travelers prepare to depart. The great gates she will one day walk through forever."
+    }
+  },
+  "CaravanRoute": {
+    "name": "The Caravan Route West",
+    "full_description": "The great trade road heading west from Kashmir toward Persia and beyond. A journey of months through lands known only from maps and stories. Where Bansi learned to tend camels, read the desert, and navigate by stars.",
+    "description_components": {
+      "architecture": "Open road and desert. Temporary camps. Caravanserai stops. The endless horizon of the Silk Road.",
+      "atmosphere": "Freedom and hardship. The vast world opening up. Stars more numerous than she'd ever seen. The songs of caravan folk around fires.",
+      "lighting": "Desert sun by day, burning and relentless. Stars impossibly bright at night. Cook-fire warmth in darkness.",
+      "key_features": "Caravan of camels and merchants. Cook-fires beneath vast skies. Distant mountains. The road stretching west toward unknown lands."
+    }
+  },
+  "ThievesGuildSafe": {
+    "name": "The Wine Shop (Bahn-Sa-Sahn Safe House)",
+    "full_description": "A wine shop in the poor quarter of a city between Kashmir and the Persian Gulf. Or so it appears to the uninitiated. The Bahn-Sa-Sahn thieves' guild operates from here, training those with talent in the arts of thievery, disguise, and shadow-walking.",
+    "description_components": {
+      "architecture": "Run-down wine shop front. Hidden training rooms behind and below. Multiple exits. Concealed passages for escape.",
+      "atmosphere": "Casual disrepute hiding deadly professionalism. Wine and laughter in front, silent training in back. The warmth of found family for those accepted.",
+      "lighting": "Dim in the wine shop. Varied in training areas - shadows to practice in, bright for knife work. The intimate glow of acceptance.",
+      "key_features": "Wine shop front. Hidden training room. Tattoo chamber. Multiple escape routes. The scarred woman who sees talent in thieves."
+    }
+  },
+  "MerchantStudy": {
+    "name": "The Merchant's Study",
+    "full_description": "The private study of a merchant who deals in more than silk and spices. Where Bansi, on a simple retrieval mission, encountered her first glimpse of cosmic horror - statuettes of greenish stone, scrolls with writhing symbols, and a thing in a glass case with a dried child's face.",
+    "description_components": {
+      "architecture": "Rich merchant's private study. Locked drawers and secret compartments. Display cases for unusual collections. The architecture of hidden wealth.",
+      "atmosphere": "Wrong. The air feels too warm. Objects that should not exist. The sense of something watching. Corruption made material.",
+      "lighting": "Moonless night darkness. Single candle she brought. Faint wrongness emanating from certain objects.",
+      "key_features": "Locked drawer with target ledger. Greenish statuettes that feel warm and alive. Scrolls with symbols that seem to move. Glass case containing a dried preserved child-thing. The first brush with cosmic horror."
+    }
+  },
+  "TempleOfKali": {
+    "name": "Temple of Kali",
+    "full_description": "A temple to the Dark Mother on the coast of India. Where Bansi, at seventeen, found something to believe in. The idol of Kali with her garland of skulls, her tongue protruding, her weapons and symbols. Beautiful and terrible in equal measure.",
+    "description_components": {
+      "architecture": "Hindu temple architecture. Stone columns. Inner sanctum with the idol. Open areas for worship. Steps leading up from the street.",
+      "atmosphere": "Sacred terror. The presence of something vast and ancient. Acceptance and power. The embrace of the Dark Mother for one who has rejected all other bonds.",
+      "lighting": "Oil lamps and incense smoke. The dark idol catching firelight. Shadows that seem to move with purpose.",
+      "key_features": "The idol of Kali - garland of skulls, multiple arms, weapons and symbols. Altar for offerings. Devotees in prayer. The presence of the goddess herself, looking into Bansi's soul."
+    }
   }
 }

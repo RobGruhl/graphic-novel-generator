@@ -1,45 +1,41 @@
 {
   "page_num": 21,
-  "title": "The Feeding",
-  "layout": "grid",
+  "title": "The Undercroft",
+  "layout": "3-top-wide",
   "panels": [
     {
       "panel_num": 1,
-      "visual": "The girls attack with primal fury, clawing and tearing at the figure in the grass. Blood everywhere. Cartilage and tendons crack. Two young women bend an elbow the wrong direction, twisting it off like a bird's wing. Their eyes are empty, their mouths stained black with blood.",
+      "visual": "Wide establishing shot of the Undercroft dance hall beneath Eys\u00fdsla. Ancient stone vaults rise into shadow. Candles flicker on every surface. A crowd of young men and women dance and drink, their bodies moving to drums and flutes. The dance floor is worn smooth by centuries of feet. Multiple levels are visible, with staircases leading down into deeper darkness.",
       "dialogue": "",
-      "narration": "And then, once the Messenger has acknowledged them. Sofie is surprised every time.",
+      "narration": "They danced five nights each week in the Undercroft. A wedding feast on Wednesday, raiders returning triumphant on Thursday, jigs and reels on Fridays.",
       "characters": [],
-      "location": "UnderrydBog",
-      "aspect_ratio": "3:4",
-      "size": "768x1024"
+      "location": "Eysysla.Undercroft",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
     },
     {
       "panel_num": 2,
-      "visual": "Alexandra holds up a bloody bundle of flesh over her head, screaming to the stars. Anna roars in a pre-Cambrian tongue. Blood-spattered hands wave strips of meat. The Messenger trembles with excitement above them.",
-      "dialogue": "Alexandra: \"Iä! Iä!\"",
-      "narration": "",
-      "characters": ["Anna.Ritual"],
-      "location": "UnderrydBog",
+      "visual": "Anna sits in a fine chair like a jarl's wife upon a throne. Short braids frame her sharp Nordic features. She wears a white blouse with chalk-stripe vest. Her eyes survey the dance floor with ancient authority despite her nineteen winters. She holds a bottle of wine, gazing through it at the world below.",
+      "dialogue": "",
+      "narration": "Anna sits drinking wine in the finest chair. Like a jarl's wife upon a throne.",
+      "characters": [
+        "Anna"
+      ],
+      "location": "Eysysla.Undercroft",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     },
     {
       "panel_num": 3,
-      "visual": "A cluster of the Messenger's tentacles snatches up the offered liver. It disappears upward in a spray of blood into the center of the mass. A glimpse of something that might be jaws. Chewing. The thing quivers with ancient hunger satisfied.",
-      "dialogue": "",
-      "narration": "There is a glimpse of something that might be jaws. Chewing.",
-      "characters": [],
-      "location": "UnderrydBog",
-      "aspect_ratio": "3:4",
-      "size": "768x1024"
-    },
-    {
-      "panel_num": 4,
-      "visual": "Sofie's face shows dawning horror as she glimpses the victim's face among the jumble of feasting girls. Green eyes - not pale blue. The wrong brother. The rune-caster Leif lies torn apart where Eskil should be. The transubstantiation has occurred.",
-      "dialogue": "Sofie: \"Wait. Wait, curse it!\"",
-      "narration": "She briefly glimpses the figure's face. Something different about it. His green eyes speak volumes—terror and pain.",
-      "characters": ["Sofie"],
-      "location": "UnderrydBog",
+      "visual": "The girls cluster around Anna, whispering and pointing toward a tall figure in the crowd below. Kari's eyes are fixed on her target - 'Meat' - a towering young man with pale blue eyes and shaggy dark hair. Sofie stands apart, watching everything with a guardian's vigilance.",
+      "dialogue": "Kari: \"He will suffice for now. Let us go in.\"",
+      "narration": "",
+      "characters": [
+        "Anna",
+        "Kari",
+        "Sofie"
+      ],
+      "location": "Eysysla.Undercroft",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     }

@@ -1,37 +1,32 @@
 {
   "page_num": 16,
-  "title": "The Undercroft",
-  "layout": "3-top-wide",
+  "title": "The Caravan",
+  "layout": "2-vertical",
   "panels": [
     {
       "panel_num": 1,
-      "visual": "Wide establishing shot of the Undercroft dance hall beneath Eysýsla. Ancient stone vaults rise into shadow. Candles flicker on every surface. A crowd of young men and women dance and drink, their bodies moving to drums and flutes. The dance floor is worn smooth by centuries of feet. Multiple levels are visible, with staircases leading down into deeper darkness.",
-      "dialogue": "",
-      "narration": "They danced five nights each week in the Undercroft. A wedding feast on Wednesday, raiders returning triumphant on Thursday, jigs and reels on Fridays.",
-      "characters": [],
-      "location": "Eysysla.Undercroft",
-      "aspect_ratio": "16:9",
-      "size": "1536x1024"
+      "visual": "At the caravanserai at the edge of Srinagar, Bansi approaches a grizzled caravan master. Behind him, a merchant train prepares to depart westward - camels being loaded, merchants checking goods, guards checking weapons. A journey of months to Persia and beyond. Bansi stands straight, meeting his eyes without flinching.",
+      "dialogue": "Bansi.Servant: \"I can work. I'm strong, I learn quick, and I don't cause trouble.\"\nCaravanMaster: \"You running from something, boy?\"\nBansi.Servant: \"Isn't everyone?\"",
+      "narration": "",
+      "characters": [
+        "Bansi.Servant",
+        "CaravanMaster"
+      ],
+      "location": "SrinagarBazaar",
+      "aspect_ratio": "9:16",
+      "size": "1024x1536"
     },
     {
       "panel_num": 2,
-      "visual": "Anna sits in a fine chair like a jarl's wife upon a throne. Short braids frame her sharp Nordic features. She wears a white blouse with chalk-stripe vest. Her eyes survey the dance floor with ancient authority despite her nineteen winters. She holds a bottle of wine, gazing through it at the world below.",
+      "visual": "Months later, under a vast canopy of stars more numerous than she had ever seen. Bansi tends camels by a cook-fire, part of the caravan now. She has learned to read the desert, to find water where others see only sand, to navigate by stars she once knew only from stolen scrolls. A song rises from the travelers around another fire. She is one of them now - one of those who live on the great trade roads.",
       "dialogue": "",
-      "narration": "Anna sits drinking wine in the finest chair. Like a jarl's wife upon a throne.",
-      "characters": ["Anna"],
-      "location": "Eysysla.Undercroft",
-      "aspect_ratio": "3:4",
-      "size": "768x1024"
-    },
-    {
-      "panel_num": 3,
-      "visual": "The girls cluster around Anna, whispering and pointing toward a tall figure in the crowd below. Kari's eyes are fixed on her target - 'Meat' - a towering young man with pale blue eyes and shaggy dark hair. Sofie stands apart, watching everything with a guardian's vigilance.",
-      "dialogue": "Kari: \"He will suffice for now. Let us go in.\"",
-      "narration": "",
-      "characters": ["Anna", "Kari", "Sofie"],
-      "location": "Eysysla.Undercroft",
-      "aspect_ratio": "3:4",
-      "size": "768x1024"
+      "narration": "She learned the songs of the caravan folk, the stories they told around fires beneath skies so vast they made her feel both infinitely small and strangely free.",
+      "characters": [
+        "Bansi.Servant"
+      ],
+      "location": "CaravanRoute",
+      "aspect_ratio": "9:16",
+      "size": "1024x1536"
     }
   ]
 }

@@ -10,7 +10,10 @@
       "visual": "Marco leans closer, his questions sharp and probing. Giovanni meets his gaze without flinching. The exchange feels like a test, and both of them know it.",
       "dialogue": "Marco: \"You can read or write, boy?\"\nGiovanni: \"No, signore.\"\nMarco: \"Count?\"\nGiovanni: \"To a hundred.\"",
       "narration": "",
-      "characters": ["Marco", "Giovanni.Young"],
+      "characters": [
+        "Marco",
+        "Giovanni.Young"
+      ],
       "location": "VillageMarket",
       "aspect_ratio": "3:4",
       "size": "768x1024"
@@ -21,7 +24,10 @@
       "visual": "Marco nods to himself, a decision forming behind those calculating eyes. His expression is that of a man who has just found an unexpected treasure in a pile of common goods. Giovanni stands straight, waiting, somehow knowing that everything is about to change.",
       "dialogue": "Marco: \"Smart. Quick-witted. Angry at the unfairness of the world.\"",
       "narration": "",
-      "characters": ["Marco", "Giovanni.Young"],
+      "characters": [
+        "Marco",
+        "Giovanni.Young"
+      ],
       "location": "VillageMarket",
       "aspect_ratio": "3:4",
       "size": "768x1024"
@@ -32,7 +38,11 @@
       "visual": "Marco makes his offer with the same casual confidence he uses in all negotiations, but his eyes are intent. Giovanni's father starts to speak, starts to refuse - he needs his sons for the farm. But Giovanni is already stepping forward.",
       "dialogue": "Marco: \"How would you like to come work for me? I need someone to help with the hauling, keep the books, learn the trade. The pay's not much at first, but it's better than farming. And you'll learn things. See the world beyond these hills.\"",
       "narration": "",
-      "characters": ["Marco", "Giovanni.Young", "GiovanniFather"],
+      "characters": [
+        "Marco",
+        "Giovanni.Young",
+        "GiovanniFather"
+      ],
       "location": "VillageMarket",
       "aspect_ratio": "3:4",
       "size": "768x1024"
@@ -43,7 +53,10 @@
       "visual": "Close-up on Giovanni's face as he speaks the words that will seal his fate. His eyes are bright with possibility. Behind him, his father's face shows a mixture of pride and loss - the recognition that his son was never meant for these hills.",
       "dialogue": "Giovanni: \"Yes. Yes, I'll go.\"",
       "narration": "And just like that, the shape of his life changed.",
-      "characters": ["Giovanni.Young", "GiovanniFather"],
+      "characters": [
+        "Giovanni.Young",
+        "GiovanniFather"
+      ],
       "location": "VillageMarket",
       "aspect_ratio": "3:4",
       "size": "768x1024"

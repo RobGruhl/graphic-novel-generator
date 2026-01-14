@@ -82,124 +82,204 @@
     },
     {
       "page": 11,
-      "title": "The Cathedral of Death",
+      "title": "Prologue II: The Daughter of Shadows - The Gilded Cage",
       "image": "images/pages/page-011.webp",
       "thumbnail": "images/thumbnails/page-011.webp",
-      "characters": ["Rahzalahn", "Nizack"],
-      "locations": ["ChapelOfBones"]
+      "characters": ["Bansi.Child", "PalaceTutor"],
+      "locations": ["PalaceOfSonapura", "WomensQuarters"]
     },
     {
       "page": 12,
-      "title": "Karishkir Revealed",
+      "title": "The Secret Education",
       "image": "images/pages/page-012.webp",
       "thumbnail": "images/thumbnails/page-012.webp",
-      "characters": ["Karishkir", "Drekhlo"],
-      "locations": ["ChapelOfBones"]
+      "characters": ["Bansi.Young", "Vikrahma"],
+      "locations": ["PalaceOfSonapura"]
     },
     {
       "page": 13,
-      "title": "Battle Erupts",
+      "title": "The Invisible Servant",
       "image": "images/pages/page-013.webp",
       "thumbnail": "images/thumbnails/page-013.webp",
-      "characters": ["Bansi.Battle", "Gan", "Rahzalahn", "Eskil.Berserker", "Drekhlo"],
-      "locations": ["ChapelOfBones"]
+      "characters": ["Bansi.Servant"],
+      "locations": ["PalaceOfSonapura", "SrinagarBazaar"]
     },
     {
       "page": 14,
-      "title": "The Wrath of Heaven",
+      "title": "The Betrothal",
       "image": "images/pages/page-014.webp",
       "thumbnail": "images/thumbnails/page-014.webp",
-      "characters": ["Giovanni.Assassin", "Sadia", "Karishkir", "Lueduo", "Isaac"],
-      "locations": ["ChapelOfBones"]
+      "characters": ["Bansi.Young", "RajaKanishka", "UncleAdvisor"],
+      "locations": ["PalaceOfSonapura"]
     },
     {
       "page": 15,
-      "title": "The End of Nizack",
+      "title": "The Escape",
       "image": "images/pages/page-015.webp",
       "thumbnail": "images/thumbnails/page-015.webp",
-      "characters": ["Karishkir", "Drekhlo", "Eskil.Berserker", "Nizack", "Rahzalahn", "Bansi.Battle", "Lueduo"],
-      "locations": ["ChapelOfBones"]
+      "characters": ["Bansi.Young", "Bansi.Servant"],
+      "locations": ["PalaceOfSonapura", "SrinagarBazaar"]
     },
     {
       "page": 16,
-      "title": "Prologue III: The Undercroft",
+      "title": "The Caravan",
       "image": "images/pages/page-016.webp",
       "thumbnail": "images/thumbnails/page-016.webp",
+      "characters": ["Bansi.Servant", "CaravanMaster"],
+      "locations": ["SrinagarBazaar", "CaravanRoute"]
+    },
+    {
+      "page": 17,
+      "title": "The Bahn-Sa-Sahn",
+      "image": "images/pages/page-017.webp",
+      "thumbnail": "images/thumbnails/page-017.webp",
+      "characters": ["Bansi.Thief", "ThiefMentor"],
+      "locations": ["ThievesGuildSafe"]
+    },
+    {
+      "page": 18,
+      "title": "Training",
+      "image": "images/pages/page-018.webp",
+      "thumbnail": "images/thumbnails/page-018.webp",
+      "characters": ["Bansi.Thief", "ThiefMentor"],
+      "locations": ["ThievesGuildSafe"]
+    },
+    {
+      "page": 19,
+      "title": "The Thing in the Case",
+      "image": "images/pages/page-019.webp",
+      "thumbnail": "images/thumbnails/page-019.webp",
+      "characters": ["Bansi.Thief"],
+      "locations": ["MerchantStudy"]
+    },
+    {
+      "page": 20,
+      "title": "The Dark Mother",
+      "image": "images/pages/page-020.webp",
+      "thumbnail": "images/thumbnails/page-020.webp",
+      "characters": ["Bansi.KaliDevotee", "Bansi"],
+      "locations": ["TempleOfKali"]
+    },
+    {
+      "page": 21,
+      "title": "Prologue III: The Undercroft",
+      "image": "images/pages/page-021.webp",
+      "thumbnail": "images/thumbnails/page-021.webp",
       "characters": ["Anna", "Kari", "Sofie"],
       "locations": ["Eysysla.Undercroft"]
     },
     {
-      "page": 17,
+      "page": 22,
       "title": "The Seduction",
-      "image": "images/pages/page-017.webp",
-      "thumbnail": "images/thumbnails/page-017.webp",
+      "image": "images/pages/page-022.webp",
+      "thumbnail": "images/thumbnails/page-022.webp",
       "characters": ["Eskil.Young", "Kari", "Sofie"],
       "locations": ["Eysysla.Undercroft"]
     },
     {
-      "page": 18,
+      "page": 23,
       "title": "Into the Darkness",
-      "image": "images/pages/page-018.webp",
-      "thumbnail": "images/thumbnails/page-018.webp",
+      "image": "images/pages/page-023.webp",
+      "thumbnail": "images/thumbnails/page-023.webp",
       "characters": ["Eskil.Young", "Kari", "Sofie", "Saga", "Leif"],
       "locations": ["Eysysla.Undercroft"]
     },
     {
-      "page": 19,
+      "page": 24,
       "title": "The Ritual",
-      "image": "images/pages/page-019.webp",
-      "thumbnail": "images/thumbnails/page-019.webp",
+      "image": "images/pages/page-024.webp",
+      "thumbnail": "images/thumbnails/page-024.webp",
       "characters": ["Kari.Ritual", "Eskil.Ritual", "Anna.Ritual"],
       "locations": ["UnderrydBog"]
     },
     {
-      "page": 20,
+      "page": 25,
       "title": "The Messenger Arrives",
-      "image": "images/pages/page-020.webp",
-      "thumbnail": "images/thumbnails/page-020.webp",
+      "image": "images/pages/page-025.webp",
+      "thumbnail": "images/thumbnails/page-025.webp",
       "characters": ["Anna.Ritual", "Eskil.Ritual"],
       "locations": ["UnderrydBog"]
     },
     {
-      "page": 21,
+      "page": 26,
       "title": "The Feeding",
-      "image": "images/pages/page-021.webp",
-      "thumbnail": "images/thumbnails/page-021.webp",
+      "image": "images/pages/page-026.webp",
+      "thumbnail": "images/thumbnails/page-026.webp",
       "characters": ["Anna.Ritual", "Sofie"],
       "locations": ["UnderrydBog"]
     },
     {
-      "page": 22,
+      "page": 27,
       "title": "The Messenger's Rage",
-      "image": "images/pages/page-022.webp",
-      "thumbnail": "images/thumbnails/page-022.webp",
+      "image": "images/pages/page-027.webp",
+      "thumbnail": "images/thumbnails/page-027.webp",
       "characters": ["Saga"],
       "locations": ["UnderrydBog"]
     },
     {
-      "page": 23,
+      "page": 28,
       "title": "Transubstantiation",
-      "image": "images/pages/page-023.webp",
-      "thumbnail": "images/thumbnails/page-023.webp",
+      "image": "images/pages/page-028.webp",
+      "thumbnail": "images/thumbnails/page-028.webp",
       "characters": ["Eskil.Ritual", "Kari.Ritual", "Eskil.Young", "LeifSkull"],
       "locations": ["UnderrydBog", "LeifForge"]
     },
     {
-      "page": 24,
+      "page": 29,
       "title": "Eysýsla Burns",
-      "image": "images/pages/page-024.webp",
-      "thumbnail": "images/thumbnails/page-024.webp",
+      "image": "images/pages/page-029.webp",
+      "thumbnail": "images/thumbnails/page-029.webp",
       "characters": ["Eskil.Young", "LeifSkull"],
       "locations": ["Eysysla.Destroyed"]
     },
     {
-      "page": 25,
+      "page": 30,
       "title": "The Helm and Collar",
-      "image": "images/pages/page-025.webp",
-      "thumbnail": "images/thumbnails/page-025.webp",
+      "image": "images/pages/page-030.webp",
+      "thumbnail": "images/thumbnails/page-030.webp",
       "characters": ["Eskil.Young", "Eskil", "LeifSkull"],
       "locations": ["KyivArena"]
+    },
+    {
+      "page": 31,
+      "title": "The Cathedral of Death",
+      "image": "images/pages/page-031.webp",
+      "thumbnail": "images/thumbnails/page-031.webp",
+      "characters": ["Rahzalahn", "Nizack"],
+      "locations": ["ChapelOfBones"]
+    },
+    {
+      "page": 32,
+      "title": "Karishkir Revealed",
+      "image": "images/pages/page-032.webp",
+      "thumbnail": "images/thumbnails/page-032.webp",
+      "characters": ["Karishkir", "Drekhlo"],
+      "locations": ["ChapelOfBones"]
+    },
+    {
+      "page": 33,
+      "title": "Battle Erupts",
+      "image": "images/pages/page-033.webp",
+      "thumbnail": "images/thumbnails/page-033.webp",
+      "characters": ["Bansi.Battle", "Gan", "Rahzalahn", "Eskil.Berserker", "Drekhlo"],
+      "locations": ["ChapelOfBones"]
+    },
+    {
+      "page": 34,
+      "title": "The Wrath of Heaven",
+      "image": "images/pages/page-034.webp",
+      "thumbnail": "images/thumbnails/page-034.webp",
+      "characters": ["Giovanni.Assassin", "Sadia", "Karishkir", "Lueduo", "Isaac"],
+      "locations": ["ChapelOfBones"]
+    },
+    {
+      "page": 35,
+      "title": "The End of Nizack",
+      "image": "images/pages/page-035.webp",
+      "thumbnail": "images/thumbnails/page-035.webp",
+      "characters": ["Karishkir", "Drekhlo", "Eskil.Berserker", "Nizack", "Rahzalahn", "Bansi.Battle", "Lueduo"],
+      "locations": ["ChapelOfBones"]
     }
   ],
-  "total": 25
+  "total": 35
 }

@@ -10,7 +10,10 @@
       "visual": "Giovanni, now slightly older and better dressed in simple merchant's clothes, bends over a desk by candlelight. His hand moves across parchment, forming letters with increasing confidence. Marco looks over his shoulder, pointing to correct a mistake. Books and scrolls surround them in what appears to be a merchant's office.",
       "dialogue": "",
       "narration": "Giovanni proved an apt student. He had the kind of mind that absorbed information like dry earth absorbs rain - greedily, gratefully, storing it away against future drought.",
-      "characters": ["Giovanni.Merchant", "Marco"],
+      "characters": [
+        "Giovanni.Merchant",
+        "Marco"
+      ],
       "location": "Venice",
       "aspect_ratio": "3:4",
       "size": "768x1024"
@@ -21,7 +24,9 @@
       "visual": "Giovanni sits at a counting table, stacks of coins before him. His fingers move with practiced speed, sorting and tallying. His face shows the concentration of one learning to detect fraud - the weight of a coin, the sound it makes, the feel of the metal. Account ledgers lie open beside him.",
       "dialogue": "",
       "narration": "He learned to keep accounts, to detect when merchants were trying to cheat him, to speak smoothly and convincingly even when lying through his teeth.",
-      "characters": ["Giovanni.Merchant"],
+      "characters": [
+        "Giovanni.Merchant"
+      ],
       "location": "Venice",
       "aspect_ratio": "3:4",
       "size": "768x1024"
@@ -32,7 +37,10 @@
       "visual": "Marco and Giovanni share wine in a tavern, the older merchant gesturing expansively as he speaks. Giovanni listens with an expression that is no longer entirely innocent - he has begun to understand the world of commerce and its moral flexibility. Other merchants drink and deal in the background.",
       "dialogue": "Marco: \"God gave you a tongue to speak and a mind to think. If He didn't want you to use them cleverly, He wouldn't have made the world so full of fools waiting to be parted from their coin. Besides, we all lie, boy. The only difference is some of us are better at it than others.\"",
       "narration": "",
-      "characters": ["Giovanni.Merchant", "Marco"],
+      "characters": [
+        "Giovanni.Merchant",
+        "Marco"
+      ],
       "location": "Venice",
       "aspect_ratio": "3:4",
       "size": "768x1024"
@@ -43,7 +51,9 @@
       "visual": "Giovanni, now fully transformed into a young merchant, negotiates with traders from distant lands - a Byzantine in rich robes, a Jewish merchant in distinctive garb, a Moor with goods from the south. Giovanni speaks with confidence, his hands moving in the universal language of commerce. His peasant origins are invisible now.",
       "dialogue": "",
       "narration": "For three years Giovanni traveled with Marco, learning the routes and rhythms of Mediterranean trade.",
-      "characters": ["Giovanni.Merchant"],
+      "characters": [
+        "Giovanni.Merchant"
+      ],
       "location": "Venice",
       "aspect_ratio": "16:9",
       "size": "1536x1024"

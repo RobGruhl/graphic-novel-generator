@@ -73,6 +73,19 @@
       "accessories": "Multiple hidden blades. Lockpicks in hair. Small idol of Kali. Climbing rope."
     }
   },
+  "Bansi.Child": {
+    "name": "Iksha (Age Nine)",
+    "role": "Protagonist",
+    "base_character": "Bansi",
+    "variant_context": "Nine-year-old princess at embroidery lessons in the zenana",
+    "full_description": "Nine-year-old Princess Iksha Bhima at her embroidery lesson, needle moving mechanically while her mind wanders to forbidden knowledge. A bead of blood on her finger where the needle slipped. Intelligent eyes that see too much for her age.",
+    "description_components": {
+      "head_face": "Young Kashmiri child, round-faced and curious. Large dark eyes showing frustration and hidden intelligence. Black hair in elaborate braids with gold thread. Expression of barely concealed boredom.",
+      "body_build": "Small child of nine years. Fidgeting with restless energy.",
+      "clothing": "Fine silk child's garments in royal purple and gold. Embroidery in her lap. Jeweled slippers.",
+      "accessories": "Small gold earrings. Thin bangles. Embroidery needle and silk frame."
+    }
+  },
   "Bansi.Young": {
     "name": "Bansi (Princess Iksha)",
     "role": "Protagonist",
@@ -84,6 +97,45 @@
       "body_build": "Small and slender, not yet fully grown. Restless energy in every movement.",
       "clothing": "Fine silk sari in royal colors. Gold embroidery. Jeweled slippers.",
       "accessories": "Gold jewelry at ears, nose, wrists. Pearl necklace. Royal anklets."
+    }
+  },
+  "Bansi.Servant": {
+    "name": "Bansi (Disguised as Ravi)",
+    "role": "Protagonist",
+    "base_character": "Bansi",
+    "variant_context": "Disguised as the servant boy Ravi to move freely through the palace",
+    "full_description": "Iksha disguised as the servant boy Ravi - rough tunic, hair bound beneath a cap, carrying a water jug or tray. Moving with purpose through corridors she has memorized. The invisible person who goes everywhere, sees everything.",
+    "description_components": {
+      "head_face": "Same young Kashmiri features, but hair hidden under cap. Face smudged with dust. Expression of focused purpose. Looking neither high nor low.",
+      "body_build": "Small and quick. Moving with a servant's purposeful gait. Carrying something always.",
+      "clothing": "Rough servant's tunic in undyed wool. Simple trousers. Worn sandals. Cap hiding hair.",
+      "accessories": "Water jug or serving tray. Hair pins hidden for lock-picking. Servant's anonymity as armor."
+    }
+  },
+  "Bansi.Thief": {
+    "name": "Bansi (Thief-in-Training)",
+    "role": "Protagonist",
+    "base_character": "Bansi",
+    "variant_context": "Age fourteen-fifteen, training with the Bahn-Sa-Sahn",
+    "full_description": "Bansi during her two years of training with the thieves' guild. Dark practical clothes, lockpicks in her hair, learning to move through shadows like smoke. The tattoo fresh on her shoulder. Eyes sharp with new purpose.",
+    "description_components": {
+      "head_face": "Maturing Kashmiri features, losing childhood softness. Alert, watchful eyes. Hair practical and dark. Face learning the thief's neutral expression.",
+      "body_build": "Lean and athletic from training. Learning to move silently. Coiled energy.",
+      "clothing": "Dark practical clothes for stealth. Soft-soled shoes. Nothing that catches light.",
+      "accessories": "Lockpicks in hair. Small knife at belt. Fresh Bahn-Sa-Sahn tattoo on shoulder."
+    }
+  },
+  "Bansi.KaliDevotee": {
+    "name": "Bansi (Before Kali)",
+    "role": "Protagonist",
+    "base_character": "Bansi",
+    "variant_context": "Age seventeen, discovering her goddess in the temple",
+    "full_description": "Bansi at seventeen, kneeling before the idol of Kali for the first time. Years of running and stealing behind her, now finding something to believe in. Tears on her face as the Dark Mother's presence embraces her. The moment of transformation.",
+    "description_components": {
+      "head_face": "Young woman's features, hardened by life but softened by revelation. Tears on cheeks. Eyes closed in devotion. Face upturned to the goddess.",
+      "body_build": "Kneeling posture, humbled. Traveler's weariness showing.",
+      "clothing": "Travel-worn practical clothes. Not fine but not rags. The clothes of one who moves between worlds.",
+      "accessories": "Wooden flute at belt - her mother's gift. Thief's tools hidden. New devotion forming."
     }
   },
   "Bansi.Battle": {
@@ -509,6 +561,72 @@
       "body_build": "Old but not frail. Still strong enough to swing the axe true. Moves with practiced economy.",
       "clothing": "Dark practical clothes. Leather apron for messy work. Heavy boots. Hood for anonymity.",
       "accessories": "Massive headsman's axe. Leather-bound journal of creatures. Guild token. Sharpening stone."
+    }
+  },
+  "RajaKanishka": {
+    "name": "Raja Kanishka",
+    "role": "Supporting",
+    "full_description": "The Raja of Sonapura, ruler with an iron fist wrapped in silk. Bansi's father, who sees his daughters as chess pieces for political alliance. Wears the wealth of Kashmir but with the cold eyes of calculation.",
+    "description_components": {
+      "head_face": "Regal Kashmiri features, graying beard neatly trimmed. Cold calculating eyes. Expression of absolute authority. Crown of state.",
+      "body_build": "Middle-aged but strong. Carries himself like a king. Every movement deliberate.",
+      "clothing": "Royal robes of finest Kashmir wool and silk. Gold embroidery. Jeweled turban.",
+      "accessories": "Royal rings on multiple fingers. Sword of state at belt. Seal of Sonapura."
+    }
+  },
+  "UncleAdvisor": {
+    "name": "The Raja's Brother",
+    "role": "Supporting",
+    "full_description": "Bansi's uncle, the Raja's chief advisor and negotiator of marriages. Sleek and political, he arranges the sale of the fifth daughter to the Shahi without a second thought. Surplus princesses are currency.",
+    "description_components": {
+      "head_face": "Refined Kashmiri features, similar to the Raja but softer. Shrewd eyes. Thin smile that never reaches the eyes. Neat beard.",
+      "body_build": "Lean and elegant. Moves like a diplomat. Gestures of negotiation.",
+      "clothing": "Fine robes of a court official. Rich but not royal. Suitable for dealing with equals.",
+      "accessories": "Scroll case with marriage contracts. Seal ring. Calculating gaze."
+    }
+  },
+  "Vikrahma": {
+    "name": "Prince Vikrahma",
+    "role": "Supporting",
+    "full_description": "Bansi's younger brother, fifth in line for the throne. Hates his lessons with passion and becomes her unlikely ally when she offers to attend them disguised as him. Small for his age, lazy, but with enough resemblance to his sister to make the deception work.",
+    "description_components": {
+      "head_face": "Young Kashmiri boy, similar features to Iksha. Sulky expression. Dark hair. Eyes showing boredom rather than rebellion.",
+      "body_build": "Small for his age, which helps the disguise. Slouching posture of one who doesn't want to be wherever he is.",
+      "clothing": "Prince's garments, finer than he cares about. Training clothes when escaping lessons.",
+      "accessories": "Bow and arrows he'd rather be using. Practice sword. The look of someone who wants to be anywhere else."
+    }
+  },
+  "PalaceTutor": {
+    "name": "The Palace Tutor",
+    "role": "Minor",
+    "full_description": "The woman who teaches embroidery and comportment to the princesses. Rigid in her beliefs about what women should know and be. Her face hardens when Iksha asks 'why not?' Her world has no room for such questions.",
+    "description_components": {
+      "head_face": "Middle-aged Kashmiri woman, stern features. Disapproving eyes. Thin lips. Expression of rigid propriety.",
+      "body_build": "Straight-backed, rigid posture. Moves with deliberate correctness.",
+      "clothing": "Fine but modest sari in muted colors. Proper attire for a palace servant of status.",
+      "accessories": "Embroidery samples. Behavior scrolls. The authority of tradition."
+    }
+  },
+  "ThiefMentor": {
+    "name": "The Bahn-Sa-Sahn Recruiter",
+    "role": "Supporting",
+    "full_description": "A scarred woman who recruits Bansi into the thieves' guild. Older, with eyes that miss nothing. Wears the unremarkable clothes of a dock worker but moves like a dancer. She sees talent in the girl picking locks for practice.",
+    "description_components": {
+      "head_face": "Middle-aged features with prominent scars. Eyes that miss nothing. Short practical hair. Expression of knowing assessment.",
+      "body_build": "Athletic despite age. Moves like a dancer or a fighter. Blends into any crowd.",
+      "clothing": "Unremarkable dock worker's clothes. Nothing that draws the eye. Perfect anonymity.",
+      "accessories": "Hidden blades. Bahn-Sa-Sahn tattoo visible when she shows it. The confidence of one who belongs nowhere and everywhere."
+    }
+  },
+  "CaravanMaster": {
+    "name": "The Caravan Master",
+    "role": "Minor",
+    "full_description": "A grizzled merchant who leads the caravan heading west from Kashmir. Shrewd eyes that see through facades but accept useful lies. He takes Bansi on to tend camels and help with cooking, asking only 'Isn't everyone?' when she admits to running.",
+    "description_components": {
+      "head_face": "Weathered face, sun-darkened skin. Shrewd calculating eyes. Gray beard. Expression of practical wisdom.",
+      "body_build": "Tough from years of travel. Comfortable on camel or foot. Wiry endurance.",
+      "clothing": "Practical traveling clothes. Desert headwrap. Quality boots.",
+      "accessories": "Caravan master's staff. Coin purse. The authority of one who commands."
     }
   }
 }

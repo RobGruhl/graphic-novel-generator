@@ -1,27 +1,41 @@
 {
   "page_num": 19,
-  "title": "The Ritual",
-  "layout": "2-horizontal",
+  "title": "The Thing in the Case",
+  "layout": "3-right-tall",
   "panels": [
     {
       "panel_num": 1,
-      "visual": "Wide cinematic shot of the Underryd bog at night. The moon illuminates swirling mist. The girls stand in a breathless semi-circle at the edge of the glade, their white clothing ghostly in the moonlight. Ancient trees with gnarled branches frame the scene. The path of silver - moonlight on broken grass - leads from the dance pavilion to this sacred place.",
+      "visual": "Sixteen-year-old Bansi infiltrates a merchant's study on a moonless night. She moves through shadows, finding the locked drawer that yields to her picks in moments. The target ledger is in her hands. But the room contains other things - statuettes carved from greenish stone that feel too warm, almost pulsing. Scrolls covered in symbols that seem to writhe at the edge of vision.",
       "dialogue": "",
-      "narration": "Out on the bog there is coupling in progress. The moon turns all skin white and milky. The girls howl when they see the blood.",
-      "characters": [],
-      "location": "UnderrydBog",
-      "aspect_ratio": "16:9",
-      "size": "1536x1024"
+      "narration": "The assignment seemed simple: retrieve a ledger from a merchant who had cheated the Bahn-Sa-Sahn.",
+      "characters": [
+        "Bansi.Thief"
+      ],
+      "location": "MerchantStudy",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
     },
     {
       "panel_num": 2,
-      "visual": "In the center of the ritual space, Kari and Eskil couple in the grass. Her hands are at his throat, strangling him. Anna stands behind them with arms raised to the moon, her hair unbound and flowing, her body painted with symbols. The girls watch with glazed eyes, clasping each other's hands. The drumbeat rises from somewhere beyond perception.",
+      "visual": "Close on a glass case containing something that looks like dried fruit but is not - because it has a face. Withered and ancient, no larger than an infant's head. As Bansi watches, frozen in horror, its tiny mouth opens and closes as if trying to speak. A preserved child-thing from before alchemy was born.",
       "dialogue": "",
-      "narration": "Kari takes Meat's throat in a stranglehold. He grins like an idiot when she starts squeezing.",
-      "characters": ["Kari.Ritual", "Eskil.Ritual", "Anna.Ritual"],
-      "location": "UnderrydBog",
-      "aspect_ratio": "16:9",
-      "size": "1536x1024"
+      "narration": "And in a glass case, something that looked like a dried piece of fruit but was not\u2014could not be\u2014because it had a face.",
+      "characters": [],
+      "location": "MerchantStudy",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "visual": "Tall panel: Bansi flees through the night, the ledger clutched to her chest. Behind her, the merchant's compound is a shadow against starless sky. Her face shows the first crack in her carefully constructed armor - she has seen something that cannot be unseen. The world is stranger than she thought, and it gets stranger still.",
+      "dialogue": "ThiefMentor: \"The world is stranger than you think, girl. And the more you see of it, the stranger it gets.\"",
+      "narration": "She fled. The ledger was delivered, the contract fulfilled. But that night she dreamed of tiny mouths opening and closing, speaking words in no human language.",
+      "characters": [
+        "Bansi.Thief"
+      ],
+      "location": "MerchantStudy",
+      "aspect_ratio": "9:16",
+      "size": "1024x1536"
     }
   ]
 }

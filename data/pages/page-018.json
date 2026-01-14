@@ -1,37 +1,32 @@
 {
   "page_num": 18,
-  "title": "Into the Darkness",
-  "layout": "3-left-tall",
+  "title": "Training",
+  "layout": "2-horizontal",
   "panels": [
     {
       "panel_num": 1,
-      "visual": "A tall panel showing the flock descending a dark spiral staircase toward the bog. The girls move in single file, their white clothing catching what little light remains. Kari leads Eskil by the hand, pulling him into the darkness. The sound of drums grows louder. Ancient stone walls press close. Cobwebs hang like silver curtains in the moonlight filtering from above.",
+      "visual": "Wide training montage: In the hidden rooms behind the wine shop, Bansi learns the arts of the Bahn-Sa-Sahn. Split imagery shows her picking ever more complex locks, moving through shadows, practicing with daggers against training partners. Two years of transformation from runaway princess to professional thief.",
       "dialogue": "",
-      "narration": "The flock descends a dark spiral staircase. To the sound of shawm and fiddle. Meat holds Kari's hand. She laughs and pulls him along.",
-      "characters": ["Eskil.Young", "Kari"],
-      "location": "Eysysla.Undercroft",
-      "aspect_ratio": "9:16",
-      "size": "1024x1536"
+      "narration": "She trained with the Bahn-Sa-Sahn for two years, learning the craft of thievery not as common crime but as art. She learned to pick any lock, to move through shadows like smoke, to disguise herself so completely that her own teachers sometimes failed to recognize her.",
+      "characters": [
+        "Bansi.Thief",
+        "ThiefMentor"
+      ],
+      "location": "ThievesGuildSafe",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
     },
     {
       "panel_num": 2,
-      "visual": "Sofie's expression shifts to panic as a young girl tells her about Leif - Eskil's brother who reads runes and casts stones. Leif had warned Eskil this would be the worst night of all lives. The corrosive warmth of the sukarek burns in Sofie's stomach.",
-      "dialogue": "Young girl: \"I think his brother possesses some knowledge. He reads runes, casts stones, they say.\"",
-      "narration": "",
-      "characters": ["Sofie"],
-      "location": "Eysysla.Undercroft",
-      "aspect_ratio": "3:4",
-      "size": "768x1024"
-    },
-    {
-      "panel_num": 3,
-      "visual": "In a dim side passage, Saga brings her weighted club down on Leif's skull. He crumples to the ground, his rune stones scattering. Sofie holds a lantern, her face illuminated with grim purpose. This complication must be handled.",
-      "dialogue": "Sofie: \"What did you tell him?\"",
-      "narration": "",
-      "characters": ["Saga", "Leif", "Sofie"],
-      "location": "Eysysla.Undercroft",
-      "aspect_ratio": "3:4",
-      "size": "768x1024"
+      "visual": "Wide shot of brutal combat training. Bansi faces multiple opponents in a training circle, daggers in both hands. Blood from a cut on her arm, but her eyes are focused, cold. The Bahn-Sa-Sahn do not teach the formal combat of soldiers - they teach the brutal, efficient violence of those who live on the edge.",
+      "dialogue": "ThiefMentor: \"And she learned to fight - not formal combat, but the brutal efficiency of those who live on the edge.\"",
+      "narration": "She learned where to strike to disable or kill, to read an opponent's movements, to exploit every weakness.",
+      "characters": [
+        "Bansi.Thief"
+      ],
+      "location": "ThievesGuildSafe",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
     }
   ]
 }

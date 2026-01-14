@@ -21,7 +21,9 @@
       "visual": "Young Giovanni, a thin boy of about twelve years, works with a small flock of sheep on a rocky hillside. His clothes are simple homespun, patched and worn. His feet are bare and calloused. His dark hair is unkempt, and there are dirt smudges on his Mediterranean features. He holds a shepherd's crook and watches his flock with patient eyes that show no hint of the darkness to come. The Alps rise in the background, their peaks catching the last of the sun.",
       "dialogue": "",
       "narration": "He was the third son of a farmer whose ancestors had worked the same rocky soil for generations uncounted. His hands were calloused from the plow before he was ten.",
-      "characters": ["Giovanni.Young"],
+      "characters": [
+        "Giovanni.Young"
+      ],
       "location": "ItalianHillCountry",
       "aspect_ratio": "3:4",
       "size": "768x1024"

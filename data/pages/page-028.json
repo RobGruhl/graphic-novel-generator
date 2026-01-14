@@ -1,0 +1,45 @@
+{
+  "page_num": 28,
+  "title": "Transubstantiation",
+  "layout": "3-right-tall",
+  "panels": [
+    {
+      "panel_num": 1,
+      "visual": "Eskil's hand desperately traces a crude rune in the dirt as Kari strangles him. His pale blue eyes are wide with terror and dying hope. This is the rune his brother spent many nights teaching him - the key to Leif's greater work. His fingers scrape through mud and grass.",
+      "dialogue": "",
+      "narration": "Not with his will, but with the power Leif had bound between them. When death reached for Eskil, Leif's life was forfeit.",
+      "characters": [
+        "Eskil.Ritual",
+        "Kari.Ritual"
+      ],
+      "location": "UnderrydBog",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "visual": "Reality shatters like ice. Fractured panels show both places at once - the bog with the feeding and the cold forge with dead fires. Eskil's consciousness tears through space. The world splinters into impossible geometries.",
+      "dialogue": "",
+      "narration": "Reality shattered like ice. One moment: the bog, the girls, the Messenger descending like judgment from the void.",
+      "characters": [
+        "Eskil.Young"
+      ],
+      "location": "LeifForge",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "visual": "Tall panel: Eskil stands in Leif's forge, the fires cold, ash settling in darkness. He has shoved aside the heavy anvil to reveal a hidden chest in the floor. An iron skull lies within, wrapped in fine cloth, covered in runes that glow faintly. Through the doorway behind him, the purple rift tears open the sky above Eys\u00fdsla like a great eye. Stars burn in configurations that should not be.",
+      "dialogue": "LeifSkull: \"Brother. A fragment. I prepared this before going to Eys\u00fdsla with you. Insurance.\"",
+      "narration": "",
+      "characters": [
+        "Eskil.Young",
+        "LeifSkull"
+      ],
+      "location": "LeifForge",
+      "aspect_ratio": "9:16",
+      "size": "1024x1536"
+    }
+  ]
+}

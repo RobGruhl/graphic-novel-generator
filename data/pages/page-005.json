@@ -10,7 +10,9 @@
       "visual": "Close-up on fifteen-year-old Giovanni's face. His Mediterranean features are set with anger, his eyes burning with something that transcends his peasant station. This is the moment that will change everything - the first spark of the fire that will consume his innocence.",
       "dialogue": "Marco: \"You don't like it.\"",
       "narration": "Giovanni watched the transaction with something burning in his chest. Anger, perhaps. Or shame. The merchant saw it.",
-      "characters": ["Giovanni.Young"],
+      "characters": [
+        "Giovanni.Young"
+      ],
       "location": "VillageMarket",
       "aspect_ratio": "3:4",
       "size": "768x1024"
@@ -21,7 +23,11 @@
       "visual": "Giovanni faces Marco directly, his chin raised despite his shabby clothes and bare feet. The merchant looks down at him with interest rather than offense. Giovanni's father is visible in the background, his face showing alarm.",
       "dialogue": "Giovanni: \"No, signore.\"\nMarco: \"Why not?\"",
       "narration": "",
-      "characters": ["Giovanni.Young", "Marco", "GiovanniFather"],
+      "characters": [
+        "Giovanni.Young",
+        "Marco",
+        "GiovanniFather"
+      ],
       "location": "VillageMarket",
       "aspect_ratio": "3:4",
       "size": "768x1024"
@@ -32,7 +38,10 @@
       "visual": "Giovanni points at the cart of wool, his gesture accusatory. His voice carries across the market square, drawing glances from nearby peasants. The words are out before he can stop them - the truth spoken by one too young to know the cost of honesty.",
       "dialogue": "Giovanni: \"Because it's not fair. Because you know what that wool is worth in Venice, and you're paying half of it.\"",
       "narration": "",
-      "characters": ["Giovanni.Young", "Marco"],
+      "characters": [
+        "Giovanni.Young",
+        "Marco"
+      ],
       "location": "VillageMarket",
       "aspect_ratio": "3:4",
       "size": "768x1024"
@@ -43,7 +52,11 @@
       "visual": "Giovanni's father cuffs him hard across the ear - a blow of desperation and fear, not cruelty. Giovanni staggers from the impact, one hand going to his ear. In the background, Marco is laughing - not mockingly, but with genuine amusement and interest. Other market-goers have turned to watch.",
       "dialogue": "Father: \"Apologize to the signore. Now.\"",
       "narration": "Giovanni's father cuffed him hard across the ear.",
-      "characters": ["Giovanni.Young", "GiovanniFather", "Marco"],
+      "characters": [
+        "Giovanni.Young",
+        "GiovanniFather",
+        "Marco"
+      ],
       "location": "VillageMarket",
       "aspect_ratio": "3:4",
       "size": "768x1024"

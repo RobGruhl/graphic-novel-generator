@@ -1,47 +1,45 @@
 {
   "page_num": 17,
-  "title": "The Seduction",
-  "layout": "grid",
+  "title": "The Bahn-Sa-Sahn",
+  "layout": "3-bottom-wide",
   "panels": [
     {
       "panel_num": 1,
-      "visual": "Eskil ('Meat') towers over everyone at 6'8\", his pale blue eyes scanning the crowd. Shaggy dark hair, braided metal at his neck, white shirt with simple black trousers. He stands alone, waiting for companions who will never arrive. Kari approaches with predatory intent.",
-      "dialogue": "",
-      "narration": "He was comely enough. Towering over the boys and taller than the rest of the men. Sturdy boots on his feet, braided metal at his neck.",
-      "characters": ["Eskil.Young", "Kari"],
-      "location": "Eysysla.Undercroft",
+      "visual": "In a dark alley behind a merchant's storeroom, fourteen-year-old Bansi kneels before a lock, practicing her skills. Her picks move with practiced precision. Suddenly she becomes aware she is not alone. A voice speaks from the shadows behind her.",
+      "dialogue": "ThiefMentor: \"Not bad technique. Little rough around the edges, but not bad.\"",
+      "narration": "",
+      "characters": [
+        "Bansi.Thief"
+      ],
+      "location": "ThievesGuildSafe",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     },
     {
       "panel_num": 2,
-      "visual": "Kari nibbles Eskil's lower lip mid-sentence as he speaks of Toga-Honk. His eyes go wide with surprise, then darken with desire. She has sprung her trap. The other girls steal glances, holding their breath.",
-      "dialogue": "",
-      "narration": "Kari nibbles Meat's lower lip. Mid-sentence, as he speaks of hand placement and knot strength. He freezes.",
-      "characters": ["Eskil.Young", "Kari"],
-      "location": "Eysysla.Undercroft",
+      "visual": "Bansi spins, knife already in hand. The scarred woman steps from the shadows - older, with eyes that miss nothing. She wears the unremarkable clothes of a dock worker, but moves like a dancer. She is pulling down her collar, revealing a small tattoo on her shoulder.",
+      "dialogue": "ThiefMentor: \"We're always looking for people with your particular skills. People who can blend in, move unseen. Come have a drink. No obligation.\"",
+      "narration": "",
+      "characters": [
+        "Bansi.Thief",
+        "ThiefMentor"
+      ],
+      "location": "ThievesGuildSafe",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     },
     {
       "panel_num": 3,
-      "visual": "The flock surrounds Eskil like a school of fish, concealing him from his companions who sit laughing over ale at a distance. The girls circle him, their movements coordinated and practiced. Eskil is oblivious to the trap closing around him.",
-      "dialogue": "Someone in crowd: \"Some men have all the fortune.\"",
-      "narration": "",
-      "characters": ["Eskil.Young", "Kari"],
-      "location": "Eysysla.Undercroft",
-      "aspect_ratio": "3:4",
-      "size": "768x1024"
-    },
-    {
-      "panel_num": 4,
-      "visual": "Alexandra distributes small black pellets - sukarek - to the girls. The preparation tastes of earth and bitterness. Their eyes begin to shine with unnatural light. Sofie swallows one, feeling the stinging in her throat, the warmth spreading through her stomach.",
-      "dialogue": "",
-      "narration": "Alexandra distributes the sukarek. Special preparation. Small black lumps that taste of earth and bitterness. Very rare stuff.",
-      "characters": ["Sofie"],
-      "location": "Eysysla.Undercroft",
-      "aspect_ratio": "3:4",
-      "size": "768x1024"
+      "visual": "Wide shot: The tattoo ritual. Bansi sits perfectly still as the ink is worked into her skin - a small symbol mixed with something that burns. The scarred woman watches approvingly. Other guild members observe from the shadows. Pain shows on Bansi's face but she does not flinch. When it is done, she will no longer be alone in the world.",
+      "dialogue": "ThiefMentor: \"Hurts like hell, but you won't forget it. And neither will we.\"",
+      "narration": "Once marked, always marked. She would carry their sign on her skin and their training in her bones. Wherever she went in the world, there would be others who would know her as kin.",
+      "characters": [
+        "Bansi.Thief",
+        "ThiefMentor"
+      ],
+      "location": "ThievesGuildSafe",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
     }
   ]
 }
