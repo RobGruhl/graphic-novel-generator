@@ -407,5 +407,108 @@
       "clothing": "Simple scholar's robes, worn and patched. Bare feet as rejection of material comfort.",
       "accessories": "Books and scrolls. Candle for reading. Writing implements. The forbidden texts he died protecting."
     }
+  },
+  "Anna": {
+    "name": "Anna from Pihtla",
+    "role": "Antagonist",
+    "full_description": "High Priestess of the Goat cult at Eysýsla, nineteen winters old but with eyes that have seen ten thousand years. Beautiful and terrible, she commands the flock with absolute authority. Sits on a throne in the Undercroft like a jarl's wife. Short braids, white blouse, chalk-stripe vest.",
+    "description_components": {
+      "head_face": "Young Nordic beauty, nineteen winters. Short braids framing sharp features. Eyes that radiate ancient power and terrible wisdom. Expression of cold command.",
+      "body_build": "Slender and graceful. Moves like a predator. Every gesture deliberate and meaningful.",
+      "clothing": "White blouse. Chalk-stripe vest. Simple skirt. Bare feet for the ritual.",
+      "accessories": "Jewelry depicting serpents. Ritual implements. The authority of the Goat's chosen."
+    }
+  },
+  "Anna.Ritual": {
+    "name": "Anna (Ritual State)",
+    "role": "Antagonist",
+    "base_character": "Anna",
+    "variant_context": "During the bog ritual, invoking the Messenger",
+    "full_description": "Anna in full ritual glory, arms raised to the moon, invoking the Messenger of Shub-Niggurath. Hair unbound and flowing. Body marked with ritual symbols. Eyes blazing with the Goat's power. Beautiful and utterly inhuman.",
+    "description_components": {
+      "head_face": "Ecstatic expression. Hair wild and flowing. Eyes burning with golden fire. Face upturned to the moon. Blood at the corners of her mouth.",
+      "body_build": "Transformed by ritual ecstasy. Movements fluid and inhuman. Arms raised in invocation.",
+      "clothing": "Ritual state - minimal clothing. Body painted with symbols in blood and ash.",
+      "accessories": "Blood symbols across skin. The moon's light on pale flesh. The Messenger's attention upon her."
+    }
+  },
+  "Sofie": {
+    "name": "Sofie the Guardian",
+    "role": "Supporting",
+    "full_description": "Guardian of the flock at Eysýsla, perhaps eighteen winters. Frizzy blonde hair, black peasant skirt, simple homespun blouse. Nobody remarkable to look at, but she sees everything like a hawk. Loyal protector of the cult's secrets.",
+    "description_components": {
+      "head_face": "Unremarkable Nordic features. Frizzy blonde hair. Watchful eyes that miss nothing. Expression of constant vigilance.",
+      "body_build": "Not tall, average build. Moves with purpose and awareness. Guardian's alertness.",
+      "clothing": "Black peasant skirt. Simple homespun blouse. Practical clothes for watching and running.",
+      "accessories": "Hidden blade. Sukarek pellets. Ring on cord around neck - trophy from her own ritual."
+    }
+  },
+  "Saga": {
+    "name": "Saga from Anseküla",
+    "role": "Supporting",
+    "full_description": "Large and brutal, Saga is 'afflicted' - she cracked her father's skull with a hot iron. In Kaarma she does hard labor. Loyal to Sofie like a dog, kind as a dog, mad as a dog. She stares down outsiders and will pin your hand to a table with your own blade.",
+    "description_components": {
+      "head_face": "Large, heavy features. Eyes that show dangerous instability. Round face. Expression shifts between placid and murderous.",
+      "body_build": "Large and heavy. Built for hard labor. Immensely strong. Moves with deceptive speed.",
+      "clothing": "Simple peasant clothes stretched over large frame. Nothing fancy. Practical.",
+      "accessories": "Weighted club hidden beneath skirts. Scarred knuckles. Blood in her hair from violence."
+    }
+  },
+  "Kari": {
+    "name": "Kari from Kaarma",
+    "role": "Supporting",
+    "full_description": "The seductress who targets Eskil ('Meat') for the ritual sacrifice. Aggressive and primal in her pursuit. Once her initiation is complete she will work her own fishing boat. Bold beyond reason, she licks her palm before reaching into men's trousers.",
+    "description_components": {
+      "head_face": "Nordic beauty, sharp and hungry. Eyes locked on her prey. Lips that nibble and bite. Expression of predatory desire.",
+      "body_build": "Young and athletic. Aggressive in every movement. Body used as a weapon of seduction.",
+      "clothing": "Whatever draws the eye. Clothes that come off easily. Nothing practical about her attire.",
+      "accessories": "The silver hair comb she uses as a weapon. Long fingernails despite impracticality."
+    }
+  },
+  "Kari.Ritual": {
+    "name": "Kari (During Ritual)",
+    "role": "Supporting",
+    "base_character": "Kari",
+    "variant_context": "During the bog ritual, atop her victim",
+    "full_description": "Kari in the grip of the sukarek and ritual ecstasy. Eyes turned black. Drooling and babbling. Strangling Eskil while coupling with him. The seductress transformed into an instrument of the Goat.",
+    "description_components": {
+      "head_face": "Eyes entirely black from sukarek. Face contorted with unnatural pleasure. Drool and blood. Babbling in tongues.",
+      "body_build": "Arched and primal. Movements animalistic. Covered in sweat and moss.",
+      "clothing": "Undergarments hanging on a nearby bush. Mostly naked. Covered in mud and blood.",
+      "accessories": "Hands at victim's throat. Fingernails drawing blood. The moonlight on her pale skin."
+    }
+  },
+  "Leif": {
+    "name": "Leif the Runecaster",
+    "role": "Supporting",
+    "full_description": "Eskil's brother, a simple smith who reads runes and casts stones. He tried to warn Eskil about the flock but was never believed. Green, sad eyes. He dies in his brother's place when the transubstantiation rune activates.",
+    "description_components": {
+      "head_face": "Nordic features similar to Eskil but softer. Green eyes filled with sadness and knowing. Expression of resignation to fate he cannot change.",
+      "body_build": "Smith's build - strong arms and shoulders. Smaller than his giant brother.",
+      "clothing": "Smith's leather apron. Simple clothes darkened by forge work. Sturdy boots.",
+      "accessories": "Rune stones in a pouch. Smith's hammer. Iron-stained hands. Forge marks on arms."
+    }
+  },
+  "LeifSkull": {
+    "name": "Leif's Iron Skull",
+    "role": "Supporting",
+    "full_description": "An iron skull containing a fragment of Leif's spirit, prepared before his death as insurance. Wrapped in fine cloth, covered in runes that glow faintly. Warm to the touch, almost alive. It whispers guidance to Eskil.",
+    "description_components": {
+      "head_face": "Stylized iron skull with rune inscriptions. Eye sockets that seem to watch. Mouth that moves when it speaks. Crafted with a smith's skill.",
+      "body_build": "Just a skull, sized for a human head. Heavy iron construction.",
+      "clothing": "Wrapped in fine cloth when stored. Runes carved across surface.",
+      "accessories": "Chain or cord for carrying. Faint glow from runes when active. The warmth of residual life."
+    }
+  },
+  "Henrik": {
+    "name": "Henrik the Executioner",
+    "role": "Supporting",
+    "full_description": "An old guild executioner, hair gone to gray but steel in his eyes. He sits by the roadside sharpening a massive headsman's axe. Teaches Eskil the philosophy of ending life with precision and dignity. Master of the guild's darker purpose.",
+    "description_components": {
+      "head_face": "Weathered, gray hair. Steel-hard eyes that have seen everything. Expression of grim wisdom. Face of one who has taken many lives cleanly.",
+      "body_build": "Old but not frail. Still strong enough to swing the axe true. Moves with practiced economy.",
+      "clothing": "Dark practical clothes. Leather apron for messy work. Heavy boots. Hood for anonymity.",
+      "accessories": "Massive headsman's axe. Leather-bound journal of creatures. Guild token. Sharpening stone."
+    }
   }
 }

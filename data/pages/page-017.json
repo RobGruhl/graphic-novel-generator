@@ -1,0 +1,47 @@
+{
+  "page_num": 17,
+  "title": "The Seduction",
+  "layout": "grid",
+  "panels": [
+    {
+      "panel_num": 1,
+      "visual": "Eskil ('Meat') towers over everyone at 6'8\", his pale blue eyes scanning the crowd. Shaggy dark hair, braided metal at his neck, white shirt with simple black trousers. He stands alone, waiting for companions who will never arrive. Kari approaches with predatory intent.",
+      "dialogue": "",
+      "narration": "He was comely enough. Towering over the boys and taller than the rest of the men. Sturdy boots on his feet, braided metal at his neck.",
+      "characters": ["Eskil.Young", "Kari"],
+      "location": "Eysysla.Undercroft",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "visual": "Kari nibbles Eskil's lower lip mid-sentence as he speaks of Toga-Honk. His eyes go wide with surprise, then darken with desire. She has sprung her trap. The other girls steal glances, holding their breath.",
+      "dialogue": "",
+      "narration": "Kari nibbles Meat's lower lip. Mid-sentence, as he speaks of hand placement and knot strength. He freezes.",
+      "characters": ["Eskil.Young", "Kari"],
+      "location": "Eysysla.Undercroft",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "visual": "The flock surrounds Eskil like a school of fish, concealing him from his companions who sit laughing over ale at a distance. The girls circle him, their movements coordinated and practiced. Eskil is oblivious to the trap closing around him.",
+      "dialogue": "Someone in crowd: \"Some men have all the fortune.\"",
+      "narration": "",
+      "characters": ["Eskil.Young", "Kari"],
+      "location": "Eysysla.Undercroft",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 4,
+      "visual": "Alexandra distributes small black pellets - sukarek - to the girls. The preparation tastes of earth and bitterness. Their eyes begin to shine with unnatural light. Sofie swallows one, feeling the stinging in her throat, the warmth spreading through her stomach.",
+      "dialogue": "",
+      "narration": "Alexandra distributes the sukarek. Special preparation. Small black lumps that taste of earth and bitterness. Very rare stuff.",
+      "characters": ["Sofie"],
+      "location": "Eysysla.Undercroft",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    }
+  ]
+}

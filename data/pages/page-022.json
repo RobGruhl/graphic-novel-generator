@@ -1,0 +1,37 @@
+{
+  "page_num": 22,
+  "title": "The Messenger's Rage",
+  "layout": "3-bottom-wide",
+  "panels": [
+    {
+      "panel_num": 1,
+      "visual": "The Messenger freezes, then its entire mass begins to shake with fury. Tentacles thrash wildly, smashing trees and churning the bog. Its many eyes focus with terrible intent on the fleeing girls. The offering was wrong - tainted by conflicting runes and sigils. The compact is broken.",
+      "dialogue": "",
+      "narration": "Being denied its anointed sacrifice makes it rage. An empirical fact.",
+      "characters": [],
+      "location": "UnderrydBog",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "visual": "Large Saga strides toward the monster with her weighted club raised. Blood in her hair, round face set with mad determination. She is choosing to die so Sofie can live. Behind her, the girls flee in terror.",
+      "dialogue": "Saga: \"Your mother was an octopus and your father smelled of elderberries!\"",
+      "narration": "",
+      "characters": ["Saga"],
+      "location": "UnderrydBog",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "visual": "Wide shot of catastrophe. Saga is thrown through the air like a stone, disappearing among the Messenger's tentacles like a fish in an anemone. The girls scatter into the forest. Above it all, a purple-edged rift begins to tear open the sky, showing stars in configurations that should not be - too bright, too close, too flat in their array. The compact is broken. Eysýsla will burn.",
+      "dialogue": "",
+      "narration": "She disappears among them. Like a fish in an anemone. They will never even find a finger.",
+      "characters": ["Saga"],
+      "location": "UnderrydBog",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
+    }
+  ]
+}

@@ -321,5 +321,25 @@
       "lighting": "Weak winter light through small windows. Torchlight in corridors. Darkness in the crypt that seems to resist illumination.",
       "key_features": "Chapel with defaced altar. Crypt with shapes pressed into stone floor. Cells where the corrupted monk lived. Mountain peaks visible through windows. Snow and wind outside."
     }
+  },
+  "Eysysla.Undercroft": {
+    "name": "The Undercroft of Eysýsla",
+    "full_description": "The underground dance hall beneath the fortress of Eysýsla, constructed as both sepulcher and altar, expanded over generations. The flock dances here five nights a week. Ancient stones, candlelight, and the pulse of drums rising from below.",
+    "description_components": {
+      "architecture": "Underground vaults of ancient stone. Multiple levels descending into the earth. Corridors and crypts. Secret chambers for rituals. Spiral staircases leading down to the bog.",
+      "atmosphere": "Decadent and ancient. The buzz of voices, music, bodies. Something predatory beneath the revelry. Centuries of dark rites soaked into the stones.",
+      "lighting": "Candlelight and torches. Shadows dancing on stone walls. Dark corners where anything might happen. Flickering illumination that hides more than it reveals.",
+      "key_features": "Dance floor worn smooth by centuries. Bar where Anna holds court. Side passages for private dealings. Staircase leading down to the bog. Drums and flutes echoing from below."
+    }
+  },
+  "LeifForge": {
+    "name": "Leif's Forge",
+    "full_description": "The smithy of Leif the runecaster, Eskil's brother. Cold fires now, ash settling in darkness. Beneath the anvil lies a hidden chest containing the iron skull - Leif's insurance against death. Through the doorway, the purple rift tears open the sky above Eysýsla.",
+    "description_components": {
+      "architecture": "Simple village smithy. Stone forge. Heavy anvil on wooden block. Workbenches and tool racks. Small living quarters attached.",
+      "atmosphere": "Cold and abandoned. Ash and silence. The sense of a life interrupted. Something hidden beneath the surface. The coming apocalypse visible through the door.",
+      "lighting": "No fire in the forge. Dim starlight from doorway. The purple glow of the rift casting strange shadows. The faint luminescence of hidden runes.",
+      "key_features": "Cold forge with dead coals. Heavy anvil hiding the floor compartment. Iron skull wrapped in rune-cloth. View of the purple rift through doorway. Smith's tools abandoned mid-work."
+    }
   }
 }

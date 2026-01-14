@@ -1,0 +1,17 @@
+{
+  "page_num": 20,
+  "title": "The Messenger Arrives",
+  "layout": "splash",
+  "panels": [
+    {
+      "panel_num": 1,
+      "visual": "FULL PAGE SPLASH: The Messenger of Shub-Niggurath emerges from the bog in all its cosmic horror. Thirty feet of swaying tentacles thick as tree trunks, like a dead tree that moves. Multiple gleaming eyes scattered across its mass, ancient and utterly evil. It crashes through the pines, snapping a seventy-five foot tree at its roots. The crown strikes the ground before Anna, showering the ritual with pine needles and bog water. Anna stands with arms raised toward the abomination, welcoming it. The girls howl at the moon. Eskil lies half-strangled in the grass, finally seeing the horror his brother warned him about. The moon turns everything silver and terrible.",
+      "dialogue": "The Girls: \"Iä! Iä!\"",
+      "narration": "The Black Goat has a thousand young. Like a thirty-foot piece of kelp on legs like bridge piers. It lashes out here and there with its tentacles and bellows.",
+      "characters": ["Anna.Ritual", "Eskil.Ritual"],
+      "location": "UnderrydBog",
+      "aspect_ratio": "9:16",
+      "size": "1024x1536"
+    }
+  ]
+}

@@ -119,7 +119,87 @@
       "thumbnail": "images/thumbnails/page-015.webp",
       "characters": ["Karishkir", "Drekhlo", "Eskil.Berserker", "Nizack", "Rahzalahn", "Bansi.Battle", "Lueduo"],
       "locations": ["ChapelOfBones"]
+    },
+    {
+      "page": 16,
+      "title": "Prologue III: The Undercroft",
+      "image": "images/pages/page-016.webp",
+      "thumbnail": "images/thumbnails/page-016.webp",
+      "characters": ["Anna", "Kari", "Sofie"],
+      "locations": ["Eysysla.Undercroft"]
+    },
+    {
+      "page": 17,
+      "title": "The Seduction",
+      "image": "images/pages/page-017.webp",
+      "thumbnail": "images/thumbnails/page-017.webp",
+      "characters": ["Eskil.Young", "Kari", "Sofie"],
+      "locations": ["Eysysla.Undercroft"]
+    },
+    {
+      "page": 18,
+      "title": "Into the Darkness",
+      "image": "images/pages/page-018.webp",
+      "thumbnail": "images/thumbnails/page-018.webp",
+      "characters": ["Eskil.Young", "Kari", "Sofie", "Saga", "Leif"],
+      "locations": ["Eysysla.Undercroft"]
+    },
+    {
+      "page": 19,
+      "title": "The Ritual",
+      "image": "images/pages/page-019.webp",
+      "thumbnail": "images/thumbnails/page-019.webp",
+      "characters": ["Kari.Ritual", "Eskil.Ritual", "Anna.Ritual"],
+      "locations": ["UnderrydBog"]
+    },
+    {
+      "page": 20,
+      "title": "The Messenger Arrives",
+      "image": "images/pages/page-020.webp",
+      "thumbnail": "images/thumbnails/page-020.webp",
+      "characters": ["Anna.Ritual", "Eskil.Ritual"],
+      "locations": ["UnderrydBog"]
+    },
+    {
+      "page": 21,
+      "title": "The Feeding",
+      "image": "images/pages/page-021.webp",
+      "thumbnail": "images/thumbnails/page-021.webp",
+      "characters": ["Anna.Ritual", "Sofie"],
+      "locations": ["UnderrydBog"]
+    },
+    {
+      "page": 22,
+      "title": "The Messenger's Rage",
+      "image": "images/pages/page-022.webp",
+      "thumbnail": "images/thumbnails/page-022.webp",
+      "characters": ["Saga"],
+      "locations": ["UnderrydBog"]
+    },
+    {
+      "page": 23,
+      "title": "Transubstantiation",
+      "image": "images/pages/page-023.webp",
+      "thumbnail": "images/thumbnails/page-023.webp",
+      "characters": ["Eskil.Ritual", "Kari.Ritual", "Eskil.Young", "LeifSkull"],
+      "locations": ["UnderrydBog", "LeifForge"]
+    },
+    {
+      "page": 24,
+      "title": "Eysýsla Burns",
+      "image": "images/pages/page-024.webp",
+      "thumbnail": "images/thumbnails/page-024.webp",
+      "characters": ["Eskil.Young", "LeifSkull"],
+      "locations": ["Eysysla.Destroyed"]
+    },
+    {
+      "page": 25,
+      "title": "The Helm and Collar",
+      "image": "images/pages/page-025.webp",
+      "thumbnail": "images/thumbnails/page-025.webp",
+      "characters": ["Eskil.Young", "Eskil", "LeifSkull"],
+      "locations": ["KyivArena"]
     }
   ],
-  "total": 15
+  "total": 25
 }

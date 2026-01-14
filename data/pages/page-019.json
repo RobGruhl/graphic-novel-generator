@@ -1,0 +1,27 @@
+{
+  "page_num": 19,
+  "title": "The Ritual",
+  "layout": "2-horizontal",
+  "panels": [
+    {
+      "panel_num": 1,
+      "visual": "Wide cinematic shot of the Underryd bog at night. The moon illuminates swirling mist. The girls stand in a breathless semi-circle at the edge of the glade, their white clothing ghostly in the moonlight. Ancient trees with gnarled branches frame the scene. The path of silver - moonlight on broken grass - leads from the dance pavilion to this sacred place.",
+      "dialogue": "",
+      "narration": "Out on the bog there is coupling in progress. The moon turns all skin white and milky. The girls howl when they see the blood.",
+      "characters": [],
+      "location": "UnderrydBog",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
+    },
+    {
+      "panel_num": 2,
+      "visual": "In the center of the ritual space, Kari and Eskil couple in the grass. Her hands are at his throat, strangling him. Anna stands behind them with arms raised to the moon, her hair unbound and flowing, her body painted with symbols. The girls watch with glazed eyes, clasping each other's hands. The drumbeat rises from somewhere beyond perception.",
+      "dialogue": "",
+      "narration": "Kari takes Meat's throat in a stranglehold. He grins like an idiot when she starts squeezing.",
+      "characters": ["Kari.Ritual", "Eskil.Ritual", "Anna.Ritual"],
+      "location": "UnderrydBog",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
+    }
+  ]
+}
