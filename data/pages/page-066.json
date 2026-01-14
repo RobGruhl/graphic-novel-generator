@@ -1,0 +1,66 @@
+{
+  "page_num": 66,
+  "title": "Eskil vs Nizack",
+  "panel_count": 4,
+  "is_spread": false,
+  "layout": "grid",
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "The whip",
+      "visual": "In the darkness behind the party, Nizack attacks. His whip cracks like breaking bone, the leather cord wrapping around Eskil's steel collar, pulling his head down like a dog on a leash. Nizack's face is twisted with malice.",
+      "dialogue": "",
+      "narration": "The first warning was the crack of a whip - a sound like breaking bone.",
+      "characters": [
+        "Nizack",
+        "Eskil"
+      ],
+      "location": "UndergroundTemple",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "annotation": "Eskil strikes",
+      "visual": "Eskil strikes back, his blade cleaving into Nizack, catching on armor, then plunging through into soft flesh beneath. Blood sprays. But Nizack grins - a sickly, knowing smile - and does not fall.",
+      "dialogue": "",
+      "narration": "Eskil prayed to his gods - the Aesir, who asked for blood and iron - and struck.",
+      "characters": [
+        "Eskil.Berserker",
+        "Nizack"
+      ],
+      "location": "UndergroundTemple",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "annotation": "Sadia cuts the whip",
+      "visual": "Sadia's blade descends on the whip around Eskil's neck, severing it cleanly. In the same motion, Eskil drives his sword through Nizack's body in a final, desperate thrust.",
+      "dialogue": "",
+      "narration": "",
+      "characters": [
+        "Sadia",
+        "Eskil.Berserker",
+        "Nizack"
+      ],
+      "location": "UndergroundTemple",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 4,
+      "annotation": "Nizack dissolves",
+      "visual": "Nizack howls - not a human sound but something otherworldly - and dissolves into shadow and spite. His form breaks apart into darkness, leaving only blood on the stones and the echo of his cry. He is banished, but not destroyed.",
+      "dialogue": "",
+      "narration": "Nizack howled and then vanished, dissolving into shadow and spite.",
+      "characters": [
+        "Nizack",
+        "Eskil.Berserker"
+      ],
+      "location": "UndergroundTemple",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    }
+  ]
+}

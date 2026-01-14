@@ -1,23 +1,66 @@
 {
   "page_num": 61,
-  "title": "Karishkir Revealed",
-  "panel_count": 1,
+  "title": "Into the Keep",
+  "panel_count": 4,
   "is_spread": false,
-  "layout": "splash",
+  "layout": "grid",
   "panels": [
     {
       "panel_num": 1,
-      "annotation": "Full page splash - Karishkir in glory",
-      "visual": "Karishkir stands behind the altar in terrible glory - a figure of impossible beauty and horror. Her body is painted with symbols in blood, arcane sigils covering her skin. Her hair flows unbound past her shoulders like living shadow. Her eyes burn with golden fire, ancient and hungry. She wears nothing but the blood symbols and a smile of pure, transcendent cruelty. To her right stands Drekhlo - bare-chested, his torso marked with twisted runes that seem to writhe in the flickering light, the great sword on his back longer than a man is tall. Cultists ring the chamber behind them, perhaps two dozen, their bodies painted and their eyes glazed with fervor. The scene is lit by ritual flames that make the bone walls seem to dance.",
+      "annotation": "Entering the darkness",
+      "visual": "The party enters the keep, torchlight pushing back shadows that seem reluctant to yield. Giovanni prays quietly, Latin words a whispered thread. The architecture is inscrutable - proportions that shift when viewed from different angles.",
       "dialogue": "",
-      "narration": "She was beautiful - even now, even knowing more of what she was. Her body was painted with symbols in blood, her hair unbound and flowing past her shoulders, her eyes burning with golden fire.",
+      "narration": "They moved as if entering a tomb, which perhaps they were.",
       "characters": [
-        "Karishkir",
-        "Drekhlo"
+        "Giovanni",
+        "Bansi",
+        "Lueduo"
       ],
-      "location": "ChapelOfBones",
-      "aspect_ratio": "9:16",
-      "size": "1024x1536"
+      "location": "CursedCastle.Interior",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "annotation": "Eskil's warning",
+      "visual": "Eskil clutches his shoulder where his protective sigils are carved, pain visible in his body language even through the helm. At his belt, the iron skull glows faintly. The walls around him seem to pulse with wrongness.",
+      "dialogue": "",
+      "narration": "Eskil felt it before he saw it - a stabbing pain in the sigils carved onto his shoulder.",
+      "characters": [
+        "Eskil",
+        "LeifSkull"
+      ],
+      "location": "CursedCastle.Interior",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "annotation": "The bronze doors",
+      "visual": "They reach massive bronze doors that glisten wetly in the torchlight, sweating some viscous substance. The floor before them is slick with oily sheen. The doors look organic, wrong - more flesh than metal.",
+      "dialogue": "",
+      "narration": "Bronze, or something like bronze, but the flickering torchlight revealed something deeply off with their surface.",
+      "characters": [
+        "Bansi",
+        "Giovanni"
+      ],
+      "location": "CursedCastle.Interior",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 4,
+      "annotation": "Burning the doors",
+      "visual": "Bansi and Giovanni press their torches to the bronze doors. The flame catches with unhealthy phlegm-green fire, spreading across the surface. The material does not melt - it disintegrates, sloughing away in burning globs like something organic dying.",
+      "dialogue": "Bansi: \"Burn it.\"",
+      "narration": "",
+      "characters": [
+        "Bansi",
+        "Giovanni"
+      ],
+      "location": "CursedCastle.Interior",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
     }
   ]
 }

@@ -1,45 +1,54 @@
 {
   "page_num": 60,
-  "title": "The Cathedral of Death",
+  "title": "Chapter 3: The Amulet - The Pact",
   "panel_count": 3,
   "is_spread": false,
   "layout": "3-top-wide",
   "panels": [
     {
       "panel_num": 1,
-      "annotation": "Wide establishing shot",
-      "visual": "A vast underground chamber reveals itself - a cathedral built of death. The walls are constructed from thousands of human skulls and bones, arranged in terrible geometric patterns. Columns of femurs and tibias rise into the darkness above. Flickering ritual flames cast dancing shadows through empty eye sockets. The scale is overwhelming, ancient, profane.",
+      "annotation": "Wide - bonfire in courtyard",
+      "visual": "Wide shot of the castle courtyard at night. A great bonfire blazes in the center, sending sparks spiraling up into a sky the color of old bruises. The ruined walls loom around them. The honest light of the fire pushes back the darkness. The party gathers around the flames, preparing for what lies within the keep.",
       "dialogue": "",
-      "narration": "The chamber was a cathedral of death.",
+      "narration": "They built a bonfire in the castle's courtyard, more for defense than for warmth.",
       "characters": [],
-      "location": "ChapelOfBones",
+      "location": "CursedCastle",
       "aspect_ratio": "16:9",
       "size": "1536x1024"
     },
     {
       "panel_num": 2,
-      "annotation": "The altar",
-      "visual": "At the center of the bone cathedral stands an altar of black stone. Upon it, bound hand and foot, lies Rahzalahn - the oud player from the caravan. Her face shows terror but also defiance. The altar is stained dark with old blood. Heaps of treasure glitter behind the altar - gold, gems, the accumulated wealth of centuries.",
-      "dialogue": "",
-      "narration": "In the center stood an altar of black stone. Upon it, bound hand and foot, lay Rahzalahn.",
+      "annotation": "The pact",
+      "visual": "Bansi lights a torch from the bonfire, her face determined. Around her, the others prepare - Giovanni praying quietly, Lueduo wrapping sacred silks around his arms, Abu-Rayhan murmuring invocations. Dog presses close to Gan's heel, hackles raised.",
+      "dialogue": "Bansi: \"One day. We go in, we find what we came for, and we get out.\"",
+      "narration": "",
       "characters": [
-        "Rahzalahn"
+        "Bansi",
+        "Giovanni",
+        "Lueduo",
+        "AbuRayhan",
+        "Gan",
+        "Dog"
       ],
-      "location": "ChapelOfBones",
+      "location": "CursedCastle",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     },
     {
       "panel_num": 3,
-      "annotation": "Nizack with dagger",
-      "visual": "Nizack stands over the altar, a ceremonial dagger raised high above Rahzalahn's heart, ready to plunge down. His face is twisted with religious fervor, his eyes glazed with madness. Behind him, mounted on the wall of bone, hangs the gold amulet they seek - glowing faintly with eldritch power.",
+      "annotation": "Spitting and shaking",
+      "visual": "Close-up of hands meeting in the old compact - they spit and shake hands on it. Multiple hands visible from different party members, sealing the agreement. The firelight catches the determination in their eyes.",
       "dialogue": "",
-      "narration": "Behind them, mounted on the wall of bone, hung the gold amulet.",
+      "narration": "No one disagreed. They spat and shook hands on it - the old compact of thieves and adventurers since time immemorial.",
       "characters": [
-        "Nizack",
-        "Rahzalahn"
+        "Bansi",
+        "Giovanni",
+        "Eskil",
+        "Gan",
+        "Lueduo",
+        "Sadia"
       ],
-      "location": "ChapelOfBones",
+      "location": "CursedCastle",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     }

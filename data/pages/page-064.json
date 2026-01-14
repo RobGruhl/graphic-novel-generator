@@ -1,64 +1,60 @@
 {
   "page_num": 64,
-  "title": "The End of Nizack",
+  "title": "The Dance",
   "panel_count": 4,
   "is_spread": false,
   "layout": "grid",
   "panels": [
     {
       "panel_num": 1,
-      "annotation": "Karishkir escapes",
-      "visual": "Karishkir throws L\u00fc\u00e8du\u00f3 aside like a discarded toy and dives toward a shimmering portal that Nizack has conjured. Drekhlo runs after her, pausing at the threshold to point his great sword back at Eskil. The portal crackles with eldritch energy, its edges unstable.",
-      "dialogue": "Karishkir: \"Come, my love!\"",
-      "narration": "",
+      "annotation": "Vines recoil",
+      "visual": "Giovanni swipes at the nearest vine with his torch, and it retracts like a serpent recoiling from fire, pulling back toward the ceiling. The vines are alive. Gan nocks a flaming arrow, aiming into the darkness.",
+      "dialogue": "",
+      "narration": "Giovanni swiped at the nearest vine with his torch, and it retracted.",
       "characters": [
-        "Karishkir",
-        "Drekhlo"
+        "Giovanni",
+        "Gan"
       ],
-      "location": "ChapelOfBones",
+      "location": "UndergroundTemple",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     },
     {
       "panel_num": 2,
-      "annotation": "Drekhlo's threat",
-      "visual": "Drekhlo stands at the portal's edge, his great sword pointed at Eskil who bleeds from wounds across his chest. Drekhlo's expression is one of dark promise. Behind him, the portal shimmers with otherworldly light. His rune-marked body seems to pulse with power.",
-      "dialogue": "Drekhlo: \"I have marked you, and when we meet again, I will drink your blood from your empty skull!\"",
-      "narration": "",
+      "annotation": "Lueduo lights his silks",
+      "visual": "Lueduo lights the silks wrapped around his arms. They catch with flames that burn true and golden - a small defiance against the corrupted light. His expression is focused, determined. He is about to dance.",
+      "dialogue": "",
+      "narration": "He lit the silks wrapped around his arms, and they caught with flames that burned true and golden.",
       "characters": [
-        "Drekhlo",
-        "Eskil.Berserker"
+        "Lueduo"
       ],
-      "location": "ChapelOfBones",
+      "location": "UndergroundTemple",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     },
     {
       "panel_num": 3,
-      "annotation": "Rahzalahn's revenge",
-      "visual": "Nizack staggers in a circle, abandoned by his queen, blood running from multiple wounds. Behind him, Rahzalahn has crept up - her spiked silver hair comb now protruding from his throat. Her face shows no mercy, only grim satisfaction. Nizack's expression is one of utter betrayal and horror.",
+      "annotation": "The dance begins",
+      "visual": "Lueduo dances through the chamber - whirling, stepping, slipping between grasping vines with inches to spare. The flames on his arms leave trails of afterimage in the darkness. His movements trace patterns the mind can follow only imperfectly. The vines reach for where he was rather than where he is.",
       "dialogue": "",
-      "narration": "She had crept up behind him during the chaos. Her spiked silver hair comb had found his throat.",
+      "narration": "It was something older than either - a movement of the body that traced patterns the mind could follow only imperfectly.",
       "characters": [
-        "Nizack",
-        "Rahzalahn"
+        "Lueduo"
       ],
-      "location": "ChapelOfBones",
+      "location": "UndergroundTemple",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     },
     {
       "panel_num": 4,
-      "annotation": "Nizack's dissolution",
-      "visual": "Bansi and L\u00fc\u00e8du\u00f3 stand over Nizack's crumbling form, their silver daggers buried in his heart. His body is disintegrating - flesh charring and collapsing, consumed by invisible fire. Ash and embers spiral upward where a man once stood. His face is frozen in a final scream as he crumbles to nothing. The chamber is littered with cultist bodies behind them.",
+      "annotation": "At the altar",
+      "visual": "Lueduo reaches the altar, facing the cyclopean figure behind it. The amulet lies on the altar's surface, inches from his fingers. His burning silks cast golden light against the darkness. Something vast and cold presses against his thoughts.",
       "dialogue": "",
-      "narration": "The sorcerer's body did not simply die. It disintegrated - crumbling from within, the flesh charring and collapsing as if consumed by invisible fire.",
+      "narration": "Join us.",
       "characters": [
-        "Bansi.Battle",
-        "Lueduo",
-        "Nizack"
+        "Lueduo"
       ],
-      "location": "ChapelOfBones",
+      "location": "UndergroundTemple",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     }

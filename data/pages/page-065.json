@@ -1,0 +1,25 @@
+{
+  "page_num": 65,
+  "title": "The Bird-Thing",
+  "panel_count": 1,
+  "is_spread": false,
+  "layout": "splash",
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "Full page splash - the horror emerges",
+      "visual": "The bird-thing emerges from behind the cyclopean figure - indescribable, genuinely horrifically indescribable. Bird-like but not a bird. Humanoid in having limbs but alien in every proportion. It moves with clicking, chittering sounds, joints that are not joints. Lueduo stands frozen at the altar, one hand extended toward the amulet. Bansi has dropped to her knees in terror. Giovanni reaches for Lueduo but his own limbs are going rigid. The cold evil washes over them all.",
+      "dialogue": "",
+      "narration": "It was indescribable - genuinely, horrifically indescribable.",
+      "characters": [
+        "BirdThing",
+        "Lueduo",
+        "Bansi",
+        "Giovanni"
+      ],
+      "location": "UndergroundTemple.BirdThingEmerging",
+      "aspect_ratio": "9:16",
+      "size": "1024x1536"
+    }
+  ]
+}

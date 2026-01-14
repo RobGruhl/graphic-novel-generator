@@ -59,11 +59,20 @@
     {"page": 57, "title": "Ghouls", "image": "images/pages/page-057.webp", "thumbnail": "images/thumbnails/page-057.webp", "characters": ["Sadia", "Giovanni", "Dog", "AbuRayhan", "Eskil", "LeifSkull", "Lueduo"], "locations": ["CursedVillage.GhoulRising"]},
     {"page": 58, "title": "The Escape", "image": "images/pages/page-058.webp", "thumbnail": "images/thumbnails/page-058.webp", "characters": ["Eskil", "Sadia", "Gan", "Lueduo"], "locations": ["CursedCastle"]},
     {"page": 59, "title": "The Wrath of Heaven", "image": "images/pages/page-059.webp", "thumbnail": "images/thumbnails/page-059.webp", "characters": ["Giovanni"], "locations": ["CursedCastle"]},
-    {"page": 60, "title": "The Cathedral of Death", "image": "images/pages/page-060.webp", "thumbnail": "images/thumbnails/page-060.webp", "characters": ["Rahzalahn", "Nizack"], "locations": ["ChapelOfBones"]},
-    {"page": 61, "title": "Karishkir Revealed", "image": "images/pages/page-061.webp", "thumbnail": "images/thumbnails/page-061.webp", "characters": ["Karishkir", "Drekhlo"], "locations": ["ChapelOfBones"]},
-    {"page": 62, "title": "Battle Erupts", "image": "images/pages/page-062.webp", "thumbnail": "images/thumbnails/page-062.webp", "characters": ["Bansi.Battle", "Gan", "Rahzalahn", "Eskil.Berserker", "Drekhlo"], "locations": ["ChapelOfBones"]},
-    {"page": 63, "title": "The Wrath of Heaven", "image": "images/pages/page-063.webp", "thumbnail": "images/thumbnails/page-063.webp", "characters": ["Giovanni.Assassin", "Sadia", "Karishkir", "Lueduo", "Isaac"], "locations": ["ChapelOfBones"]},
-    {"page": 64, "title": "The End of Nizack", "image": "images/pages/page-064.webp", "thumbnail": "images/thumbnails/page-064.webp", "characters": ["Karishkir", "Drekhlo", "Eskil.Berserker", "Nizack", "Rahzalahn", "Bansi.Battle", "Lueduo"], "locations": ["ChapelOfBones"]}
+    {"page": 60, "title": "Chapter 3: The Amulet - The Pact", "image": "images/pages/page-060.webp", "thumbnail": "images/thumbnails/page-060.webp", "characters": ["Bansi", "Giovanni", "Lueduo", "AbuRayhan", "Gan", "Dog", "Eskil", "Sadia"], "locations": ["CursedCastle"]},
+    {"page": 61, "title": "Into the Keep", "image": "images/pages/page-061.webp", "thumbnail": "images/thumbnails/page-061.webp", "characters": ["Giovanni", "Bansi", "Lueduo", "Eskil", "LeifSkull"], "locations": ["CursedCastle.Interior"]},
+    {"page": 62, "title": "The Descent", "image": "images/pages/page-062.webp", "thumbnail": "images/thumbnails/page-062.webp", "characters": ["Bansi", "Giovanni", "Lueduo", "Gan", "AbuRayhan", "Eskil"], "locations": ["CursedCastle.Interior"]},
+    {"page": 63, "title": "The Underground Temple", "image": "images/pages/page-063.webp", "thumbnail": "images/thumbnails/page-063.webp", "characters": ["Bansi", "Giovanni", "Lueduo", "Gan", "Dog", "Eskil", "AbuRayhan"], "locations": ["UndergroundTemple"]},
+    {"page": 64, "title": "The Dance", "image": "images/pages/page-064.webp", "thumbnail": "images/thumbnails/page-064.webp", "characters": ["Giovanni", "Gan", "Lueduo"], "locations": ["UndergroundTemple"]},
+    {"page": 65, "title": "The Bird-Thing", "image": "images/pages/page-065.webp", "thumbnail": "images/thumbnails/page-065.webp", "characters": ["BirdThing", "Lueduo", "Bansi", "Giovanni"], "locations": ["UndergroundTemple.BirdThingEmerging"]},
+    {"page": 66, "title": "Eskil vs Nizack", "image": "images/pages/page-066.webp", "thumbnail": "images/thumbnails/page-066.webp", "characters": ["Nizack", "Eskil", "Eskil.Berserker", "Sadia"], "locations": ["UndergroundTemple"]},
+    {"page": 67, "title": "The Nagini Answers", "image": "images/pages/page-067.webp", "thumbnail": "images/thumbnails/page-067.webp", "characters": ["Lueduo.Marked", "Gan", "Dog", "BirdThing", "TheNagini"], "locations": ["UndergroundTemple.BirdThingEmerging"]},
+    {"page": 68, "title": "Escape and Return", "image": "images/pages/page-068.webp", "thumbnail": "images/thumbnails/page-068.webp", "characters": ["Bansi", "Giovanni", "Lueduo", "Gan", "Dog", "Eskil", "Sadia", "Hind", "AbuRayhan"], "locations": ["CursedCastle.Interior", "CursedVillage", "HindsTent"]},
+    {"page": 69, "title": "The Cathedral of Death", "image": "images/pages/page-069.webp", "thumbnail": "images/thumbnails/page-069.webp", "characters": ["Rahzalahn", "Nizack"], "locations": ["ChapelOfBones"]},
+    {"page": 70, "title": "Karishkir Revealed", "image": "images/pages/page-070.webp", "thumbnail": "images/thumbnails/page-070.webp", "characters": ["Karishkir", "Drekhlo"], "locations": ["ChapelOfBones"]},
+    {"page": 71, "title": "Battle Erupts", "image": "images/pages/page-071.webp", "thumbnail": "images/thumbnails/page-071.webp", "characters": ["Bansi.Battle", "Gan", "Rahzalahn", "Eskil.Berserker", "Drekhlo"], "locations": ["ChapelOfBones"]},
+    {"page": 72, "title": "The Wrath of Heaven", "image": "images/pages/page-072.webp", "thumbnail": "images/thumbnails/page-072.webp", "characters": ["Giovanni.Assassin", "Sadia", "Karishkir", "Lueduo", "Isaac"], "locations": ["ChapelOfBones"]},
+    {"page": 73, "title": "The End of Nizack", "image": "images/pages/page-073.webp", "thumbnail": "images/thumbnails/page-073.webp", "characters": ["Karishkir", "Drekhlo", "Eskil.Berserker", "Nizack", "Rahzalahn", "Bansi.Battle", "Lueduo"], "locations": ["ChapelOfBones"]}
   ],
-  "total": 64
+  "total": 73
 }

@@ -1,0 +1,52 @@
+{
+  "page_num": 67,
+  "title": "The Nagini Answers",
+  "panel_count": 3,
+  "is_spread": false,
+  "layout": "3-bottom-wide",
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "Lueduo calls out",
+      "visual": "Lueduo stands frozen at the altar, the bird-thing drawing near. His eyes are closed, reaching within himself to the place where something ancient slumbers in his blood. His lips move in silent plea. The Nagini's mark on his arm begins to glow.",
+      "dialogue": "",
+      "narration": "Please. I beg you. Whatever debt I must pay-",
+      "characters": [
+        "Lueduo.Marked"
+      ],
+      "location": "UndergroundTemple.BirdThingEmerging",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "annotation": "Gan's arrow",
+      "visual": "Gan wakes from her paralysis as Dog paws at her leg. Despite wanting to run or vomit, she takes one calm breath, raises her bow, and looses her arrow directly into the bird-thing's face. It screams - a sound that will haunt her dreams for years.",
+      "dialogue": "",
+      "narration": "She took one calm breath and then loosed her arrow into its face.",
+      "characters": [
+        "Gan",
+        "Dog",
+        "BirdThing"
+      ],
+      "location": "UndergroundTemple.BirdThingEmerging",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "annotation": "Wide - the Nagini's coils",
+      "visual": "Wide shot of the chamber as thick serpentine coils rise from the earth itself, glowing with ancient power. The coils wrap around the bird-thing, constraining its clicking, thrashing limbs. Lueduo grabs the amulet and flips away from the altar. The Nagini has answered, buying them precious seconds.",
+      "dialogue": "",
+      "narration": "You owe me a debt. Do not forget.",
+      "characters": [
+        "TheNagini",
+        "BirdThing",
+        "Lueduo.Marked"
+      ],
+      "location": "UndergroundTemple.BirdThingEmerging",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
+    }
+  ]
+}

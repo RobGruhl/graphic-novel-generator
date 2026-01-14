@@ -1,0 +1,73 @@
+{
+  "page_num": 68,
+  "title": "Escape and Return",
+  "panel_count": 4,
+  "is_spread": false,
+  "layout": "grid",
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "Running",
+      "visual": "The party flees back through the chamber, past watching statues, through corridors. The bird-thing's shrieks pursue them, muffled by distance but never quite fading. They burst through the ruined keep, past the still-burning bonfire.",
+      "dialogue": "\"RUN!\"",
+      "narration": "",
+      "characters": [
+        "Bansi",
+        "Giovanni",
+        "Lueduo",
+        "Gan",
+        "Dog",
+        "Eskil",
+        "Sadia"
+      ],
+      "location": "CursedCastle.Interior",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "annotation": "Burning the village",
+      "visual": "They ride through the village of the dead. Lueduo hurls a torch onto a thatched roof. Flames begin to climb, spreading through the cursed settlement. They do not look back. The sky has inexplicably become the pale gold of late afternoon - time has played tricks on them.",
+      "dialogue": "",
+      "narration": "They had entered the keep at dusk. Hours had passed. Perhaps more than hours.",
+      "characters": [
+        "Lueduo"
+      ],
+      "location": "CursedVillage",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "annotation": "Return to caravan",
+      "visual": "The party stumbles into Hind's camp, horses foaming and staggering. Their faces are haggard, clothes tattered, eyes wild with what they have seen. Hind meets them with her dark, appraising gaze. The caravan was preparing to leave - they had been given up for lost.",
+      "dialogue": "Hind: \"Where is Nizack? And where is the amulet?\"",
+      "narration": "",
+      "characters": [
+        "Hind",
+        "Giovanni",
+        "Lueduo",
+        "Bansi",
+        "Eskil"
+      ],
+      "location": "HindsTent",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 4,
+      "annotation": "The amulet delivered",
+      "visual": "Lueduo holds out his hand. The amulet lies in his palm - dark, ancient, warm to the touch. An old man approaches with a leather sack lined with protective symbols. Lueduo drops the amulet into the sack without ceremony. They have found what they came for. They have survived.",
+      "dialogue": "Giovanni: \"Nizack is banished. He was intent on seeing us to our deaths.\"",
+      "narration": "But something had followed them out of that darkness. Something had marked them.",
+      "characters": [
+        "Lueduo",
+        "Giovanni",
+        "AbuRayhan"
+      ],
+      "location": "HindsTent",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    }
+  ]
+}
