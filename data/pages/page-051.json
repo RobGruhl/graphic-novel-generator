@@ -1,45 +1,66 @@
 {
   "page_num": 51,
-  "title": "The Cathedral of Death",
-  "panel_count": 3,
+  "title": "Chapter 2: The Iron Gates - Dog vs Serpent",
+  "panel_count": 4,
   "is_spread": false,
-  "layout": "3-top-wide",
+  "layout": "grid",
   "panels": [
     {
       "panel_num": 1,
-      "annotation": "Wide establishing shot",
-      "visual": "A vast underground chamber reveals itself - a cathedral built of death. The walls are constructed from thousands of human skulls and bones, arranged in terrible geometric patterns. Columns of femurs and tibias rise into the darkness above. Flickering ritual flames cast dancing shadows through empty eye sockets. The scale is overwhelming, ancient, profane.",
+      "annotation": "Dog's warning",
+      "visual": "Night in the caravan camp, cook-fires flickering. Dog lies beside Gan, hackles raised, a low growl rumbling in his throat. His eyes are fixed on Lueduo who approaches in the darkness. Ancient enmity between wolf and serpent.",
       "dialogue": "",
-      "narration": "The chamber was a cathedral of death.",
-      "characters": [],
-      "location": "ChapelOfBones",
-      "aspect_ratio": "16:9",
-      "size": "1536x1024"
+      "narration": "Dog did not like Lueduo. Animals often sensed things that humans could not.",
+      "characters": [
+        "Dog",
+        "Gan",
+        "Lueduo"
+      ],
+      "location": "Samarkand.Night",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
     },
     {
       "panel_num": 2,
-      "annotation": "The altar",
-      "visual": "At the center of the bone cathedral stands an altar of black stone. Upon it, bound hand and foot, lies Rahzalahn - the oud player from the caravan. Her face shows terror but also defiance. The altar is stained dark with old blood. Heaps of treasure glitter behind the altar - gold, gems, the accumulated wealth of centuries.",
-      "dialogue": "",
-      "narration": "In the center stood an altar of black stone. Upon it, bound hand and foot, lay Rahzalahn.",
+      "annotation": "The attack",
+      "visual": "Dog explodes from rest to attack, jaws snapping toward Lueduo's throat. Lueduo twists aside with inhuman grace, his body flowing like water. In a blur of motion, Dog is pinned beneath him, the dancer's hand pressed against the animal's skull, their eyes locked.",
+      "dialogue": "Lueduo: \"Stop.\"",
+      "narration": "",
       "characters": [
-        "Rahzalahn"
+        "Dog",
+        "Lueduo.Serpentine"
       ],
-      "location": "ChapelOfBones",
+      "location": "Samarkand.Night",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     },
     {
       "panel_num": 3,
-      "annotation": "Nizack with dagger",
-      "visual": "Nizack stands over the altar, a ceremonial dagger raised high above Rahzalahn's heart, ready to plunge down. His face is twisted with religious fervor, his eyes glazed with madness. Behind him, mounted on the wall of bone, hangs the gold amulet they seek - glowing faintly with eldritch power.",
-      "dialogue": "",
-      "narration": "Behind them, mounted on the wall of bone, hung the gold amulet.",
+      "annotation": "Gan's intervention",
+      "visual": "Gan has her bow drawn, arrow aimed at Lueduo. Her face is hard with protective fury. Dog trembles beneath Lueduo's hand, frozen by a force greater than his own instincts. The firelight catches the tension between them.",
+      "dialogue": "Gan: \"Release him.\"\nLueduo: \"I am not harming him. I am... communicating.\"",
+      "narration": "",
       "characters": [
-        "Nizack",
-        "Rahzalahn"
+        "Gan",
+        "Lueduo",
+        "Dog"
       ],
-      "location": "ChapelOfBones",
+      "location": "Samarkand.Night",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 4,
+      "annotation": "Revelation",
+      "visual": "Lueduo stands at his tent entrance, half-turned back toward Gan. In the flickering firelight, his teeth seem too long, too sharp. His eyes catch the light wrong - vertical pupils visible for just a moment. Dog has retreated to Gan's side, still growling.",
+      "dialogue": "Lueduo: \"I am simply... other.\"",
+      "narration": "There are things on the road ahead that would see him as prey rather than partner.",
+      "characters": [
+        "Lueduo.Serpentine",
+        "Gan",
+        "Dog"
+      ],
+      "location": "Samarkand.Night",
       "aspect_ratio": "3:4",
       "size": "768x1024"
     }

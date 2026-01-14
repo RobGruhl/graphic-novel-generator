@@ -1,23 +1,56 @@
 {
   "page_num": 52,
-  "title": "Karishkir Revealed",
-  "panel_count": 1,
+  "title": "The Iron Gates",
+  "panel_count": 3,
   "is_spread": false,
-  "layout": "splash",
+  "layout": "3-top-wide",
   "panels": [
     {
       "panel_num": 1,
-      "annotation": "Full page splash - Karishkir in glory",
-      "visual": "Karishkir stands behind the altar in terrible glory - a figure of impossible beauty and horror. Her body is painted with symbols in blood, arcane sigils covering her skin. Her hair flows unbound past her shoulders like living shadow. Her eyes burn with golden fire, ancient and hungry. She wears nothing but the blood symbols and a smile of pure, transcendent cruelty. To her right stands Drekhlo - bare-chested, his torso marked with twisted runes that seem to writhe in the flickering light, the great sword on his back longer than a man is tall. Cultists ring the chamber behind them, perhaps two dozen, their bodies painted and their eyes glazed with fervor. The scene is lit by ritual flames that make the bone walls seem to dance.",
+      "annotation": "Establishing - Iron Gates at sunset",
+      "visual": "Wide establishing shot of the Iron Gates at sunset - ancient weathered pillars marking the boundary where settled lands give way to nomad territory. The sun bleeds crimson across the horizon. The caravan makes camp within sight of the monuments. Beyond those markers, the world takes on a different character.",
       "dialogue": "",
-      "narration": "She was beautiful - even now, even knowing more of what she was. Her body was painted with symbols in blood, her hair unbound and flowing past her shoulders, her eyes burning with golden fire.",
+      "narration": "On the third evening, as the sun bled crimson across the horizon, they made camp within sight of the Iron Gates.",
+      "characters": [],
+      "location": "IronGates",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
+    },
+    {
+      "panel_num": 2,
+      "annotation": "Campfire stories",
+      "visual": "The group gathered around the fire - Giovanni, Bansi, Eskil in his helm, Gan with Dog at her feet, Lueduo, Sadia, Abu-Rayhan. The firelight plays across their diverse faces as they share stories of where they come from and what they seek. Trust building between strangers.",
+      "dialogue": "Lueduo: \"Among my people, there is a tradition of speaking stories when the coals burn low.\"",
+      "narration": "",
       "characters": [
-        "Karishkir",
-        "Drekhlo"
+        "Giovanni",
+        "Bansi",
+        "Eskil",
+        "Gan",
+        "Dog",
+        "Lueduo",
+        "Sadia",
+        "AbuRayhan"
       ],
-      "location": "ChapelOfBones",
-      "aspect_ratio": "9:16",
-      "size": "1024x1536"
+      "location": "IronGates",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "annotation": "Practical bonds",
+      "visual": "Eskil works on a blade by firelight, offering to repair their weapons. Giovanni checks his daggers, expression contemplative. His hands move with familiar ease over the weapons despite his priest's robes. Bansi and Sadia have taken the first watch, visible in the darkness beyond.",
+      "dialogue": "Giovanni: \"I find myself a stranger in strange lands. A barbarian I may be, for I am no stranger to violence.\"",
+      "narration": "The sharing of tales builds trust.",
+      "characters": [
+        "Eskil",
+        "Giovanni",
+        "Bansi",
+        "Sadia"
+      ],
+      "location": "IronGates",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
     }
   ]
 }

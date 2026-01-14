@@ -1,0 +1,24 @@
+{
+  "page_num": 56,
+  "title": "The Dead Rise",
+  "panel_count": 1,
+  "is_spread": false,
+  "layout": "splash",
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "Full page splash - Giovanni attacked by ghoul",
+      "visual": "A desiccated corpse has appeared behind Giovanni, its withered hands closing around his throat. The figure is dried out like leather left too long in the sun, but it is standing, moving, attacking. Its grip is cold as winter ice. Giovanni struggles, vision darkening. All around them, more figures are rising - corpses dragging themselves upright from doorways, from the ground, from shadows. Their eyes glow like poisoned stars. Whispers fill the air.",
+      "dialogue": "",
+      "narration": "\"Join us. Come to us.\" The grip, when it closed around his neck, was cold as winter ice.",
+      "characters": [
+        "Giovanni",
+        "Gan",
+        "Dog"
+      ],
+      "location": "CursedVillage.GhoulRising",
+      "aspect_ratio": "9:16",
+      "size": "1024x1536"
+    }
+  ]
+}

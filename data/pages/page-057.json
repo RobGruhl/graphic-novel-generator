@@ -1,0 +1,65 @@
+{
+  "page_num": 57,
+  "title": "Ghouls",
+  "panel_count": 4,
+  "is_spread": false,
+  "layout": "grid",
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "Sadia saves Giovanni",
+      "visual": "Sadia's blade sings through the air, decapitating the ghoul that had Giovanni by the throat. The creature's head tumbles away as Dog leaps upon the body and bears it to the ground. Giovanni gasps for breath, purple marks on his throat.",
+      "dialogue": "",
+      "narration": "Then Sadia was there, her blade singing through the corrupted air.",
+      "characters": [
+        "Sadia",
+        "Giovanni",
+        "Dog"
+      ],
+      "location": "CursedVillage.GhoulRising",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "annotation": "Abu-Rayhan's warning",
+      "visual": "Abu-Rayhan backs against a wall, eyes wide with terrified recognition. Around him, ghouls shamble closer, their whispered chorus rising. His voice cracks as he shouts warning to the others.",
+      "dialogue": "AbuRayhan: \"Ghouls! In my country we call these ghouls! Do not let them bite you!\"",
+      "narration": "",
+      "characters": [
+        "AbuRayhan"
+      ],
+      "location": "CursedVillage.GhoulRising",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "annotation": "Eskil's witchfire",
+      "visual": "Eskil carves a rune into his palm with a knife, blood dripping. An identical rune on the iron skull at his belt glows furnace red. Suddenly the ghouls are covered in shadowy green witchfire, marking them against the mist. He stuffs wads of parchment into his ears.",
+      "dialogue": "",
+      "narration": "The zombies were covered in shadowy green witchfire, marking them against the mist.",
+      "characters": [
+        "Eskil",
+        "LeifSkull"
+      ],
+      "location": "CursedVillage.GhoulRising",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 4,
+      "annotation": "Lueduo's fire",
+      "visual": "Lueduo sets fire to one of the ghouls with a torch. The flames spread with unnatural eagerness across the desiccated flesh, as if the dry corpse skin welcomes honest flame. The burning ghoul staggers, illuminating more horrors closing in.",
+      "dialogue": "AbuRayhan: \"To the castle! The castle is our only chance!\"",
+      "narration": "",
+      "characters": [
+        "Lueduo",
+        "AbuRayhan"
+      ],
+      "location": "CursedVillage.GhoulRising",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    }
+  ]
+}

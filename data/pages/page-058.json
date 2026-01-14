@@ -1,0 +1,49 @@
+{
+  "page_num": 58,
+  "title": "The Escape",
+  "panel_count": 3,
+  "is_spread": false,
+  "layout": "3-right-tall",
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "Push the boulder",
+      "visual": "Eskil strains against a massive stone at the base of the castle slope, shoulders bulging, feet planted. Sadia and Gan add their strength to his. The stone begins to shift, about to crash down on the ghouls climbing below. Behind them, the castle gate is visible.",
+      "dialogue": "Lueduo: \"Push the boulders!\"",
+      "narration": "",
+      "characters": [
+        "Eskil",
+        "Sadia",
+        "Gan",
+        "Lueduo"
+      ],
+      "location": "CursedCastle",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "annotation": "Drop the portcullis",
+      "visual": "Gan swings her blade at the lowering mechanism. The portcullis crashes down with a shudder that shakes the ancient stones. Beyond the rusted bars, witchfire-marked ghouls press against the gate, their luminescent eyes staring hungrily.",
+      "dialogue": "",
+      "narration": "The gate was rusted but intact.",
+      "characters": [
+        "Gan"
+      ],
+      "location": "CursedCastle",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "annotation": "Tall - ghouls on the slope",
+      "visual": "Tall shot looking down the castle slope. Dozens of luminescent eyes climb upward through the darkness - a constellation of hunger. The boulder has crushed some, but more keep coming. Shattered bone and ruptured flesh litter the slope where the stone passed. The mist glows with witchfire.",
+      "dialogue": "",
+      "narration": "Join us. Come to us.",
+      "characters": [],
+      "location": "CursedCastle",
+      "aspect_ratio": "9:16",
+      "size": "1024x1536"
+    }
+  ]
+}

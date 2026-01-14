@@ -1,0 +1,35 @@
+{
+  "page_num": 59,
+  "title": "The Wrath of Heaven",
+  "panel_count": 2,
+  "is_spread": false,
+  "layout": "2-horizontal",
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "Giovanni on battlements",
+      "visual": "Giovanni scrambles up to the battlements, crucifix held high in his hand. He looks down at the horde below - ghouls staring up at him with eyes like poisoned stars. His lips move in Latin prayer, his face set with holy purpose. The sun is setting behind him, painting the sky in shades of blood and bronze.",
+      "dialogue": "Giovanni: \"In nomine Patris, et Filii, et Spiritus Sancti...\"",
+      "narration": "",
+      "characters": [
+        "Giovanni"
+      ],
+      "location": "CursedCastle",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
+    },
+    {
+      "panel_num": 2,
+      "annotation": "The ghouls fall",
+      "visual": "Wide shot of the castle slope as the last rites roll over the ghouls. The lights in their terrible eyes flicker and die. Their bodies fall back from the walls, breaking apart as they tumble down the slope. The witchfire fades. The sun sets behind the battlements where Giovanni stands with crucifix raised, silhouetted against the blood-red sky.",
+      "dialogue": "",
+      "narration": "The lights in those terrible eyes flickered and died, and their bodies fell back from the walls.",
+      "characters": [
+        "Giovanni"
+      ],
+      "location": "CursedCastle",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
+    }
+  ]
+}
