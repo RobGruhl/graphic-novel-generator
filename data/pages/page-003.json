@@ -1,0 +1,41 @@
+{
+  "page_num": 3,
+  "title": "The Merchant Arrives",
+  "panel_count": 3,
+  "is_spread": false,
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "Wide market shot",
+      "visual": "The autumn market in full bustle. Farmers have brought their surplus to trade - carts of wool, baskets of vegetables, livestock tied to posts. The village square is crowded with peasants in homespun clothes, their weathered faces showing the cautious hope of people who have little. The village church rises in the background. Dust motes dance in shafts of golden autumn sunlight.",
+      "dialogue": "",
+      "narration": "The merchant came to the village in Giovanni's fifteenth year, during the autumn market when farmers brought their surplus to trade.",
+      "characters": [],
+      "location": "VillageMarket",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
+    },
+    {
+      "panel_num": 2,
+      "annotation": "Marco's entrance",
+      "visual": "Marco the Venetian merchant moves through the market stalls, his fine clothes and well-fed frame marking him as something other than these peasant folk. He wears rings on his fingers that catch the light. His calculating eye sweeps across the goods for sale, assessing, evaluating, determining profit. He moves like a shark through shallows - sleek, purposeful, dangerous in ways these simple farmers cannot comprehend.",
+      "dialogue": "",
+      "narration": "He was a Venetian, sleek and well-fed, with rings on his fingers and a calculating eye that missed nothing. He moved through the market stalls like a shark through shallows, assessing, evaluating, determining what profit could be extracted.",
+      "characters": ["Marco"],
+      "location": "VillageMarket",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "annotation": "Father's cart",
+      "visual": "Giovanni's father stands beside a cart loaded with wool - the shearing from their small flock, the labor of an entire summer. The wool is bundled and tied, clean and ready for sale. Young Giovanni, now fifteen, stands nearby watching. His father's face shows the resignation of a man who has played this game before and lost. Marco approaches, his shadow falling across the cart.",
+      "dialogue": "",
+      "narration": "Giovanni's father had brought a cartload of wool to sell - the shearing from their small flock of sheep, the labor of an entire summer.",
+      "characters": ["GiovanniFather", "Giovanni.Young", "Marco"],
+      "location": "VillageMarket",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    }
+  ]
+}

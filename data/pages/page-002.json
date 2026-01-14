@@ -1,0 +1,41 @@
+{
+  "page_num": 2,
+  "title": "Farm Life",
+  "panel_count": 3,
+  "is_spread": false,
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "Interior family scene",
+      "visual": "Inside a simple farmhouse, Giovanni's family gathers around a rough wooden table. Giovanni's father sits at the head - a stern, weathered man with calloused hands and a face lined by years of labor. Giovanni's mother, gentle but worn by childbearing, serves from a pot. Two older brothers sit across from Giovanni, strong young men with the same peasant build. Two sisters help their mother. The meal is simple - bread, cheese, a thin stew. A wooden crucifix hangs on the wall. Firelight from the hearth provides warm illumination.",
+      "dialogue": "",
+      "narration": "It was a hard life but not an unhappy one. The soil was poor but it yielded enough. The winters were cold but the family survived them.",
+      "characters": ["Giovanni.Young", "GiovanniFather"],
+      "location": "ItalianHillCountry",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "annotation": "Church exterior/interior",
+      "visual": "A small village church, simple stone construction with a bell tower. Through the open door, we glimpse the family kneeling at prayer. A circuit priest in simple robes leads the service. Candles flicker on the altar. The scene is one of humble, uncomplicated faith.",
+      "dialogue": "",
+      "narration": "They prayed to God and the saints with simple faith, attended mass when the circuit priest came through, and asked nothing more of heaven than that the crops not fail and the children not starve.",
+      "characters": ["Giovanni.Young"],
+      "location": "ItalianHillCountry",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "annotation": "Working the fields",
+      "visual": "Young Giovanni and his father work the terraced fields. Giovanni's back is bent under the weight of a seed-sack, his face showing strain but no complaint. His father guides a simple plow pulled by a tired ox. The rocky soil resists their efforts. Other family members work nearby, harvesting what little the land provides. The scene captures generations of labor, the shape of a destiny written in furrows.",
+      "dialogue": "",
+      "narration": "Giovanni would have lived and died in those hills, would have taken a wife from a neighboring farm and raised sons to work the same cursed earth. That was the shape of his destiny. But God, or something that called itself God, had other plans.",
+      "characters": ["Giovanni.Young", "GiovanniFather"],
+      "location": "ItalianHillCountry",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
+    }
+  ]
+}

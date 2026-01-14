@@ -12,52 +12,400 @@
       "Each variant is a complete, standalone entry - not a partial override"
     ]
   },
-  "ExampleHero": {
-    "name": "Example Hero",
+  "Giovanni": {
+    "name": "Father Giovanni di Venezia",
     "role": "Protagonist",
-    "full_description": "A young adventurer with bright eyes and determination. Wears practical leather armor over simple traveling clothes. Carries a worn backpack and walking staff.",
+    "full_description": "A Venetian priest in his thirties with the bearing of a soldier. Travel-stained black robes over practical clothes. Sharp, watchful eyes that have seen too much. Carries a crucifix and concealed blessed blade. Weathered face marked by years on the road and darker deeds.",
     "description_components": {
-      "head_face": "Young face with bright, curious eyes. Short brown hair, slightly tousled. Determined expression.",
-      "body_build": "Average height, athletic build from travel. Good posture, confident stance.",
-      "clothing": "Practical leather armor over a simple linen shirt. Brown traveling pants tucked into worn boots.",
-      "accessories": "Worn leather backpack, wooden walking staff, small pouch at belt."
+      "head_face": "Mediterranean features, dark hair graying at temples. Sharp, watchful eyes with deep shadows beneath. Clean-shaven with gaunt cheeks. Expression of wary vigilance.",
+      "body_build": "Medium height, lean and wiry from travel. Moves with the economy of a trained fighter despite priestly bearing.",
+      "clothing": "Black priest's robes, travel-stained and dusty. Practical clothes beneath. Worn leather boots suitable for long journeys.",
+      "accessories": "Silver crucifix on chain around neck. Concealed blessed blade. Small prayer book. Travel pack."
     }
   },
-  "ExampleHero.Formal": {
-    "name": "Example Hero (Formal)",
+  "Giovanni.Young": {
+    "name": "Giovanni (Young Farm Boy)",
     "role": "Protagonist",
-    "base_character": "ExampleHero",
-    "variant_context": "Formal event, gala, ceremony",
-    "full_description": "The same young adventurer, now dressed for a formal occasion. Bright curious eyes unchanged. Wearing elegant noble attire instead of traveling gear.",
+    "base_character": "Giovanni",
+    "variant_context": "Venice, childhood on the farm",
+    "full_description": "A young Venetian farm boy of twelve, thin from poor harvests. Simple peasant clothes, bare feet. Innocent eyes not yet hardened by the world. Helping his father Marco with the animals.",
     "description_components": {
-      "head_face": "Young face with bright, curious eyes. Short brown hair, neatly combed. Slightly uncomfortable formal expression.",
-      "body_build": "Average height, athletic build. Standing straighter than usual, slightly stiff posture.",
-      "clothing": "Fine dark blue doublet with silver embroidery. Crisp white shirt underneath. Pressed dark trousers and polished black boots.",
-      "accessories": "Small ceremonial dagger at belt, silver chain necklace."
+      "head_face": "Young Mediterranean face, dark hair unkempt. Wide, innocent eyes. Dirt smudges on cheeks. Expression of youthful curiosity.",
+      "body_build": "Small and thin for his age, underfed. Wiry from farm work.",
+      "clothing": "Simple homespun tunic, patched and worn. No shoes. Rough-woven trousers.",
+      "accessories": "Shepherd's crook, small knife for farm work."
     }
   },
-  "ExampleHero.Injured": {
-    "name": "Example Hero (Injured)",
+  "Giovanni.Merchant": {
+    "name": "Giovanni (Merchant Period)",
     "role": "Protagonist",
-    "base_character": "ExampleHero",
-    "variant_context": "After battle, wounded state",
-    "full_description": "The same young adventurer showing battle damage. Bright eyes now tired and pained. Leather armor torn and bloodied, visible wounds.",
+    "base_character": "Giovanni",
+    "variant_context": "Early adulthood as a merchant in Venice",
+    "full_description": "Young Giovanni as a merchant in Venice, dressed in modest but respectable trading clothes. Eyes already showing the calculation of commerce. Clean and well-groomed.",
     "description_components": {
-      "head_face": "Young face with tired, pained eyes. Short brown hair matted with sweat and dirt. Cut above left eyebrow, bruised cheek.",
-      "body_build": "Average height, athletic build. Slouched posture, favoring left side. Exhausted stance.",
-      "clothing": "Leather armor torn and dented. Linen shirt visible through tears, bloodstained. Pants muddy and ripped at knee.",
-      "accessories": "Backpack missing, walking staff broken and used as crutch, bandage wrapped around left arm."
+      "head_face": "Young Mediterranean features, dark hair neatly trimmed. Alert, calculating eyes. Clean-shaven. Expression of merchant's appraisal.",
+      "body_build": "Fit young man in his early twenties. Good posture from working merchant floors.",
+      "clothing": "Simple merchant's tunic in brown wool. Leather belt with coin purse. Practical boots.",
+      "accessories": "Coin purse, merchant's scales, writing supplies."
     }
   },
-  "ExampleMentor": {
-    "name": "Example Mentor",
-    "role": "Supporting Character",
-    "full_description": "An elderly sage with kind eyes and weathered features. Long silver beard, flowing blue robes. Carries an ancient tome.",
+  "Giovanni.Assassin": {
+    "name": "Giovanni (Church Assassin)",
+    "role": "Protagonist",
+    "base_character": "Giovanni",
+    "variant_context": "Working as Bishop Paulus's assassin",
+    "full_description": "Giovanni in his killing role, dressed in dark practical clothes beneath a priest's cloak. Cold eyes of a trained killer. Armed with blessed blade and crucifix that serves as both faith and weapon.",
     "description_components": {
-      "head_face": "Weathered face with deep laugh lines. Kind, wise eyes. Long silver beard reaching chest level.",
-      "body_build": "Tall but slightly stooped with age. Thin frame, graceful movements.",
-      "clothing": "Flowing robes in deep blue with silver embroidery. Simple sandals.",
-      "accessories": "Ancient leather-bound tome, crystal pendant on silver chain."
+      "head_face": "Hard Mediterranean features, dark hair cropped short. Cold, emotionless eyes. Jaw set with deadly purpose.",
+      "body_build": "Lean and coiled like a spring. Moves with predatory silence.",
+      "clothing": "Dark practical clothes beneath a black priest's cloak. Soft leather boots for silent movement.",
+      "accessories": "Blessed blade in hidden sheath. Crucifix. Garrote wire. Vials of poison."
+    }
+  },
+  "Bansi": {
+    "name": "Bansi (Iksha Bhima)",
+    "role": "Protagonist",
+    "full_description": "An eighteen-year-old Kashmiri woman with the grace of a trained thief and the devotion of a Kali worshipper. Dark skin, sharp features, and eyes that miss nothing. Dressed in practical clothes for climbing and fighting, with hidden weapons throughout.",
+    "description_components": {
+      "head_face": "Sharp Kashmiri features, dark skin. Large intelligent eyes that miss nothing. Black hair worn practical, often covered. Expression of cunning assessment.",
+      "body_build": "Small and lithe, athletic from years of acrobatic thievery. Moves with fluid grace.",
+      "clothing": "Dark practical clothes suited for climbing and stealth. Loose trousers, wrapped tunic. Soft-soled shoes.",
+      "accessories": "Multiple hidden blades. Lockpicks in hair. Small idol of Kali. Climbing rope."
+    }
+  },
+  "Bansi.Young": {
+    "name": "Bansi (Princess Iksha)",
+    "role": "Protagonist",
+    "base_character": "Bansi",
+    "variant_context": "Age thirteen in the Palace of Sonapura",
+    "full_description": "Thirteen-year-old Princess Iksha Bhima, fifth daughter of Raja Kanishka. Dressed in fine silks befitting her station but with the restless energy of one who chafes at constraint. Intelligent eyes already plotting escape.",
+    "description_components": {
+      "head_face": "Young Kashmiri features, round with childhood. Large intelligent eyes showing rebellion. Black hair elaborately styled with jewels.",
+      "body_build": "Small and slender, not yet fully grown. Restless energy in every movement.",
+      "clothing": "Fine silk sari in royal colors. Gold embroidery. Jeweled slippers.",
+      "accessories": "Gold jewelry at ears, nose, wrists. Pearl necklace. Royal anklets."
+    }
+  },
+  "Bansi.Battle": {
+    "name": "Bansi (In Combat)",
+    "role": "Protagonist",
+    "base_character": "Bansi",
+    "variant_context": "During battle or dangerous infiltration",
+    "full_description": "Bansi with weapons drawn, a whirlwind of blades. Dark eyes blazing with Kali's fury. Hair wild, clothes stained with blood not her own. The devotee of the Dark Mother in her element.",
+    "description_components": {
+      "head_face": "Sharp features contorted with battle fury. Eyes blazing. Hair wild and loose. Blood spatter on face.",
+      "body_build": "Coiled and explosive in motion. Every movement lethal.",
+      "clothing": "Dark clothes torn from combat. Blood stains on fabric. Loose for maximum movement.",
+      "accessories": "Curved blade in each hand. Hidden knives visible. Kali idol visible at throat."
+    }
+  },
+  "Eskil": {
+    "name": "Eskil the Executioner",
+    "role": "Protagonist",
+    "full_description": "A massive Norseman standing six foot eight, permanently encased in a steel helm and collar he forged himself to prevent consuming his own cursed blood. Pale blue eyes visible through helm slits. Covered in ritual scars and runic sigils. Carries a massive war-blade. His cursed blood draws insects and makes him irresistible prey to cosmic horrors.",
+    "description_components": {
+      "head_face": "Permanent steel helm covering entire head, riveted to steel collar at neck. Only pale blue eyes visible through narrow slits. Helm is battle-scarred but well-maintained.",
+      "body_build": "Massive frame at 6'8\", heavily muscled. Covered in ritual scars and carved runic sigils. Moves with surprising grace for his size.",
+      "clothing": "Practical warrior's garb beneath armor pieces. Leather and mail where needed. Everything designed for combat.",
+      "accessories": "Massive northern war-blade. Iron skull at belt that whispers (contains brother Leif's spirit). Runic talismans. Parchment wads for ears."
+    }
+  },
+  "Eskil.Young": {
+    "name": "Eskil (Before the Ritual)",
+    "role": "Protagonist",
+    "base_character": "Eskil",
+    "variant_context": "Young man on Eysysla before the curse",
+    "full_description": "Young Eskil before the ritual, face uncovered, a strong Nordic youth with flowing blonde hair and clear blue eyes. Not yet marked by scars or runic sigils. Innocent of the horrors to come.",
+    "description_components": {
+      "head_face": "Young Nordic features, strong jaw. Clear pale blue eyes full of life. Flowing blonde hair. Unmarked skin.",
+      "body_build": "Already tall and powerfully built, but not yet at full size. Unblemished skin without scars or sigils.",
+      "clothing": "Simple Norse peasant garb. Wool tunic, leather belt. Fur-lined boots.",
+      "accessories": "Simple knife. Wooden amulet from family."
+    }
+  },
+  "Eskil.Ritual": {
+    "name": "Eskil (During the Ritual)",
+    "role": "Protagonist",
+    "base_character": "Eskil",
+    "variant_context": "The sacrifice ceremony at Underryd bog",
+    "full_description": "Eskil bound for sacrifice in the Underryd bog, naked and painted with ritual symbols by the cult women. Terror in his eyes as the Messenger approaches. The moment before the curse takes hold.",
+    "description_components": {
+      "head_face": "Young face contorted with terror. Blue eyes wide. Ritual paint in spiraling patterns across face.",
+      "body_build": "Powerful frame exposed, painted with cult symbols. Bound hands.",
+      "clothing": "Naked, painted with ritual symbols in dark pigments.",
+      "accessories": "Ritual bindings on wrists. Sacrificial garland of flowers."
+    }
+  },
+  "Eskil.Berserker": {
+    "name": "Eskil (Berserker Rage)",
+    "role": "Protagonist",
+    "base_character": "Eskil",
+    "variant_context": "Battle fury, skin bright red, roaring",
+    "full_description": "Eskil in full berserker rage, skin flushed bright red, muscles bulging as he roars in the tongue of the north. Runes carved on his flesh glowing. A terrifying vision of northern fury, blade already bloody.",
+    "description_components": {
+      "head_face": "Steel helm with eyes blazing through slits. Roaring, the sound of northern rage.",
+      "body_build": "Massive frame with skin flushed bright red. Muscles bulging impossibly. Runic sigils glowing faintly on scarred flesh.",
+      "clothing": "Battle-worn armor splattered with blood. Torn fabric.",
+      "accessories": "War-blade dripping with blood. Iron skull at belt glowing with witch-fire. Runic marks active."
+    }
+  },
+  "Lueduo": {
+    "name": "Lueduo (Raven)",
+    "role": "Protagonist",
+    "full_description": "A Uyghur dancer and spy of unearthly beauty, with something ancient and serpentine in his blood. Amber eyes with vertical pupils when the light catches them wrong. Moves with inhuman grace. A compulsive gambler who cannot resist dice. Carries silks anointed with sacred oils and the mark of the Nagini.",
+    "description_components": {
+      "head_face": "Stunning Uyghur features of androgynous beauty. Amber eyes that occasionally show vertical pupils. High cheekbones, full lips. Long dark hair, often styled elaborately.",
+      "body_build": "Lithe dancer's build, graceful beyond human norm. Moves like flowing water.",
+      "clothing": "Fine traveling silks in muted colors. Layered robes. Soft leather boots.",
+      "accessories": "Silks anointed with sacred oils wrapped around arms. Dice in pouch. Hidden serpent mark from Nagini."
+    }
+  },
+  "Lueduo.Court": {
+    "name": "Lueduo (Tang Court Performance)",
+    "role": "Protagonist",
+    "base_character": "Lueduo",
+    "variant_context": "Performing at the Tang court in Chang'an",
+    "full_description": "Lueduo in full court regalia, performing before the Tang Emperor. Dressed in flowing silks of imperial colors, face painted in the style of court entertainers. Utterly captivating, every movement calculated seduction.",
+    "description_components": {
+      "head_face": "Face painted with white base and colored accents. Elaborate eye makeup. Lips reddened. Hair in complex court style with jeweled pins.",
+      "body_build": "Perfect dancer's pose, impossibly graceful.",
+      "clothing": "Layered court silks in imperial yellows and reds. Flowing sleeves. Embroidered with phoenixes and serpents.",
+      "accessories": "Jeweled hairpins. Silk fans. Golden bells at ankles. Court cosmetics."
+    }
+  },
+  "Lueduo.Serpentine": {
+    "name": "Lueduo (Serpent Awakened)",
+    "role": "Protagonist",
+    "base_character": "Lueduo",
+    "variant_context": "When calling upon the Nagini's power",
+    "full_description": "Lueduo with his serpent heritage visible. Amber eyes with pronounced vertical pupils. Skin with faint scale-like patterns. The Nagini's mark glowing on his skin. Inhuman beauty turned alien and dangerous.",
+    "description_components": {
+      "head_face": "Features sharpened, inhuman. Amber eyes with clear vertical pupils. Skin with faint scale patterns. Expression of ancient power.",
+      "body_build": "Body moving with serpentine grace beyond human capability. Boneless flexibility.",
+      "clothing": "Silks seeming to move on their own. Serpentine patterns becoming visible in the fabric.",
+      "accessories": "Nagini's mark glowing on arm. Serpentine coils of light around form."
+    }
+  },
+  "Hind": {
+    "name": "Hind",
+    "role": "Ally",
+    "full_description": "A Qatari merchant woman of middle years who commands the great caravan. Jet-black eyes that miss nothing, dressed in rich but practical fabrics. An air of absolute authority that makes armed men defer to her judgment. Appears unarmed but weapons are not what make her dangerous.",
+    "description_components": {
+      "head_face": "Arab features, handsome rather than beautiful. Jet-black eyes of sharp intelligence. Graying hair covered by fine scarf. Expression of command.",
+      "body_build": "Medium height, solid presence. Carries herself like nobility.",
+      "clothing": "Rich fabrics in practical cuts. Fine wool and silk suitable for desert travel. Quality evident but not ostentatious.",
+      "accessories": "Leather satchel with accounts. Fine jewelry worn subtly. Hidden wealth."
+    }
+  },
+  "Sadia": {
+    "name": "Sadia",
+    "role": "Ally",
+    "full_description": "A warrior woman who serves as Hind's guard captain. Bracers gleam on her forearms, sword-hilt worn smooth with use. Everything about her speaks of someone who knows the better end of a blade. Drinks heavily but never loses her edge.",
+    "description_components": {
+      "head_face": "Weathered features marked by desert sun. Alert eyes constantly scanning. Short practical hair. Battle scars visible.",
+      "body_build": "Athletic warrior's build. Shoulders set for violence. Movements economical and dangerous.",
+      "clothing": "Practical warrior's garb. Leather armor over loose shirt. Desert-appropriate colors.",
+      "accessories": "Sword worn smooth at hilt. Gleaming bracers on forearms. Wine flask. Multiple knives."
+    }
+  },
+  "Rahzalahn": {
+    "name": "Rahzalahn",
+    "role": "Ally",
+    "full_description": "A Persian oud player of great beauty and deep sorrow. Her village was destroyed by Norse raiders when she was seven. Her music carries the weight of loss but also surprising strength. Silver hairpins serve as weapons when needed.",
+    "description_components": {
+      "head_face": "Beautiful Persian features, large dark eyes haunted by old grief. Long dark hair secured with silver pins. Melancholy expression that lightens when playing music.",
+      "body_build": "Slender, graceful. Musician's delicate hands.",
+      "clothing": "Fine Persian robes in subdued colors. Quality fabric, modest cut.",
+      "accessories": "Oud (Persian lute). Multiple silver hairpins (weapons). Small purse of coins."
+    }
+  },
+  "AbuRayhan": {
+    "name": "Abu-Rayhan",
+    "role": "Ally",
+    "full_description": "A scruffy Persian scholar obsessed with maps and ancient knowledge. Studies the amulet and anything else mysterious. Has the peculiar intensity of a man who collects knowledge the way others collect coins. Speaks multiple languages.",
+    "description_components": {
+      "head_face": "Scruffy beard, ink-stained fingers often near face. Bright intelligent eyes behind squinting. Disheveled hair. Absent-minded expression.",
+      "body_build": "Thin from forgetting meals. Stooped from bending over manuscripts.",
+      "clothing": "Scholar's robes, worn and ink-stained. Practical but neglected.",
+      "accessories": "Maps, scrolls, writing implements. Magnifying lens. Reference books. The protective sack for the amulet."
+    }
+  },
+  "Gan": {
+    "name": "Gan",
+    "role": "Ally",
+    "full_description": "A steppe warrior woman whose tribe was destroyed, seeking a new family. Accompanied by Dog and a hunting falcon. Skilled with bow and curved blade. Quiet, watchful, lethal when provoked.",
+    "description_components": {
+      "head_face": "Steppe features, weathered by wind and sun. Sharp eyes of a hunter. Hair in practical warrior's style.",
+      "body_build": "Compact and powerful. Hunter's posture, always ready.",
+      "clothing": "Practical steppe warrior's garb. Furs and leather. Riding gear.",
+      "accessories": "Curved steppe blade. Bow and quiver. Falcon on arm. Dog at heel."
+    }
+  },
+  "Dog": {
+    "name": "Dog",
+    "role": "Companion",
+    "full_description": "Gan's loyal hunting companion. Large, wolf-like, with hackles that rise at supernatural threats. Senses things humans cannot, particularly hates Lueduo's serpent nature.",
+    "description_components": {
+      "head_face": "Wolf-like head, intelligent eyes. Ears always alert. Scarred muzzle from past fights.",
+      "body_build": "Large, powerful hunting dog. Muscular, built for endurance.",
+      "clothing": "None",
+      "accessories": "Leather collar with metal studs."
+    }
+  },
+  "Karishkir": {
+    "name": "Karishkir",
+    "role": "Antagonist",
+    "full_description": "A werewolf queen over three hundred years old. Beautiful beyond human measure, with a voice that can enslave minds. Leads a cult that sacrifices captives at kurgan burial mounds. Terrible in both human and wolf form.",
+    "description_components": {
+      "head_face": "Supernaturally beautiful features, ageless. Eyes ancient and predatory. Perfect symmetry that disturbs rather than attracts. Voice of honey and blood.",
+      "body_build": "Perfect female form, statuesque. Moves with predatory grace.",
+      "clothing": "Fine furs and leathers. Dark colors. Clothes of a steppe queen.",
+      "accessories": "Ancient jewelry. Ritual implements. Claws visible even in human form."
+    }
+  },
+  "Karishkir.Wolf": {
+    "name": "Karishkir (Werewolf Form)",
+    "role": "Antagonist",
+    "base_character": "Karishkir",
+    "variant_context": "Transformed into werewolf",
+    "full_description": "Karishkir in full werewolf transformation. Massive wolf standing upright, silver-black fur, eyes still holding ancient intelligence. Claws like daggers. A nightmare given flesh.",
+    "description_components": {
+      "head_face": "Wolf's head with too-intelligent eyes. Massive jaws filled with fangs. Silver-black fur.",
+      "body_build": "Massive werewolf form, standing eight feet tall. Muscled beyond nature.",
+      "clothing": "Shreds of former clothes clinging to transformed body.",
+      "accessories": "Ancient jewelry stretched or broken. Claws. Fangs."
+    }
+  },
+  "Drekhlo": {
+    "name": "Drekhlo (Dragon-claw)",
+    "role": "Antagonist",
+    "full_description": "A massive werewolf warrior who serves as Karishkir's enforcer and lover. Wields a great sword. Brutal and relentless in combat.",
+    "description_components": {
+      "head_face": "Brutal features, heavy brow. Eyes of a killer. Scarred face.",
+      "body_build": "Massive and heavily muscled. Built for violence.",
+      "clothing": "Heavy armor over furs. Dark metals.",
+      "accessories": "Great sword. Wolf-tooth necklace. Trophy bones."
+    }
+  },
+  "Nizack": {
+    "name": "Nizack",
+    "role": "Antagonist",
+    "full_description": "A sorcerer who serves Karishkir's cult as guide and betrayer. Smile never reaches his eyes. Can dissolve into shadow when wounded. Uses a whip in combat. Killed at the Chapel of Bones but dissolved rather than truly dying.",
+    "description_components": {
+      "head_face": "Noble features, but wrong somehow. Smile that never reaches eyes. Calculating gaze.",
+      "body_build": "Lean, quick. Moves like a shadow.",
+      "clothing": "Local nobleman's attire. Fine but practical.",
+      "accessories": "Whip. Hidden daggers. Ritual components. Shadow magic implements."
+    }
+  },
+  "Theotomere": {
+    "name": "Theotomere",
+    "role": "Antagonist",
+    "full_description": "A Church assassin sent to hunt Giovanni. Skilled killer who attacks without mercy in public spaces. Threw a dagger that clanged off Eskil's helm in Samarkand market.",
+    "description_components": {
+      "head_face": "Forgettable features ideal for blending into crowds. Cold eyes of a killer. European features.",
+      "body_build": "Lean, quick. Assassin's build.",
+      "clothing": "Nondescript traveling clothes. Easily blends into any crowd.",
+      "accessories": "Multiple concealed blades. Throwing daggers. Garrote."
+    }
+  },
+  "Isaac": {
+    "name": "Isaac of the Order of Hermes",
+    "role": "Ally",
+    "full_description": "A mage of the Order of Hermes who aids the party against Karishkir. Casts blinding light spells that force werewolves to flee.",
+    "description_components": {
+      "head_face": "Scholar's features. Wise eyes with arcane knowledge. Short beard.",
+      "body_build": "Average build. Nothing remarkable physically.",
+      "clothing": "Mage's robes with Hermetic symbols.",
+      "accessories": "Staff. Hermetic talismans. Spell components. Books."
+    }
+  },
+  "TheNagini": {
+    "name": "The Nagini",
+    "role": "Cosmic Entity",
+    "full_description": "An ancient serpent entity of vast power who claims Lueduo's bloodline. Appears as massive serpentine coils rising from impossible depths. Speaks directly into minds. Demands debts be repaid.",
+    "description_components": {
+      "head_face": "Serpent head of impossible size. Eyes of ancient cosmic intelligence. Scales that shift with inner light.",
+      "body_build": "Coils of impossible scale, rising from depths beyond the physical world.",
+      "clothing": "None - cosmic entity",
+      "accessories": "Coils that can bind eldritch horrors. Mark she places on servants."
+    }
+  },
+  "ShubNiggurath": {
+    "name": "Shub-Niggurath (The Goat)",
+    "role": "Cosmic Entity",
+    "full_description": "The Black Goat of the Woods with a Thousand Young. An Outer God served by the cult on Eysysla. Source of Eskil's curse. Her spawn, the Messenger, destroyed his island home.",
+    "description_components": {
+      "head_face": "Indescribable cosmic horror. Goat-like features that shift and multiply. A thousand eyes.",
+      "body_build": "Amorphous mass of darkness, spawn, and impossible anatomy.",
+      "clothing": "None - Outer God",
+      "accessories": "A thousand young. Cosmic darkness. Reality-warping presence."
+    }
+  },
+  "BirdThing": {
+    "name": "The Bird-Thing",
+    "role": "Monster",
+    "full_description": "A horrific entity that emerged from the depths beneath the cursed castle. Bird-like but not a bird. Humanoid in that it has limbs but alien in every proportion. Moves with clicking, chittering sounds. Joints that are not joints.",
+    "description_components": {
+      "head_face": "Bird-like horror with features that should not exist. Multiple eyes or none. Beak of wrong angles.",
+      "body_build": "Humanoid nightmare. Limbs assembled rather than grown. Wrong proportions.",
+      "clothing": "None - eldritch horror",
+      "accessories": "Clicking joints. Chittering sounds. Paralytic gaze."
+    }
+  },
+  "Marco": {
+    "name": "Marco the Merchant",
+    "role": "Supporting",
+    "full_description": "A Venetian merchant, sleek and well-fed, with rings on his fingers and a calculating eye that misses nothing. Moves through markets like a shark through shallows, assessing everything for profit. The man who saw potential in young Giovanni and changed the course of his life.",
+    "description_components": {
+      "head_face": "Sleek, well-fed features of a successful merchant. Calculating eyes that miss nothing. Neatly trimmed beard. Expression of constant assessment.",
+      "body_build": "Well-fed but not fat. Comfortable prosperity evident in his carriage. Moves with the confidence of wealth.",
+      "clothing": "Fine Venetian merchant's attire. Quality wool and silk. Practical but expensive. Traveling clothes suited for business.",
+      "accessories": "Multiple rings on fingers. Coin purse at belt. Merchant's ledger. Quality leather boots."
+    }
+  },
+  "GiovanniFather": {
+    "name": "Giovanni's Father",
+    "role": "Supporting",
+    "full_description": "A stern Italian farmer whose ancestors worked the same rocky soil for generations. Weathered face marked by years of hard labor. Calloused hands and resigned acceptance of a difficult life. Loves his son but cannot protect him from the world.",
+    "description_components": {
+      "head_face": "Weathered Mediterranean features, deeply lined from sun and worry. Stern but not unkind eyes. Graying hair, rough stubble. Expression of resignation and weariness.",
+      "body_build": "Strong from farm work but worn down. Stooped shoulders from years of labor. Calloused hands.",
+      "clothing": "Simple peasant clothes, patched and worn. Rough homespun tunic. Work-stained trousers. Worn leather belt.",
+      "accessories": "Simple wooden cross on cord. Work knife. Wool cap for cold mornings."
+    }
+  },
+  "BishopPaulus": {
+    "name": "Bishop Paulus",
+    "role": "Antagonist",
+    "full_description": "A brilliant, ruthless bishop who actually runs the diocese while the titular bishop is ancient and ceremonial. Younger than expected for his power, deeply committed to what he sees as the Church's mission. Recognizes useful tools when he sees them. The man who transformed Giovanni into an assassin.",
+    "description_components": {
+      "head_face": "Sharp, intelligent features. Eyes that see through pretense. Clean-shaven with high cheekbones. Expression of cold calculation beneath ecclesiastical calm.",
+      "body_build": "Lean and precise. Nothing wasted. Moves with purposeful economy.",
+      "clothing": "Bishop's vestments of quality fabric. Purple stole. Fine wool cassock. Immaculate presentation.",
+      "accessories": "Bishop's ring of office. Ornate crucifix. Prayer book. Hidden documents."
+    }
+  },
+  "Renigius": {
+    "name": "Father Renigius",
+    "role": "Ally",
+    "full_description": "An elderly priest with wise eyes that see past facades. Giovanni's mentor and closest friend in the Church. Speaks Greek and conducts Byzantine-style services. Questions what Giovanni is becoming but cannot stop the transformation.",
+    "description_components": {
+      "head_face": "Elderly, kind features with deep wisdom lines. Eyes that see truth behind lies. Long white beard in Byzantine style. Expression of gentle concern.",
+      "body_build": "Thin and elderly but not frail. Decades of standing for services. Patient, measured movements.",
+      "clothing": "Simple priest's robes. Byzantine-style vestments for services. Well-worn but clean.",
+      "accessories": "Greek prayer book. Simple wooden crucifix. Incense censer for services."
+    }
+  },
+  "Petros": {
+    "name": "Petros the Heretic",
+    "role": "Minor",
+    "full_description": "A scholar who taught that the material world was created by an evil deity, not God. Giovanni's first kill. Died reading by candlelight, accepting his fate with the resignation of one who had already rejected the physical world.",
+    "description_components": {
+      "head_face": "Scholar's features, pale from time indoors. Intelligent eyes that held no fear of death. Unkempt beard. Expression of philosophical acceptance.",
+      "body_build": "Thin from ascetic beliefs. Stooped from reading. Physically weak but spiritually certain.",
+      "clothing": "Simple scholar's robes, worn and patched. Bare feet as rejection of material comfort.",
+      "accessories": "Books and scrolls. Candle for reading. Writing implements. The forbidden texts he died protecting."
     }
   }
 }

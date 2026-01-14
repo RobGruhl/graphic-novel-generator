@@ -1,0 +1,41 @@
+{
+  "page_num": 8,
+  "title": "Leaving Home",
+  "panel_count": 3,
+  "is_spread": false,
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "Wide departure shot",
+      "visual": "Early morning light gilds the terraced hillside as Marco's cart rolls away from the village. Giovanni sits beside the merchant, looking back at his childhood home one last time. The cart is loaded with wool and other goods acquired at the market. The road stretches ahead, winding down from the hills toward an unseen horizon.",
+      "dialogue": "",
+      "narration": "The merchant's name was Marco, and he dealt in wool and wine, olive oil and grain, and occasionally in things less savory when the profit margin justified it.",
+      "characters": ["Giovanni.Young", "Marco"],
+      "location": "ItalianHillCountry",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
+    },
+    {
+      "panel_num": 2,
+      "annotation": "Father watching",
+      "visual": "Giovanni's father stands at the edge of their property, watching the cart disappear down the road. His weathered face shows the resignation of a man who has accepted another loss. His hand rests on a fence post worn smooth by generations of use. Behind him, the farmhouse and fields that will never know Giovanni's labor again.",
+      "dialogue": "",
+      "narration": "",
+      "characters": ["GiovanniFather"],
+      "location": "ItalianHillCountry",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "annotation": "Road ahead",
+      "visual": "The cart rounds a bend in the road, and the terraced hillside falls away to reveal the flat lands beyond - the road to Venice stretching toward distant possibilities. Giovanni faces forward now, his peasant clothes and bare feet somehow less significant than the determination in his young face. Marco glances at him with something like approval.",
+      "dialogue": "",
+      "narration": "He taught Giovanni to read and write, first in vulgar Latin and then in proper Latin, the language of contracts and Church. He taught him Greek for dealing with Byzantine traders, spoken Hebrew for the Jewish merchants who controlled much of the Mediterranean trade.",
+      "characters": ["Giovanni.Young", "Marco"],
+      "location": "ItalianHillCountry",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "page_num": 6,
+  "title": "Marco's Interest",
+  "panel_count": 3,
+  "is_spread": false,
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "Marco laughing",
+      "visual": "Marco waves away the father's apology, his ringed hand raised in a gesture of dismissal. He is genuinely amused, his calculating eyes now fixed on Giovanni with something like respect. The merchant has found something more valuable than wool.",
+      "dialogue": "Marco: \"No, no, let the boy speak. He's got fire in him. And he's not wrong - I will make a profit on this wool. A good profit. That's what merchants do, boy.\"",
+      "narration": "But the merchant was laughing.",
+      "characters": ["Marco", "Giovanni.Young", "GiovanniFather"],
+      "location": "VillageMarket",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "annotation": "Marco explaining",
+      "visual": "Marco gestures expansively as he explains the philosophy of commerce. His posture is that of a teacher now, not a predator. Giovanni listens intently despite his stinging ear, his expression shifting from anger to something like hunger - hunger for knowledge, for understanding of how the world really works.",
+      "dialogue": "Marco: \"We find value where it sits undervalued and move it to where it will be prized. There's no sin in that.\"",
+      "narration": "",
+      "characters": ["Marco", "Giovanni.Young"],
+      "location": "VillageMarket",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "annotation": "Giovanni's challenge",
+      "visual": "Giovanni stands his ground despite his father's warning glare. Marco studies him with the appraising eye of a man who recognizes potential - raw, unrefined, but unmistakable. The dynamic has shifted; the boy is no longer just a peasant's son.",
+      "dialogue": "Giovanni: \"Then why not pay what it's worth?\"\nMarco: \"Because your father needs to sell it today, and I'm the only buyer here. I'm not cheating him. I'm providing a service.\"",
+      "narration": "The merchant studied Giovanni with interest.",
+      "characters": ["Giovanni.Young", "Marco", "GiovanniFather"],
+      "location": "VillageMarket",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    }
+  ]
+}

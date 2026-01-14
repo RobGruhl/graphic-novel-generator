@@ -12,36 +12,314 @@
       "Each variant is a complete, standalone entry - not a partial override"
     ]
   },
-  "ExampleVillage": {
-    "name": "Example Village",
-    "full_description": "A peaceful mountain village with thatched-roof cottages clustered around a central well. Smoke rises from chimneys. Surrounded by pine forests with snow-capped peaks in the distance.",
+  "Samarkand": {
+    "name": "Samarkand Markets",
+    "full_description": "The great markets of Samarkand where the trade roads cross like strands of a cosmic web. A labyrinth of silk and spice beneath a sky the color of hammered brass. Goods from the uttermost ends of the earth. The air thick with incense and the cries of merchants, with the lowing of camels.",
     "description_components": {
-      "architecture": "Thatched-roof stone cottages with wooden shutters. Cobblestone paths between buildings. Central stone well with wooden roof.",
-      "atmosphere": "Peaceful and welcoming. Quiet rural life. Smell of wood smoke and fresh bread.",
-      "lighting": "Warm morning sunlight filtering through mountain mist. Long shadows from the eastern peaks.",
-      "key_features": "Central well, small tavern with hanging sign, blacksmith's forge with glowing coals."
+      "architecture": "Sprawling bazaar with canopied stalls, silk tents, permanent stone shops. Narrow winding paths between merchant displays. Caravanserai nearby.",
+      "atmosphere": "Chaotic commerce. A thousand tongues haggling. Press of bodies from every land. Smells of spice, incense, animal sweat.",
+      "lighting": "Harsh brass-colored sunlight filtering through silk canopies. Dappled shadows. Dust motes dancing.",
+      "key_features": "Bolts of silk from Cathay, amber from the north, Persian carpets, Frankish blades. Camels laden with goods. Merchants of every race."
     }
   },
-  "ExampleVillage.Attacked": {
-    "name": "Example Village (Under Attack)",
-    "base_location": "ExampleVillage",
-    "variant_context": "During or after an attack",
-    "full_description": "The same peaceful mountain village, now in chaos. Thatched roofs burning, smoke billowing. Villagers fleeing. The central well area is a battleground.",
+  "Samarkand.Night": {
+    "name": "Samarkand Markets (Night)",
+    "base_location": "Samarkand",
+    "variant_context": "After dark when the caravans camp",
+    "full_description": "The markets of Samarkand at night, transformed from frantic commerce to flickering firelight and the quieter business of travelers. Cook-fires punctuate the darkness, drums throb from distant celebrations.",
     "description_components": {
-      "architecture": "Same cottages, but some roofs ablaze. Doors broken open. Cobblestone paths littered with debris. Central well overturned.",
-      "atmosphere": "Chaotic and terrifying. Screams and crackling fire. Acrid smoke fills the air.",
-      "lighting": "Orange firelight flickering against night sky. Dancing shadows. Embers floating upward.",
-      "key_features": "Burning buildings, fleeing villagers, overturned carts, broken weapons on the ground."
+      "architecture": "Same bazaar structure, but stalls closed and shuttered. Caravan encampments spreading from the city. Tents erected where goods were displayed.",
+      "atmosphere": "Quieter but not silent. Fire-lit conversations. Distant music. The serious business of night travelers.",
+      "lighting": "Cook-fires casting dancing orange light. Stars visible above. Oil lamps in permanent buildings.",
+      "key_features": "Sprawling caravan camp. Fire-swallowers practicing. Robed monks. Hind's great tent with guards."
     }
   },
-  "ExampleDungeon": {
-    "name": "Example Dungeon",
-    "full_description": "Ancient stone corridors lit by flickering torches. Moss grows on damp walls. Distant echoes of dripping water. Carved runes glow faintly on archways.",
+  "HindsTent": {
+    "name": "Hind's Tent",
+    "full_description": "The great command tent of Hind the merchant, set apart from the caravan with fabric richer than the rest. Guy-ropes strung with small bells that chime in the breeze. Two armed guards at the entrance. Inside, incense hangs thick enough to taste.",
     "description_components": {
-      "architecture": "Massive stone blocks forming corridors and chambers. Carved archways with ancient runes. Worn stone steps descending into darkness.",
-      "atmosphere": "Oppressive and mysterious. Ancient secrets hidden in shadows. Air is cool and damp.",
-      "lighting": "Flickering orange torchlight creating dancing shadows. Faint blue glow from magical runes. Darkness beyond the light's reach.",
-      "key_features": "Glowing rune-carved archways, iron torch sconces, moss-covered walls, distant echoing drips."
+      "architecture": "Large silk tent, luxurious construction. Fine carpets on ground. Low tables. Cushions for sitting. Separate areas for business and rest.",
+      "atmosphere": "Heavy incense. Authority and wealth. Quiet compared to outside bustle. Place of command and decision.",
+      "lighting": "Oil lamps casting warm yellow light. Incense smoke catching the light. Darker corners.",
+      "key_features": "Low table with maps and scrolls. Cushions of command. Oud in corner (Rahzalahn). Abu-Rayhan's scattered papers. Weapon rack at entrance."
+    }
+  },
+  "IronGates": {
+    "name": "The Iron Gates",
+    "full_description": "The ancient boundary where settled lands give way to the domain of nomads. Weathered pillars marking the transition. Beyond those markers, the world takes on a different character entirely—wilder, older, more dangerous.",
+    "description_components": {
+      "architecture": "Ancient stone pillars, weathered by ages. Old road markers. No fortifications, just symbolic boundary.",
+      "atmosphere": "Liminal space. Transition between worlds. A sense of leaving safety behind. Wind from the steppe.",
+      "lighting": "Open sky, sun bleeding crimson at sunset. The quality of light changes beyond the gates.",
+      "key_features": "Weathered boundary pillars. Road stretching into wild lands. Distant mountains. Steppe beginning."
+    }
+  },
+  "CursedVillage": {
+    "name": "The Cursed Village",
+    "full_description": "An abandoned village in the shadow of the cursed castle. Fields lie fallow, crops rotting. A well stands open and unattended. No smoke, no children, no barking dogs. Silence hangs like a shroud. The well is choked with corpses.",
+    "description_components": {
+      "architecture": "Simple village houses with thatched roofs. Empty streets. Doors hanging open. Fire temple with fallen beams. Central well.",
+      "atmosphere": "Oppressive silence. Death and abandonment. Something deeply wrong. Mist beginning to curl through streets.",
+      "lighting": "Dim, overcast. Mist diffusing light. No warm glow from windows. Shadows deeper than they should be.",
+      "key_features": "Well filled with corpses. Empty houses with food still in pots. Fire temple with desiccated hand reaching from debris. No living animals."
+    }
+  },
+  "CursedVillage.GhoulRising": {
+    "name": "The Cursed Village (Ghouls Rising)",
+    "base_location": "CursedVillage",
+    "variant_context": "When the undead rise from their deaths",
+    "full_description": "The cursed village coming alive with horror. Desiccated corpses rising from the ground, from doorways, from the poisoned well. Luminescent eyes in the mist. Whispered voices calling 'Join us. Come to us.'",
+    "description_components": {
+      "architecture": "Same village, now a nightmare landscape. Ghouls emerging from every shadow. Bodies pulling themselves upright.",
+      "atmosphere": "Terror. Whispered calls to death. Cold evil pressing at minds. Fight or die.",
+      "lighting": "Witchfire green marking the risen dead (Eskil's magic). Luminescent eyes like poisoned stars. Mist glowing.",
+      "key_features": "Ghouls in village streets. Witchfire burning on marked corpses. Whispered chorus. Path to castle the only escape."
+    }
+  },
+  "CursedCastle": {
+    "name": "The Cursed Castle",
+    "full_description": "A ruined castle looming above the dead village. Ancient walls offering the promise of defensible ground. Rusted but intact gate. Battlements overlooking the slope. Within: corridors that have not known living footsteps in generations.",
+    "description_components": {
+      "architecture": "Ancient stone fortress, partially ruined. Rusted portcullis. Crumbling battlements. Courtyard with space for a bonfire. Keep entrance leading down.",
+      "atmosphere": "Ancient evil. Something dwelling within. Better than the horrors outside but not safe.",
+      "lighting": "Torchlight against oppressive darkness. Bonfire in courtyard casting honest light. Shadows that do not want to yield.",
+      "key_features": "Defensive walls. Courtyard for bonfire. Keep entrance. Battlements where prayers can destroy ghouls below."
+    }
+  },
+  "CursedCastle.Interior": {
+    "name": "The Cursed Castle (Interior)",
+    "base_location": "CursedCastle",
+    "variant_context": "Inside the keep, descending to the temple",
+    "full_description": "Inside the cursed keep, corridors of inscrutable architecture that trouble the eye. Proportions that shift when viewed from different angles. Bronze doors that sweat viscous fluid and recoil from flame. The passage slopes downward toward something ancient and wrong.",
+    "description_components": {
+      "architecture": "Non-Euclidean corridors. Bronze doors that seem organic. Passages that rearrange at the corner of vision. Stairs worn smooth by inhuman feet.",
+      "atmosphere": "Deeply wrong. Sigils burning in warning. Whispers at edge of perception. The outer dark pressing close.",
+      "lighting": "Torchlight barely penetrating darkness. Green flames when burning the organic bronze. Shadows actively resisting light.",
+      "key_features": "Bronze doors that quiver from flame. Crow cages with ancient bones. Stairs descending into deeper wrong."
+    }
+  },
+  "UndergroundTemple": {
+    "name": "The Underground Temple",
+    "full_description": "A chamber beneath the cursed castle where no human ever worshipped. Wet, mossy vines hanging from a ceiling lost in darkness. Statues of impossible forms carved from stone of colors no quarry produced. They are watching. Writing in no human language covers every surface.",
+    "description_components": {
+      "architecture": "Alien geometry. Statues of forms beyond human comprehension. Altar at far end beneath cyclopean figure. Multiple passages leading to black mouths.",
+      "atmosphere": "Cosmic horror. Being watched by things that should not exist. Cold evil pressing at sanity. The presence of the outer dark.",
+      "lighting": "Torchlight barely touching the darkness. Faint glow from alien stones. Fire arrows revealing horrors.",
+      "key_features": "Watching statues. Living vines that retract from fire. Cyclopean figure behind altar. Amulet on altar. Alien writing."
+    }
+  },
+  "UndergroundTemple.BirdThingEmerging": {
+    "name": "Underground Temple (Bird-Thing Emerging)",
+    "base_location": "UndergroundTemple",
+    "variant_context": "When the horror emerges from the depths",
+    "full_description": "The underground temple as the bird-thing emerges from behind the cyclopean figure. The horror clicking and chittering into existence. Paralyzing terror washing over witnesses. The Nagini's coils rising to restrain the nightmare.",
+    "description_components": {
+      "architecture": "Same alien temple, now scene of cosmic battle.",
+      "atmosphere": "Pure terror. Paralysis. The presence of something from outside reality.",
+      "lighting": "Lueduo's burning arm-silks casting golden light against the horror. Serpentine coils glowing with the Nagini's power.",
+      "key_features": "Bird-thing emerging. Paralyzed heroes. Serpentine coils of the Nagini restraining horror. Altar with amulet."
+    }
+  },
+  "Eysysla": {
+    "name": "Eysysla (Saaremaa Island)",
+    "full_description": "A Baltic island where a cult of young women served Shub-Niggurath. Simple fishing villages and forested interior. The Undercroft hidden in the woods. Now destroyed by purple fire, nothing but ash and memory.",
+    "description_components": {
+      "architecture": "Simple Nordic fishing village. Wooden houses with thatched roofs. Docks and fishing boats. Forest paths leading inland.",
+      "atmosphere": "Remote island life. Hidden darkness beneath pastoral exterior. The Goat's influence seeping through.",
+      "lighting": "Baltic grey skies. Weak northern sun. Forest shadows.",
+      "key_features": "Fishing village. Forest concealing cult sites. The Undercroft hidden within. Underryd bog nearby."
+    }
+  },
+  "Eysysla.Destroyed": {
+    "name": "Eysysla (Destroyed)",
+    "base_location": "Eysysla",
+    "variant_context": "After the Messenger's purple fire consumed the island",
+    "full_description": "The island of Eysysla reduced to ash and ruin by the Messenger's purple fire. Every structure burned. Every person dead. Only destruction remains where life once flourished. Eskil's home, erased from existence.",
+    "description_components": {
+      "architecture": "Burned shells of buildings. Collapsed docks. Ash everywhere. Nothing standing.",
+      "atmosphere": "Total destruction. The aftermath of cosmic rage. Silence of the dead.",
+      "lighting": "Smoke obscuring sky. Embers still glowing. Purple-tinged ash.",
+      "key_features": "Complete devastation. Burned bodies. Ruined boats. Nothing living remains."
+    }
+  },
+  "UnderrydBog": {
+    "name": "Underryd Bog",
+    "full_description": "A sacrificial bog where the cult of Shub-Niggurath performed their rituals. Murky water hiding ancient bones. Ritual platforms of ancient wood. The place where Eskil was meant to die but instead became cursed.",
+    "description_components": {
+      "architecture": "Ancient wooden platforms extending over bog water. Ritual posts for binding sacrifices. Hidden paths through the marsh.",
+      "atmosphere": "Ancient evil. Sacrificial dread. The Goat's presence strong here. Death in the waters.",
+      "lighting": "Murky, diffused. Mist rising from waters. Ritual fires casting dancing shadows.",
+      "key_features": "Sacrificial platforms. Binding posts. Murky waters hiding bones. Ritual implements."
+    }
+  },
+  "Undercroft": {
+    "name": "The Undercroft",
+    "full_description": "The hidden underground sanctuary where the cult women of Shub-Niggurath lived and worshipped. Stone chambers beneath the forest. Altar to the Black Goat. The place where rituals were planned and dark knowledge kept.",
+    "description_components": {
+      "architecture": "Underground stone chambers. Altar room. Living quarters for cult. Hidden entrance in forest.",
+      "atmosphere": "Cult sanctuary. Worship of the outer dark. Hidden knowledge. Female power corrupted.",
+      "lighting": "Torch and candle light. Altar with special illumination. Deep shadows.",
+      "key_features": "Altar to Shub-Niggurath. Ritual implements. Living quarters. Anna's command seat. Rune stones."
+    }
+  },
+  "Venice": {
+    "name": "Venice",
+    "full_description": "The great trading city of the Mediterranean, built on water and commerce. Canals and bridges. Merchant quarters and church spires. Giovanni's origin, where he went from farm boy to merchant to man of God.",
+    "description_components": {
+      "architecture": "Gothic palazzos rising from canals. Bridges arching over waterways. Church spires. Merchant quarters. Docks crowded with ships.",
+      "atmosphere": "Commerce and intrigue. Wealth and scheming. The Church's influence strong. Trade with the East.",
+      "lighting": "Mediterranean light on water. Reflections dancing. Shadowed alleys between buildings.",
+      "key_features": "Grand Canal. Merchant exchanges. Churches. Docks. Bishop Paulus's headquarters in Ravenna nearby."
+    }
+  },
+  "PalaceOfSonapura": {
+    "name": "Palace of Sonapura",
+    "full_description": "The palace of Raja Kanishka in Kashmir, where Princess Iksha Bhima was raised. Golden domes and marble halls. Gardens with fountains. The gilded cage from which Bansi escaped at thirteen.",
+    "description_components": {
+      "architecture": "Kashmiri palace architecture. Golden domes. Marble halls. Inner courtyards. Women's quarters (zenana). Gardens with fountains.",
+      "atmosphere": "Royal luxury. Political intrigue. Constraint for women. Beauty masking imprisonment.",
+      "lighting": "Bright Kashmir sun. Filtered through latticed windows in zenana. Garden shadows.",
+      "key_features": "Throne room. Zenana (women's quarters). Training grounds (forbidden to Bansi). Gardens. Hidden passages she discovered."
+    }
+  },
+  "TangCourt": {
+    "name": "The Tang Court (Chang'an)",
+    "full_description": "The imperial court of Tang China, where Lueduo served as dancer, entertainer, and spy. Magnificent halls of carved wood and silk. A place of beauty, intrigue, and danger for a Uyghur hostage with serpent blood.",
+    "description_components": {
+      "architecture": "Imperial Chinese palace architecture. Carved wooden halls. Silk hangings. Ceremonial courtyards. Private chambers.",
+      "atmosphere": "Refined beauty concealing deadly politics. Performance and seduction. Eunuch power. Imperial majesty.",
+      "lighting": "Paper lanterns. Filtered sunlight through screens. Performance lighting for dancers.",
+      "key_features": "Performance hall. Wei's chambers (eunuch majordomo). Noble apartments. Gardens for secret meetings."
+    }
+  },
+  "SerpentsRest": {
+    "name": "Serpent's Rest",
+    "full_description": "Ancient ruins in the western desert where Lueduo first encountered the Nagini. Crumbling walls that predate human memory. A place where something old and serpentine waited for the one with the proper bloodline.",
+    "description_components": {
+      "architecture": "Pre-human ruins. Cyclopean stones. Serpentine carvings. Underground chambers. Desert-worn surfaces.",
+      "atmosphere": "Ancient beyond measure. Waiting presence. The Nagini's domain. Recognition of bloodline.",
+      "lighting": "Desert sun on ruins. Deep shadows within. Serpentine glow from the Nagini's presence.",
+      "key_features": "Serpent carvings. Underground sanctum. Pool where the Nagini manifests. Marks of ancient power."
+    }
+  },
+  "KyivArena": {
+    "name": "Kyiv Arena",
+    "full_description": "The gladiatorial arena in Kyiv where Eskil fought after fleeing Eysysla. A place of blood and spectacle where the cursed Norseman found purpose as an executioner of men and monsters.",
+    "description_components": {
+      "architecture": "Wooden arena structure. Sand fighting floor. Spectator benches. Gates for fighters and beasts. Underground cells.",
+      "atmosphere": "Blood sport. Roaring crowds. Life and death for entertainment. Place where monsters are killed.",
+      "lighting": "Open arena under sky. Torch-lit evening bouts. Underground darkness.",
+      "key_features": "Fighting sand. Spectator stands. Monster cages. Executioner's block. Guild headquarters nearby."
+    }
+  },
+  "Merv": {
+    "name": "Merv (Oasis City)",
+    "full_description": "The great oasis city on the Silk Road, where the caravan rests and encounters the werewolf threat. Abu-Rayhan's house serves as base. Wine shops, storytelling circles, and ancient catacombs beneath.",
+    "description_components": {
+      "architecture": "Persian-influenced desert city. Mud-brick buildings. Covered bazaars. Oasis gardens. Abu-Rayhan's scholar's house.",
+      "atmosphere": "Desert oasis life. Trade and stories. Hidden danger from werewolf cult. Ancient secrets below.",
+      "lighting": "Harsh desert sun. Cool shade in bazaars. Lamplight in storytelling circles.",
+      "key_features": "Oasis. Abu-Rayhan's house. Storytelling circle. Wine shops. Entrances to catacombs."
+    }
+  },
+  "ChapelOfBones": {
+    "name": "Chapel of Bones",
+    "full_description": "An underground cathedral of death where Karishkir's cult conducts sacrifices. Walls made of human skulls. Altar for blood sacrifice. The climactic battle site where Nizack was finally destroyed.",
+    "description_components": {
+      "architecture": "Cathedral structure made of human bones. Skull walls. Bone pillars. Sacrificial altar at center. Unholy geometry.",
+      "atmosphere": "Death worship. Werewolf cult power. Horror given architectural form. Final confrontation.",
+      "lighting": "Ritual flames. Bone catching firelight. Shadows in skull eye sockets. Magical light from Isaac's spells.",
+      "key_features": "Skull walls. Bone altar. Sacrificial implements. Portal Karishkir escapes through. Nizack's final dissolution point."
+    }
+  },
+  "Kurgan": {
+    "name": "Kurgan (Burial Mound)",
+    "full_description": "A steppe burial mound where Karishkir's werewolf cult makes sacrifices. Flayed skins on poles mark the site. Ancient barrow holding older evil. Portal connecting to the catacombs beneath Merv.",
+    "description_components": {
+      "architecture": "Ancient burial mound of steppe nomads. Earth-covered stone chambers. Ritual poles around perimeter.",
+      "atmosphere": "Ancient death site corrupted further. Werewolf cult desecration. Liminal space between worlds.",
+      "lighting": "Open steppe sky. Ritual fires. Darkness within the barrow.",
+      "key_features": "Flayed skins on poles. Burial mound entrance. Portal inside. Sacrificial remains."
+    }
+  },
+  "Shiraz": {
+    "name": "Shiraz",
+    "full_description": "Persian city where the caravan takes ship for the sea voyage. Departure point for the journey to Egypt. A civilized pause before the dangers of the sea.",
+    "description_components": {
+      "architecture": "Persian city architecture. Gardens. Mosques. Harbor and docks. Merchant quarters.",
+      "atmosphere": "Persian culture and refinement. Trade hub. Preparation for sea voyage.",
+      "lighting": "Persian sun. Harbor light on water. Shaded gardens.",
+      "key_features": "Harbor. Ship preparations. Final resupply. Taibiri joining as guide."
+    }
+  },
+  "SeaOfOman": {
+    "name": "Sea of Oman",
+    "full_description": "The waters between Persia and Arabia, where the party faces pirate attack. Open sea with the dangers of the deep and of men. The ship they take as prize after defeating the pirates.",
+    "description_components": {
+      "architecture": "Ship decks. Rigging. Pirate vessel alongside. Ocean surrounding.",
+      "atmosphere": "Sea voyage danger. Pirate attack excitement. Victory and prize-taking.",
+      "lighting": "Open sea light. Spray and foam. Battle chaos.",
+      "key_features": "Party's ship. Pirate vessel. Boarding action. Gan climbing mast. Bansi dueling captain."
+    }
+  },
+  "Aidhab": {
+    "name": "Aidhab (Red Sea Port)",
+    "full_description": "The Red Sea port where the party lands before crossing into Egypt. A harsh desert town serving as gateway to the Egyptian sands and the Valley of the Dead beyond.",
+    "description_components": {
+      "architecture": "Simple port buildings. Desert construction. Camel markets. Minimal civilization.",
+      "atmosphere": "Harsh frontier town. Gateway to danger. Last resupply point.",
+      "lighting": "Brutal desert sun. Red Sea reflections. No shade.",
+      "key_features": "Port facilities. Camel market. Supplies for desert crossing. Road into Egypt."
+    }
+  },
+  "ValleyOfTheDead": {
+    "name": "Valley of the Dead",
+    "full_description": "Ancient Egyptian site containing Stygian tombs that predate the Pharaohs. Where the amulet's origins lie. Home to Akivasha and secrets of the cosmic forces the party has been battling.",
+    "description_components": {
+      "architecture": "Ancient tomb entrances. Hieroglyphs that match amulet symbols. Stygian architecture predating Egyptian civilization.",
+      "atmosphere": "Tomb silence. Ancient secrets. The weight of millennia. Answers waiting within.",
+      "lighting": "Desert sun above. Tomb darkness below. Ancient light sources within.",
+      "key_features": "Tomb entrances. Matching hieroglyphs. Path to Akivasha. Temple Beneath Time access."
+    }
+  },
+  "ItalianHillCountry": {
+    "name": "Italian Hill Country",
+    "full_description": "The hill country north of Venice where Giovanni was born. Terraced fields rising toward the Alps, rocky soil worked for generations, the scent of wild thyme on the wind. A hard land that shapes hard people.",
+    "description_components": {
+      "architecture": "Simple stone farmhouses with thatched or tile roofs. Terraced fields held by stone walls. Small village church. Dirt roads winding between properties.",
+      "atmosphere": "Rural simplicity. Hard work and simple faith. The rhythm of seasons and harvests. Poverty without despair.",
+      "lighting": "Mediterranean sun on hillsides. Long shadows in terraced fields. Golden harvest light. Morning mist in valleys.",
+      "key_features": "Terraced fields of grain and vines. Sheep grazing rocky pastures. Distant Alps on horizon. Village church bell tower. Giovanni's family farmhouse."
+    }
+  },
+  "VillageMarket": {
+    "name": "Village Market (Autumn)",
+    "full_description": "The autumn market where farmers bring surplus to trade. Where the merchant Marco first noticed young Giovanni. A bustling temporary marketplace full of wool, produce, and the desperate commerce of those who have little.",
+    "description_components": {
+      "architecture": "Temporary market stalls and carts. Open square near village church. Merchants' tents for traveling traders. Farmers' carts laden with goods.",
+      "atmosphere": "Bustling commerce. Haggling voices. The smell of wool and livestock. Desperate sellers and calculating buyers.",
+      "lighting": "Autumn sun, golden and warm. Dust motes in shafts of light. Shadows lengthening as the day progresses.",
+      "key_features": "Wool carts from local farmers. Marco's merchant setup. Giovanni's father's cart of wool. Village church in background. Mix of peasants and traveling merchants."
+    }
+  },
+  "VenetianChurch": {
+    "name": "Venetian Church (Byzantine)",
+    "full_description": "The Byzantine-style church in Venice where Giovanni experienced his calling. Greek chanting, incense smoke, colored light from high windows. A place where something shifted in a merchant's heart.",
+    "description_components": {
+      "architecture": "Byzantine church architecture with Greek Orthodox influences. High vaulted ceiling. Mosaic walls. Iconostasis separating nave from altar. Stone columns.",
+      "atmosphere": "Sacred mystery. Ancient ritual. Incense-thick air. The weight of centuries of prayer. Something beyond commerce.",
+      "lighting": "Colored light from stained glass windows. Candle flames flickering. Incense smoke catching light beams. Shadowed corners and illuminated icons.",
+      "key_features": "High altar with icons. Priest chanting in Greek. Congregation kneeling. Wet footprints from rain. Young Giovanni standing apart, dripping and staring."
+    }
+  },
+  "MonasteryOfSeverus": {
+    "name": "Monastery of Saint Severus",
+    "full_description": "A monastery high in the Apennines where something unholy occurred. Winter winds howl like souls in torment. Giovanni's first encounter with true supernatural horror, in the crypt beneath the chapel.",
+    "description_components": {
+      "architecture": "Stone monastery buildings clinging to mountain. Chapel with bell tower. Crypt beneath. Cells for monks. High walls against winter winds.",
+      "atmosphere": "Isolated dread. Something wrong here. Cold that seeps into bones. Wrongness in the stones themselves. The aftermath of heresy.",
+      "lighting": "Weak winter light through small windows. Torchlight in corridors. Darkness in the crypt that seems to resist illumination.",
+      "key_features": "Chapel with defaced altar. Crypt with shapes pressed into stone floor. Cells where the corrupted monk lived. Mountain peaks visible through windows. Snow and wind outside."
     }
   }
 }

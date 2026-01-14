@@ -1,0 +1,41 @@
+{
+  "page_num": 4,
+  "title": "The Negotiation",
+  "panel_count": 3,
+  "is_spread": false,
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "Close-up on Marco",
+      "visual": "Marco's ringed hands pull at the wool fibers, testing for coarseness and length. His face shows practiced evaluation - not impressed, but not dismissive. The gesture is intimate, professional, the touch of a man who knows exactly what he's holding and what it's worth.",
+      "dialogue": "Marco: \"Not bad. Not exceptional, but not bad. I'll give you twelve denari for the lot.\"",
+      "narration": "",
+      "characters": ["Marco"],
+      "location": "VillageMarket",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "annotation": "Father and Marco",
+      "visual": "Giovanni's father stands across from Marco, his weathered face showing the conflict between pride and necessity. He knows the wool is worth more - twenty at least, probably twenty-five in Venice. But here, in this backwater, Marco is the only buyer. His shoulders slump slightly as he prepares to haggle a losing battle.",
+      "dialogue": "",
+      "narration": "Giovanni's father knew it was worth twenty at least, probably twenty-five in a Venetian market. But here, in this backwater village with no other buyers for miles, twelve denari was better than nothing.",
+      "characters": ["GiovanniFather", "Marco"],
+      "location": "VillageMarket",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "annotation": "Resigned acceptance",
+      "visual": "The handshake that seals the deal - Marco's soft, ringed hand clasping the farmer's calloused one. Giovanni's father accepts fourteen denari with the resignation of one who has lost this battle many times before. In the background, fifteen-year-old Giovanni watches with something burning in his eyes - anger, perhaps, or shame. The merchant notices the boy's expression.",
+      "dialogue": "",
+      "narration": "He haggled half-heartedly, got the merchant up to fourteen, and accepted defeat with the resignation of one who has lost this battle many times before.",
+      "characters": ["GiovanniFather", "Marco", "Giovanni.Young"],
+      "location": "VillageMarket",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    }
+  ]
+}

@@ -12,10 +12,11 @@ __pycache__/
 dist/
 build/
 
-# Generated output (optional - uncomment if you don't want to commit output)
-# output/panels/*.png
-# output/pages/*.png
-# output/*.cbz
+# Generated output - exclude raw panels to save space
+output/panels/
+
+# Source material (not for distribution)
+bens-game-raw/
 
 # Keep output directories structure
 !output/.gitkeep

@@ -1,0 +1,30 @@
+{
+  "page_num": 1,
+  "title": "Prologue I: The Shepherd Who Became a Wolf - Opening",
+  "panel_count": 2,
+  "is_spread": false,
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "Wide establishing shot",
+      "visual": "A sweeping vista of Italian hill country north of Venice. Terraced fields rise toward the distant Alps, stone walls dividing the rocky soil that has been worked for generations. Wild thyme and olive trees dot the landscape. A simple stone farmhouse with a thatched roof sits amid the terraces. The golden light of late afternoon bathes everything in warmth, but there is a harshness to the land - beautiful yet unforgiving. In the distance, sheep graze on a hillside.",
+      "dialogue": "",
+      "narration": "In the hill country north of Venice, where the land rises in terraced fields toward the Alps and the air smells of earth and wild thyme, there was a boy named Giovanni who knew nothing of cities or gods or the darkness that moves beneath the world.",
+      "characters": [],
+      "location": "ItalianHillCountry",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
+    },
+    {
+      "panel_num": 2,
+      "annotation": "Medium shot",
+      "visual": "Young Giovanni, a thin boy of about twelve years, works with a small flock of sheep on a rocky hillside. His clothes are simple homespun, patched and worn. His feet are bare and calloused. His dark hair is unkempt, and there are dirt smudges on his Mediterranean features. He holds a shepherd's crook and watches his flock with patient eyes that show no hint of the darkness to come. The Alps rise in the background, their peaks catching the last of the sun.",
+      "dialogue": "",
+      "narration": "He was the third son of a farmer whose ancestors had worked the same rocky soil for generations uncounted. His hands were calloused from the plow before he was ten.",
+      "characters": ["Giovanni.Young"],
+      "location": "ItalianHillCountry",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    }
+  ]
+}
