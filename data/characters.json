@@ -748,5 +748,27 @@
       "clothing": "Dragon robes of the Son of Heaven. Yellow silk. Imperial emblems.",
       "accessories": "The Dragon Throne. The mandate of heaven. The power of life and death over millions."
     }
+  },
+  "Earmack": {
+    "name": "Earmack",
+    "role": "Supporting",
+    "full_description": "A young nomad woman of perhaps eighteen or nineteen winters from the steppe peoples. She escaped Karishkir's werewolf cult after watching her entire raiding party be captured, caged, and sacrificed. Dusty, bleeding, clothes in tatters, no boots. Eyes haunted by terror but fierce with survival.",
+    "description_components": {
+      "head_face": "Young steppe features, perhaps eighteen winters. Dark hair matted and wild. Eyes wide with lingering terror but defiant. Face streaked with dust and dried blood. Cracked lips from hard riding.",
+      "body_build": "Lean and wiry, built for horseback. Battered and exhausted but still strong. Trembling from trauma.",
+      "clothing": "Clothes hanging in shredded tatters. Riding leathers torn. No boots - bare feet bloody from riding stirrups. Covered in dust and dried blood.",
+      "accessories": "Nothing - she escaped with only what she wore. Rope burns on wrists from captivity."
+    }
+  },
+  "Weefred": {
+    "name": "Weefred the Tavern-Keeper",
+    "role": "Supporting",
+    "full_description": "A Frankish tavern-keeper who travels with Hind's caravan, setting up his establishment at each stop with practiced efficiency. Awnings stretched between poles, barrels tapped, cups ready. His business is brisk wherever the caravan camps.",
+    "description_components": {
+      "head_face": "Frankish features, ruddy from his trade. Cheerful eyes of a born publican. Neat beard. Expression of welcoming commerce.",
+      "body_build": "Stocky and strong from moving barrels. Comfortable in his work.",
+      "clothing": "Practical tavern-keeper's attire. Apron for serving. Clothes suited for hot climate.",
+      "accessories": "Serving cups. Wine ladle. Keys to his barrels. The tools of portable hospitality."
+    }
   }
 }

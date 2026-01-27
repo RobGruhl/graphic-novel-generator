@@ -1,0 +1,53 @@
+{
+  "page_num": 75,
+  "title": "Evening Pursuits",
+  "panel_count": 4,
+  "is_spread": false,
+  "layout": "grid",
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "Rahzalahn's music",
+      "visual": "Rahzalahn sits beneath the stars with her oud, the music she coaxes from its strings speaking of distant shores and loves left behind. Starlight catches the silver pins in her dark hair. Her expression is one of deep melancholy transformed into beauty.",
+      "dialogue": "",
+      "narration": "The music spoke of distant shores and loves left behind.",
+      "characters": ["Rahzalahn"],
+      "location": "Merv",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "annotation": "Lueduo storytelling",
+      "visual": "Lueduo sits among the storytellers near the central fire, men and women taking turns spinning tales. His turn has come, and he speaks of their recent venture - the cursed castle, the village of the dead, bronze doors burning with green fire. The listeners lean forward, hungry for horror.",
+      "dialogue": "",
+      "narration": "A well-told tale was its own kind of currency.",
+      "characters": ["Lueduo"],
+      "location": "Merv",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "annotation": "Bansi and Rahzalahn",
+      "visual": "Bansi has joined Rahzalahn in music, playing her flute in delicate counterpoint that carries the winds of Kashmir in its undertones. She remains watchful even as she plays, her eyes never quite settling. Coins land at their feet from appreciative merchants.",
+      "dialogue": "",
+      "narration": "",
+      "characters": ["Bansi", "Rahzalahn"],
+      "location": "Merv",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 4,
+      "annotation": "Giovanni alone",
+      "visual": "Giovanni wanders the alleys of Merv alone, his priest's robes marking him as a man of God in a city that has known many gods. He passes fire-shrines and mosques, not yet ready to engage. The crucifix around his neck catches lamplight. His expression is troubled, processing what they saw in the castle.",
+      "dialogue": "",
+      "narration": "The crucifix around his neck felt heavier than usual.",
+      "characters": ["Giovanni"],
+      "location": "Merv",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    }
+  ]
+}

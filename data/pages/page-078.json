@@ -1,0 +1,20 @@
+{
+  "page_num": 78,
+  "title": "The Nagini Speaks",
+  "panel_count": 1,
+  "is_spread": false,
+  "layout": "splash",
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "Splash - The Nagini appears",
+      "visual": "FULL PAGE SPLASH: The Nagini manifests before Lueduo in all her terrible glory. She is beautiful in the way that a hurricane is beautiful, or the edge of a blade. Her human aspects - the face, the arms, the suggestion of breasts beneath scales of iridescent green - are merely concessions to mortal limitations. Massive serpentine coils rise from impossible depths behind her. Her eyes are golden and slitted, ancient beyond measure. Lueduo stands small before her, his serpent heritage stirring in recognition.",
+      "dialogue": "",
+      "narration": "What she truly was existed in dimensions he could not name.",
+      "characters": ["TheNagini", "Lueduo.Marked"],
+      "location": "SerpentsRest",
+      "aspect_ratio": "9:16",
+      "size": "1024x1536"
+    }
+  ]
+}

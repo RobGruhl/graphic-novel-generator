@@ -1,0 +1,42 @@
+{
+  "page_num": 83,
+  "title": "The Queen and Her Lovers",
+  "panel_count": 3,
+  "is_spread": false,
+  "layout": "3-right-tall",
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "Earmack's shock",
+      "visual": "Earmack's head snaps up, her eyes wide with shock and recognition at the name Nizack. Her hands twist in her lap. Around her, the company exchanges knowing glances - they have encountered this name before.",
+      "dialogue": "Earmack: \"Where have you heard that name?\"",
+      "narration": "",
+      "characters": ["Earmack"],
+      "location": "HindsTent",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "annotation": "Describing Karishkir",
+      "visual": "Earmack describes Karishkir, her voice shaking. In the shadows behind her, a vision of the werewolf queen seems to form - beautiful and terrible, perhaps twenty-five summers, but with a voice that hurts to hear. The company listens in grim silence.",
+      "dialogue": "Earmack: \"She was beautiful and terrible. Her voice... it hurts to hear.\"",
+      "narration": "Nizack is one of her lovers. Drekhlo. And the third - Ahad, the Khan of the Nine Skulls.",
+      "characters": ["Earmack", "Karishkir"],
+      "location": "HindsTent",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "annotation": "Hind takes command",
+      "visual": "Tall panel: Hind rises to take command, her presence filling the tent. She wraps Earmack in a cloak of her own - a gesture of protection. Behind her, the company prepares to move. Giovanni, Gan, and Eskil will take the girl to Abu-Rayhan's house. Lueduo and Bansi will find Sadia. The mission has changed.",
+      "dialogue": "Hind: \"Gan, Giovanni, Eskil - take the girl to Abu-Rayhan's house. Raven, Bansi - find Sadia.\"",
+      "narration": "",
+      "characters": ["Hind", "Earmack", "Giovanni", "Gan", "Eskil", "Lueduo", "Bansi"],
+      "location": "HindsTent",
+      "aspect_ratio": "9:16",
+      "size": "1024x1536"
+    }
+  ]
+}

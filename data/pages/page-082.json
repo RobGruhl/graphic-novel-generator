@@ -1,0 +1,53 @@
+{
+  "page_num": 82,
+  "title": "The Tale of Walking Wolves",
+  "panel_count": 4,
+  "is_spread": false,
+  "layout": "grid",
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "The raiding party",
+      "visual": "Flashback visualization as Earmack describes: Nine riders of the steppe in a raiding party, riding among the kurgans - the burial mounds of the old chiefs. Young warriors on nomad horses, the raiding good, unaware of the doom approaching.",
+      "dialogue": "Earmack: \"There were nine of us in a raiding party.\"",
+      "narration": "",
+      "characters": [],
+      "location": "Kurgan",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "annotation": "The attack",
+      "visual": "Flashback: Werewolves - walking wolves - set upon the riders at dusk. Massive forms with too-intelligent eyes, claws and fangs. Horses screaming, riders being pulled from saddles. The horror of humans transformed into monsters.",
+      "dialogue": "Earmack: \"Walking wolves. They set upon us and captured us.\"",
+      "narration": "",
+      "characters": ["Karishkir.Wolf"],
+      "location": "Kurgan",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "annotation": "The cages",
+      "visual": "Flashback: Captives in iron cages, weeks of travel through wild lands. Earmack and her companions huddled in terror as werewolves in human form prepare for ceremony. The great kurgan looming in the background.",
+      "dialogue": "Earmack: \"They took us to a great kurgan, weeks of travel, as they prepared a ceremony.\"",
+      "narration": "",
+      "characters": [],
+      "location": "Kurgan",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 4,
+      "annotation": "Bansi asks",
+      "visual": "Back to the present in Hind's tent. Bansi leans forward, her eyes sharp, asking her question. Earmack's expression shifts to shock at the name. The air seems to freeze between them.",
+      "dialogue": "Bansi: \"Do you know the name Nizack?\"",
+      "narration": "",
+      "characters": ["Bansi", "Earmack"],
+      "location": "HindsTent",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "page_num": 80,
+  "title": "The Rider",
+  "panel_count": 4,
+  "is_spread": false,
+  "layout": "grid",
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "Eskil senses danger",
+      "visual": "Eskil sits at his tent in the dusk light, suddenly tense. The hairs on the back of his neck prickle beneath his steel collar. His pale eyes are visible through the helm slits, alert and watchful. His hand reaches for his blade.",
+      "dialogue": "",
+      "narration": "The answer arrived at dusk on the following day.",
+      "characters": ["Eskil"],
+      "location": "Merv",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "annotation": "Outrider's shout",
+      "visual": "An outrider's shout shatters the evening calm - 'Rider coming!' The music halts. People stand, hands finding weapons out of instinct. Faces turn toward the road from the east, expressions of alarm and readiness.",
+      "dialogue": "Outrider: \"Rider coming!\"",
+      "narration": "",
+      "characters": [],
+      "location": "Merv",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "annotation": "Horse from gloom",
+      "visual": "On the road from the east, a stalky horse of nomad breeding approaches at a gallop, emerging from the gloom like a specter. Atop it, barely clinging on, is a girl in tatters - dusty, bleeding, clothes in threads. Dog barks frantically at her approach.",
+      "dialogue": "",
+      "narration": "",
+      "characters": ["Earmack", "Dog"],
+      "location": "Merv",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 4,
+      "annotation": "Gan catches her",
+      "visual": "Gan catches Earmack as she slides from the saddle, helping her to a carpet spread on the ground. The girl's bare feet are bloody, her eyes wild with terror. Gan's expression is one of urgent concern as she calls for water.",
+      "dialogue": "Earmack: \"Water... please... water...\"",
+      "narration": "",
+      "characters": ["Gan", "Earmack"],
+      "location": "Merv",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    }
+  ]
+}

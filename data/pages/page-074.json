@@ -1,0 +1,42 @@
+{
+  "page_num": 74,
+  "title": "The Oasis of Merv",
+  "panel_count": 3,
+  "is_spread": false,
+  "layout": "3-top-wide",
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "Wide - Merv establishing",
+      "visual": "Wide establishing shot of the oasis of Merv spreading before the caravan like a dream of water and green after weeks of desert crossing. Palm trees sway in the evening breeze. The great trading hub sprawls across the landscape - caravanserais and markets, mosques and temples, taverns where men of a hundred nations gather. Cook-fires bloom in the gathering dusk.",
+      "dialogue": "",
+      "narration": "The oasis of Merv spread before them like a dream of water and green.",
+      "characters": [],
+      "location": "Merv",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
+    },
+    {
+      "panel_num": 2,
+      "annotation": "Hind's caravan arrives",
+      "visual": "Hind's caravan making camp at the oasis edge, among other merchant trains that cluster like pilgrims around a sacred spring. Camels being unloaded, tents being raised. Hind stands surveying her domain as her people work with practiced efficiency.",
+      "dialogue": "",
+      "narration": "For the first time since Samarkand, they could breathe.",
+      "characters": ["Hind"],
+      "location": "Merv",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "annotation": "Weefred's tavern",
+      "visual": "Weefred the Frankish tavern-keeper sets up his establishment with practiced efficiency - awnings stretched between poles, barrels tapped, cups laid out for the thirsty. Travelers already gathering around, the road having bred their thirst.",
+      "dialogue": "",
+      "narration": "The road bred thirst, and Merv bred opportunity.",
+      "characters": ["Weefred"],
+      "location": "Merv",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    }
+  ]
+}

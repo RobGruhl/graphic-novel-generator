@@ -1,0 +1,31 @@
+{
+  "page_num": 79,
+  "title": "The Warning",
+  "panel_count": 2,
+  "is_spread": false,
+  "layout": "2-horizontal",
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "The Nagini's warning",
+      "visual": "Close view of the Nagini's face as she speaks to Lueduo, her voice the rustle of scales on stone. Her golden eyes hold his with ancient intelligence. Text appears in wisps of serpentine light around her form. Behind her, coils shift in impossible patterns.",
+      "dialogue": "Nagini: \"You spin pretty tales. But you tell lies.\"",
+      "narration": "Protect yourselves from that which is coming. And remember - you owe me a debt.",
+      "characters": ["TheNagini"],
+      "location": "SerpentsRest",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
+    },
+    {
+      "panel_num": 2,
+      "annotation": "Lueduo wakes",
+      "visual": "Lueduo opens his eyes, shaking off the sleep that was not quite sleep. He lies in the tent, alone - the dancer gone, perhaps never there at all. His face is slick with sweat. Through the tent fabric, the sounds of the caravan drift in. His expression shows lingering dread.",
+      "dialogue": "",
+      "narration": "What, exactly, was coming?",
+      "characters": ["Lueduo.Marked"],
+      "location": "Merv",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
+    }
+  ]
+}

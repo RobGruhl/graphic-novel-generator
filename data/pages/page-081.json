@@ -1,0 +1,42 @@
+{
+  "page_num": 81,
+  "title": "Tending the Stranger",
+  "panel_count": 3,
+  "is_spread": false,
+  "layout": "3-bottom-wide",
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "Water and care",
+      "visual": "Gan gives Earmack water, assessing her injuries - scrapes, cuts, bruises, the damage of hard riding and harder circumstances. Nothing life-threatening. The girl drinks desperately, water running down her chin. Her rope-burned wrists tell a story of captivity.",
+      "dialogue": "",
+      "narration": "Whatever she had fled from, she expected it to follow.",
+      "characters": ["Gan", "Earmack"],
+      "location": "Merv",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "annotation": "In Hind's tent",
+      "visual": "Hours later, inside Hind's great tent. The company is gathered close - Hind seated in command, the heroes ranged around her. Earmack sits on cushions, still trembling but able to speak. Gan kneels beside her to interpret. The incense-thick air is charged with tension.",
+      "dialogue": "",
+      "narration": "After a few hours, with food in her belly, she was able to speak.",
+      "characters": ["Hind", "Earmack", "Gan"],
+      "location": "HindsTent",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "annotation": "Wide - the gathering",
+      "visual": "Wide shot of Hind's tent showing the full company gathered to hear Earmack's tale. Firelight and lamplight illuminate their faces - Eskil's helm, Bansi's sharp features, Giovanni's troubled expression, Lueduo still pale from his vision. All eyes are on the battered girl who survived what killed her companions.",
+      "dialogue": "",
+      "narration": "",
+      "characters": ["Hind", "Earmack", "Gan", "Eskil", "Bansi", "Giovanni", "Lueduo"],
+      "location": "HindsTent",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
+    }
+  ]
+}

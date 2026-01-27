@@ -1,0 +1,42 @@
+{
+  "page_num": 76,
+  "title": "The Workers",
+  "panel_count": 3,
+  "is_spread": false,
+  "layout": "3-bottom-wide",
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "Eskil at forge",
+      "visual": "Eskil at his portable forge at the edge of the encampment, the rhythm of hammer on metal steadying him as it always has. The hiss of hot iron in water, the transformation of raw material into something useful. His massive helmed form is silhouetted against the forge-glow.",
+      "dialogue": "",
+      "narration": "The work steadied him. It always had.",
+      "characters": ["Eskil"],
+      "location": "Merv",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 2,
+      "annotation": "Gan with animals",
+      "visual": "Gan on the outskirts checking on the animals, her falcon on her arm, Dog at her side. She moves among the horses and pack animals with practiced care. Dog's hackles rise at something unseen, and Gan pauses, trusting her companion's instincts.",
+      "dialogue": "",
+      "narration": "Dog's hackles still rose at odd moments.",
+      "characters": ["Gan", "Dog"],
+      "location": "Merv",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "annotation": "Wide - Abu-Rayhan's house",
+      "visual": "Wide shot of Abu-Rayhan's house in Merv, a scholar's dwelling among the Persian-influenced buildings of the oasis city. Through a window, Abu-Rayhan can be seen bent over scrolls and maps. Somewhere inside, the amulet rests locked away, waiting for study that none of them are eager to begin.",
+      "dialogue": "",
+      "narration": "The amulet rested there now, locked away, waiting.",
+      "characters": ["AbuRayhan"],
+      "location": "Merv",
+      "aspect_ratio": "16:9",
+      "size": "1536x1024"
+    }
+  ]
+}

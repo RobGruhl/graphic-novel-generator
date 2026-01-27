@@ -1,0 +1,42 @@
+{
+  "page_num": 77,
+  "title": "The Vision Begins",
+  "panel_count": 3,
+  "is_spread": false,
+  "layout": "3-left-tall",
+  "panels": [
+    {
+      "panel_num": 1,
+      "annotation": "Following the dancer",
+      "visual": "Lueduo follows a dancer into a tent at the edge of the festivities - a woman whose movements have caught his eye, whose smile promises diversions of the flesh. The tent's entrance beckons, fabric parted to reveal mysterious darkness within. His expression shows anticipation.",
+      "dialogue": "",
+      "narration": "He had followed a dancer into a tent at the edge of the festivities.",
+      "characters": ["Lueduo"],
+      "location": "Merv",
+      "aspect_ratio": "9:16",
+      "size": "1024x1536"
+    },
+    {
+      "panel_num": 2,
+      "annotation": "The transition",
+      "visual": "Inside the tent, there is a whoosh, a swirl of sparks. Reality seems to bend and twist. Lueduo's expression shifts from anticipation to shock as the world around him dissolves into something else entirely.",
+      "dialogue": "",
+      "narration": "There was a whoosh, a swirl of sparks.",
+      "characters": ["Lueduo"],
+      "location": "Merv",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    },
+    {
+      "panel_num": 3,
+      "annotation": "Somewhere else",
+      "visual": "Lueduo stands in a void of darkness and impossible geometry, stars wheeling in patterns that hurt the mind. He is no longer in the tent. He is somewhere that exists in dimensions he cannot name. His scarves drift as if underwater.",
+      "dialogue": "",
+      "narration": "Suddenly he found himself somewhere else entirely.",
+      "characters": ["Lueduo.Marked"],
+      "location": "SerpentsRest",
+      "aspect_ratio": "3:4",
+      "size": "768x1024"
+    }
+  ]
+}
